@@ -28,7 +28,7 @@ This is Dave Benson's effort to make a comprehensive list of the peaks in LA Cou
 | Parker Mountain | 4131' | 871' | Acton | [caltopo](http://http://caltopo.com/map.html#ll=34.4598,-118.2188&z=12&b=t) |
 | Adobe Mountain | 3458' | 488' | Adobe Mountain | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Vasquez Rocks | 2660' | 160' | Agua Dulce | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
-| Horse Benchmark | 2391' | 371' | Mint Canyon | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
+| Horse Benchmark | 2391' | 371' | Mint Canyon | [caltopo](http://http://caltopo.com/map.html#ll=34.3871,-118.4315&z=12&b=t) |
 | Cruzan Mesa | 2315' | 175' | Mint Canyon | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Alpine Butte | 3259' | 584' | Alpine Butte | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Pt 3166' | 3166' | 386' | Agua Dulce | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
@@ -88,7 +88,7 @@ This is Dave Benson's effort to make a comprehensive list of the peaks in LA Cou
 | Ritter Ridge | 3364' | 144' | Ritter Ridge | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Pt 3838' | 3838' | 298' | Liebre Mountain | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Burnt Peak | 5794' | 2464' | Burnt Peak | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
-| "Liebre Mountain" | 5780' | 80' | Liebre Mountain | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
+| Liebre Mountain | 5780' | 80' | Liebre Mountain | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | McDill, Mount | 5187' | 767' | Sleepy Valley | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Pt 3260' | 3260' | 280' | Sleepy Valley | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Pt 3227' | 3227' | 287' | Green Valley | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
@@ -181,7 +181,7 @@ This is Dave Benson's effort to make a comprehensive list of the peaks in LA Cou
 | Pt 2510' | 2510' | 423' | Triunfo Pass | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Pt 1838' | 1838' | 526' | Triunfo Pass | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Pt 1581' | 1581' | 293' | Calabasas | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
-| "Castle Peak" | 1550' | 40' | Calabasas | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
+| Castle Peak | 1550' | 40' | Calabasas | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Pt 2507' | 2507' | 797' | Point Dume | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Pt 2450' | 2450' | 640' | Point Dume | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Saddle Rock | 2210' | 320' | Point Dume | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
@@ -224,24 +224,24 @@ This is Dave Benson's effort to make a comprehensive list of the peaks in LA Cou
 | Magic Mountain Wilderness HP | 4705' | 245' | Agua Dulce | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Pt 4838' | 4838' | 338' | Sunland | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Mendenhall Ridge | 5260' | 280' | Sunland | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
-| Pinnacle, The | 3836' | 296' | Sunland | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
+| The Pinnacle | 3836' | 296' | Sunland | [caltopo](http://http://caltopo.com/map.html#ll=34.349,-118.3443&z=12&b=t) |
 | Limerock Peak | 2986' | 326' | Sunland | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Sugarloaf | 2100' | 200' | San Fernando | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Kagel Mountain | 3537' | 917' | San Fernando | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Pt 2732' | 2732' | 312' | Sunland | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Yerba Buena Ridge | 3892' | 912' | Sunland | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
-| May Benchmark | 3948' | 328' | San Fernando | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
+| May Benchmark | 3948' | 328' | San Fernando | [caltopo](http://http://caltopo.com/map.html#ll=34.3522,-118.4295&z=12&b=t) |
 | Los Pinetos Peak | 3580' | 480' | San Fernando | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
-| Fernando 2 Benchmark | 4003' | 1320' | San Fernando | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
+| Fernando 2 Benchmark | 4003' | 1320' | San Fernando | [caltopo](http://http://caltopo.com/map.html#ll=34.3532,-118.4186&z=12&b=t) |
 | Contract Point | 3635' | 0' | San Fernando | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
-| Mendenhall Peak | 4660' | 320' | Sunland | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
+| Mendenhall Peak | 4640' | 320' | Sunland | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 # Santa Clara Divide
 | Name | Elevation | Prominence | Map | Link |
 | --- | --- | --- | --- | --- |
 | Pt 5420' | 5420' | 280' | Condor Peak | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Pt 5146' | 5146' | 366' | Condor Peak | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Pacifico Mountain | 7124' | 1563' | Pacifico Mountain | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
-| Gleason, Mount | 6540' | 1640' | Acton | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
+| Mount Gleason | 6540' | 1640' | Acton | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Snow Benchmark | 4949' | 809' | Agua Dulce | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Indian Benchmark | 4542' | 0' | Agua Dulce | [caltopo](http://http://caltopo.com/map.html#ll=34.3943,-118.256&z=12&b=t) |
 | Messenger Peak | 6015' | 195' | Acton | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
@@ -280,7 +280,7 @@ This is Dave Benson's effort to make a comprehensive list of the peaks in LA Cou
 | Pt 4296' | 4296' | 396' | Pacifico Mountain | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Pt 4183' | 4183' | 443' | Palmdale | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Pt 5100' | 5100' | 280' | Pacifico Mountain | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
-| "Old Mount Emma" | 5063' | 243' | Pacifico Mountain | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
+| Old Mount Emma | 5063' | 243' | Pacifico Mountain | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Iron Mountain | 5060' | 320' | Chilao Flat | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Rabbit Peak | 5307' | 207' | Chilao Flat | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Roundtop | 6316' | 216' | Chilao Flat | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
@@ -309,7 +309,7 @@ This is Dave Benson's effort to make a comprehensive list of the peaks in LA Cou
 | Newcomb Peak | 4166' | 186' | Mount Wilson | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Pt 4492' | 4492' | 352' | Mount Wilson | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Brown Mountain | 4466' | 406' | Pasadena | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
-| "Mount Yale" | 4780' | 80' | Mount Wilson | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
+| Mount Yale | 4780' | 80' | Mount Wilson | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Inspiration Point | 4714' | 254' | Mount Wilson | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Muir Peak | 4688' | 188' | Mount Wilson | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Middle Benchmark | 4505' | 405' | Azusa | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
@@ -324,19 +324,19 @@ This is Dave Benson's effort to make a comprehensive list of the peaks in LA Cou
 | CCC Ridge | 3020' | 80' | Condor Peak | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Strawberry Peak | 6164' | 1584' | Chilao Flat | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Lawlor, Mount | 5957' | 737' | Chilao Flat | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
-| "Barley Flats" | 5620' | 160' | Chilao Flat | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
+| Barley Flats | 5620' | 160' | Chilao Flat | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Thorn Benchmark | 5499' | 119' | Chilao Flat | [caltopo](http://http://caltopo.com/map.html#ll=34.2795,-118.0653&z=12&b=t) |
 | Pt 3754' | 3754' | 454' | Glendora | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Bliss, Mount | 3720' | 500' | Azusa | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Van Tassel Ridge | 3136' | 36' | Azusa | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Pt 3685' | 3685' | 305' | Mount Baldy | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
-| Hoyt Mountain | 4404' | 756' | Condor Peak | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
-| Pt 4253' | 4253' | 393' | Condor Peak | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
+| Hoyt Mountain | 4404' | 756' | Condor Peak | [caltopo](http://http://caltopo.com/map.html#ll=34.2695,-118.1774&z=12&b=t) |
+| West Hoyt Mountain | 4253' | 393' | Condor Peak | [caltopo](http://http://caltopo.com/map.html#ll=34.27,-118.1893&z=12&b=t) |
 | Pt 4724' | 4724' | 384' | Chilao Flat | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
-| Clear Creek Point | 4202' | 542' | Condor Peak | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
+| Clear Creek Point | 4202' | 542' | Condor Peak | [caltopo](http://http://caltopo.com/map.html#ll=34.2654,-118.1587&z=12&b=t) |
 | Clamshell Peak | 4380' | 280' | Azusa | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Pt 2675' | 2675' | 295' | Glendora | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
-| "Azusa Peak" | 2081' | 61' | Azusa | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
+| Azusa Peak | 2081' | 61' | Azusa | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 # Angeles Crest Highway High-Country
 | Name | Elevation | Prominence | Map | Link |
 | --- | --- | --- | --- | --- |
@@ -349,19 +349,20 @@ This is Dave Benson's effort to make a comprehensive list of the peaks in LA Cou
 | Throop Peak | 9138' | 598' | Crystal Lake | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Burnham, Mount | 8997' | 177' | Crystal Lake | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Hawkins, Mount | 8850' | 110' | Crystal Lake | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
-| "Middle Hawkins" | 8505' | 205' | Crystal Lake | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
+| Middle Hawkins | 8505' | 205' | Crystal Lake | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Lewis, Mount | 8396' | 493' | Crystal Lake | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Islip, Mount | 8250' | 662' | Crystal Lake | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Williamson, Mount | 8248' | 1588' | Valyermo | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Sadie Hawkins | 8047' | 147' | Crystal Lake | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
-| Waterman Mountain | 8038' | 1418' | Waterman Mountain | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
+| Mt Waterman, Twin Benchmark | 8038' | 1418' | Waterman Mountain | [caltopo](http://http://caltopo.com/map.html#ll=34.3365,-117.9368&z=12&b=t) |
+| Mt Waterman, Waterman Benchmark | 7910' | 90' | Waterman Mountain | [caltopo](http://http://caltopo.com/map.html#ll=34.3374,-117.9291&z=12&b=t) |
 | Pallett Benchmark | 7983' | 1024' | Juniper Hills | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Will Thrall Peak | 7845' | 185' | Juniper Hills | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | South Mount Hawkins | 7783' | 323' | Crystal Lake | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Pallett Mountain | 7780' | 480' | Juniper Hills | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Twin Peaks, East | 7761' | 1221' | Waterman Mountain | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Pt 7580' | 7580' | 280' | Mescal Creek | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
-| "Goodykoontz Peak" | 7558' | 98' | Waterman Mountain | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
+| Goodykoontz Peak | 7558' | 98' | Waterman Mountain | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Kratka Ridge | 7515' | 775' | Waterman Mountain | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Winston Peak | 7502' | 482' | Waterman Mountain | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Copter Ridge | 7499' | 119' | Crystal Lake | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
@@ -369,7 +370,7 @@ This is Dave Benson's effort to make a comprehensive list of the peaks in LA Cou
 | Triplet Rocks | 6151' | 291' | Waterman Mountain | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Chilao Summit | 5580' | 280' | Chilao Flat | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Mooney, Mount | 5860' | 240' | Chilao Flat | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
-| "Mount Hillyer" | 6220' | 320' | Chilao Flat | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
+| Mount Hillyer | 6220' | 320' | Chilao Flat | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Hillyer, Mount | 6162' | 22' | Chilao Flat | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Vetter Mountain | 5908' | 688' | Chilao Flat | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Devil Benchmark | 5870' | 490' | Waterman Mountain | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
@@ -401,7 +402,7 @@ This is Dave Benson's effort to make a comprehensive list of the peaks in LA Cou
 | Ross Mountain | 7402' | 142' | Crystal Lake | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Smith Mountain | 5111' | 811' | Crystal Lake | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Pigeon Ridge | 5780' | 40' | Crystal Lake | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
-| "Bonita Peak" | 3983' | 3' | Mount San Antonio | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
+| Bonita Peak | 3983' | 3' | Mount San Antonio | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Iron Mountain | 8007' | 707' | Mount San Antonio | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Pine Mountain | 4539' | 399' | Azusa | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Pt 4660' | 4660' | 280' | Azusa | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
@@ -460,7 +461,7 @@ This is Dave Benson's effort to make a comprehensive list of the peaks in LA Cou
 | --- | --- | --- | --- | --- |
 | Stony Point | 1287' | 175' | Oat Mountain | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Pt 710' | 710' | 295' | Los Angeles | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
-| "Angels Point" | 670' | 20' | Los Angeles | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
+| Angels Point | 670' | 20' | Los Angeles | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |
 | Elephant Hill | 1170' | 220' | San Dimas | [caltopo](http://http://caltopo.com/map.html#ll=34.0517,-117.797&z=12&b=t) |
 | Pt 1381' | 1381' | 351' | San Dimas | [caltopo](http://http://caltopo.com/map.html#ll=34.0429,-117.7874&z=12&b=t) |
 | South Hills | 1212' | 342' | San Dimas | [caltopo](http://http://caltopo.com/map.html#ll=undefined,undefined&z=12&b=t) |

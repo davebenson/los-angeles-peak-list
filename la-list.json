@@ -342,6 +342,8 @@
                 "source": "loj",
                 "lojIsolation": 2.42,
                 "date": "2015-12-24",
+                "latitude": 34.3871, 
+                "longitude": -118.4315,
                 "quadrangles": [
                     "Mint Canyon"
                 ],
@@ -1156,7 +1158,7 @@
             },
             {
                 "lojID": 160154,
-                "name": "\"Liebre Mountain\"",
+                "name": "Liebre Mountain",
                 "elevation": 5780,
                 "prominence": 80,
                 "source": "loj",
@@ -2434,7 +2436,7 @@
             },
             {
                 "lojID": 160269,
-                "name": "\"Castle Peak\"",
+                "name": "Castle Peak",
                 "elevation": 1550,
                 "prominence": 40,
                 "source": "loj",
@@ -3001,12 +3003,14 @@
             },
             {
                 "lojID": 63259,
-                "name": "Pinnacle, The",
+                "name": "The Pinnacle",
                 "elevation": 3836,
                 "prominence": 296,
                 "source": "loj",
                 "lojIsolation": 1.8,
                 "date": "2014-02-14",
+                "latitude": 34.3490,
+                "longitude": -118.3443,
                 "quadrangles": [
                     "Sunland"
                 ],
@@ -3097,6 +3101,8 @@
                 "source": "loj",
                 "lojIsolation": 0.7,
                 "date": "2016-01-18",
+                "latitude": 34.3522, 
+                "longitude": -118.4295,
                 "quadrangles": [
                     "San Fernando"
                 ],
@@ -3127,6 +3133,8 @@
                 "source": "loj",
                 "lojIsolation": 5.51,
                 "date": "2015-12-26",
+                "latitude": 34.3532,
+                "longitude": -118.4186,
                 "quadrangles": [
                     "San Fernando"
                 ],
@@ -3151,7 +3159,8 @@
             {
                 "lojID": 61664,
                 "name": "Mendenhall Peak",
-                "elevation": 4660,
+                "elevation": 4640,
+                "plus": 40,
                 "prominence": 320,
                 "source": "loj",
                 "lojIsolation": 1.09,
@@ -3215,7 +3224,7 @@
             },
             {
                 "lojID": 58809,
-                "name": "Gleason, Mount",
+                "name": "Mount Gleason",
                 "elevation": 6540,
                 "prominence": 1640,
                 "source": "loj",
@@ -3720,7 +3729,7 @@
             },
             {
                 "lojID": 141025,
-                "name": "\"Old Mount Emma\"",
+                "name": "Old Mount Emma",
                 "elevation": 5063,
                 "prominence": 243,
                 "source": "loj",
@@ -4116,7 +4125,7 @@
             },
             {
                 "lojID": 141132,
-                "name": "\"Mount Yale\"",
+                "name": "Mount Yale",
                 "elevation": 4780,
                 "prominence": 80,
                 "source": "loj",
@@ -4301,7 +4310,7 @@
             },
             {
                 "lojID": 141099,
-                "name": "\"Barley Flats\"",
+                "name": "Barley Flats",
                 "elevation": 5620,
                 "prominence": 160,
                 "source": "loj",
@@ -4398,6 +4407,8 @@
                 "source": "loj",
                 "lojIsolation": 1.75,
                 "date": "2014-01-10",
+                "latitude": 34.2695,
+                "longitude": -118.1774,
                 "quadrangles": [
                     "Condor Peak"
                 ],
@@ -4407,12 +4418,14 @@
             },
             {
                 "lojID": 62414,
-                "name": "Pt 4253'",
+                "name": "West Hoyt Mountain",
                 "elevation": 4253,
                 "prominence": 393,
                 "source": "loj",
                 "lojIsolation": 0.69,
                 "date": "2016-02-09",
+                "latitude": 34.2700, 
+                "longitude": -118.1893,
                 "quadrangles": [
                     "Condor Peak"
                 ],
@@ -4443,6 +4456,8 @@
                 "source": "loj",
                 "lojIsolation": 1.1,
                 "date": "2016-04-21",
+                "latitude": 34.2654, 
+                "longitude": -118.1587,
                 "quadrangles": [
                     "Condor Peak"
                 ],
@@ -4482,7 +4497,7 @@
             },
             {
                 "lojID": 141139,
-                "name": "\"Azusa Peak\"",
+                "name": "Azusa Peak",
                 "elevation": 2081,
                 "prominence": 61,
                 "source": "loj",
@@ -4637,7 +4652,7 @@
             },
             {
                 "lojID": 141023,
-                "name": "\"Middle Hawkins\"",
+                "name": "Middle Hawkins",
                 "elevation": 8505,
                 "prominence": 205,
                 "source": "loj",
@@ -4712,7 +4727,7 @@
             },
             {
                 "lojID": 57428,
-                "name": "Mt Waterman, Twin Benchmark',
+                "name": "Mt Waterman, Twin Benchmark",
                 "elevation": 8038,
                 "prominence": 1418,
                 "source": "loj",
@@ -4721,14 +4736,14 @@
                 "quadrangles": [
                     "Waterman Mountain"
                 ],
-                latitude: 34.3365,
-                longitude: -117.9368,
+                "latitude": 34.3365,
+                "longitude": -117.9368,
                 "counties": [
                     "Los Angeles"
                 ]
             },
             {
-                "name": "Mt Waterman, Waterman Benchmark',
+                "name": "Mt Waterman, Waterman Benchmark",
                 "elevation": 7910,
                 "prominence": 90,
                 "source": "peakbagger",
@@ -4738,8 +4753,8 @@
                 "counties": [
                     "Los Angeles"
                 ],
-                latitude: 34.3374,
-                longitude: -117.9291
+                "latitude": 34.3374,
+                "longitude": -117.9291
             },
             {
                 "lojID": 57461,
@@ -4833,7 +4848,7 @@
             },
             {
                 "lojID": 141083,
-                "name": "\"Goodykoontz Peak\"",
+                "name": "Goodykoontz Peak",
                 "elevation": 7558,
                 "prominence": 98,
                 "source": "loj",
@@ -4953,7 +4968,7 @@
             },
             {
                 "lojID": 59201,
-                "name": "\"Mount Hillyer\"",
+                "name": "Mount Hillyer",
                 "elevation": 6220,
                 "prominence": 320,
                 "source": "loj",
@@ -5353,7 +5368,7 @@
             },
             {
                 "lojID": 141135,
-                "name": "\"Bonita Peak\"",
+                "name": "Bonita Peak",
                 "elevation": 3983,
                 "prominence": 3,
                 "source": "loj",
@@ -5999,7 +6014,7 @@
             },
             {
                 "lojID": 171284,
-                "name": "\"Angels Point\"",
+                "name": "Angels Point",
                 "elevation": 670,
                 "prominence": 20,
                 "source": "loj",
