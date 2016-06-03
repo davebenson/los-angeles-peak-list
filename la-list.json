@@ -4712,7 +4712,7 @@
             },
             {
                 "lojID": 57428,
-                "name": "Waterman Mountain",
+                "name": "Mt Waterman, Twin Benchmark',
                 "elevation": 8038,
                 "prominence": 1418,
                 "source": "loj",
@@ -4721,9 +4721,25 @@
                 "quadrangles": [
                     "Waterman Mountain"
                 ],
+                latitude: 34.3365,
+                longitude: -117.9368,
                 "counties": [
                     "Los Angeles"
                 ]
+            },
+            {
+                "name": "Mt Waterman, Waterman Benchmark',
+                "elevation": 7910,
+                "prominence": 90,
+                "source": "peakbagger",
+                "quadrangles": [
+                    "Waterman Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ],
+                latitude: 34.3374,
+                longitude: -117.9291
             },
             {
                 "lojID": 57461,
