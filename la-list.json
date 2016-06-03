@@ -40,6 +40,8 @@
                 "source": "loj",
                 "lojIsolation": 1.41,
                 "date": "",
+                "latitude": 34.6460,
+                "longitude": -117.8815,
                 "quadrangles": [
                     "Hi Vista"
                 ],
@@ -100,6 +102,8 @@
                 "source": "loj",
                 "lojIsolation": 1.55,
                 "date": "",
+                "latitude": 34.5400,
+                "longitude": -117.7050,
                 "quadrangles": [
                     "El Mirage"
                 ],
@@ -115,6 +119,8 @@
                 "source": "loj",
                 "lojIsolation": 1.66,
                 "date": "",
+                "latitude": 34.5367,
+                "longitude": -117.7071,
                 "quadrangles": [
                     "El Mirage"
                 ],
@@ -130,6 +136,8 @@
                 "source": "loj",
                 "lojIsolation": 1.75,
                 "date": "",
+                "latitude":     34.5341,
+                "longitude": -117.7093,
                 "quadrangles": [
                     "El Mirage"
                 ],
@@ -215,11 +223,14 @@
             {
                 "lojID": 64379,
                 "name": "Lovejoy Buttes",
-                "elevation": 3343,
+                "elevation": 3340,
+                "plus": 5,
                 "prominence": 568,
                 "source": "loj",
                 "lojIsolation": 6.55,
                 "date": "",
+                "latitude":     34.5962,
+                "longitude": -117.8600,
                 "quadrangles": [
                     "Lovejoy Buttes"
                 ],
@@ -374,6 +385,8 @@
                 "source": "loj",
                 "lojIsolation": 3.26,
                 "date": "",
+                "latitude": 34.6311,
+                "longitude": -117.8986,
                 "quadrangles": [
                     "Alpine Butte"
                 ],
@@ -414,11 +427,13 @@
             {
                 "lojID": 63660,
                 "name": "Saddleback Butte",
-                "elevation": 3654,
+                "elevation": 3651,
                 "prominence": 719,
                 "source": "loj",
                 "lojIsolation": 12.88,
                 "date": "",
+                "latitude": 34.6760,
+                "longitude": -117.7983,
                 "quadrangles": [
                     "Hi Vista"
                 ],
@@ -464,6 +479,8 @@
                 "source": "loj",
                 "lojIsolation": 9.3,
                 "date": "",
+                "latitude": 34.5567,
+                "longitude": -117.7230,
                 "quadrangles": [
                     "El Mirage"
                 ],
@@ -1149,6 +1166,8 @@
                 "source": "loj",
                 "lojIsolation": 14.57,
                 "date": "2012-03-11",
+                "latitude": 34.6828,
+                "longitude": -118.5762,
                 "quadrangles": [
                     "Burnt Peak"
                 ],
@@ -1179,6 +1198,8 @@
                 "source": "loj",
                 "lojIsolation": 2.9,
                 "date": "2010-12-04",
+                "latitude": 34.5663, 
+                "longitude": -118.2753,
                 "quadrangles": [
                     "Sleepy Valley"
                 ],
@@ -1209,6 +1230,8 @@
                 "source": "loj",
                 "lojIsolation": 2.09,
                 "date": "",
+                "latitude": 34.5873, 
+                "longitude": -118.4813,
                 "quadrangles": [
                     "Green Valley"
                 ],
@@ -1239,6 +1262,8 @@
                 "source": "loj",
                 "lojIsolation": 3.07,
                 "date": "",
+                "latitude": 34.5955,
+                "longitude": -118.5797,
                 "quadrangles": [
                     "Warm Springs Mountain"
                 ],
@@ -1254,6 +1279,8 @@
                 "source": "loj",
                 "lojIsolation": 3.27,
                 "date": "",
+                "latitude": 34.5866, 
+                "longitude": -118.5240,
                 "quadrangles": [
                     "Warm Springs Mountain"
                 ],
@@ -1299,6 +1326,8 @@
                 "source": "loj",
                 "lojIsolation": 4.63,
                 "date": "",
+                "latitude": 34.5609, 
+                "longitude": -118.3561,
                 "quadrangles": [
                     "Sleepy Valley"
                 ],
@@ -1419,6 +1448,8 @@
                 "source": "loj",
                 "lojIsolation": 4.08,
                 "date": "",
+                "latitude": 34.5258,
+                "longitude": -118.1642,
                 "quadrangles": [
                     "Ritter Ridge"
                 ],
@@ -1674,6 +1705,8 @@
                 "source": "loj",
                 "lojIsolation": 0.43,
                 "date": "",
+                "latitude": 34.6887,
+                "longitude": -118.5769,
                 "quadrangles": [
                     "Burnt Peak"
                 ],
@@ -1841,6 +1874,8 @@
                 "source": "loj",
                 "lojIsolation": 2.44,
                 "date": "2016-02-07",
+                "latitude": 34.5997,
+                "longitude": -118.3980,
                 "quadrangles": [
                     "Green Valley"
                 ],
@@ -1856,6 +1891,8 @@
                 "source": "loj",
                 "lojIsolation": 0.93,
                 "date": "2016-02-07",
+                "latitude": 34.6064,
+                "longitude": -118.4124,
                 "quadrangles": [
                     "Green Valley"
                 ],
@@ -1871,6 +1908,8 @@
                 "source": "loj",
                 "lojIsolation": 1.91,
                 "date": "",
+                "latitude": 34.6148,
+                "longitude": -118.4658,
                 "quadrangles": [
                     "Green Valley"
                 ],
@@ -1886,6 +1925,8 @@
                 "source": "loj",
                 "lojIsolation": 2.4,
                 "date": "",
+                "latitude": 34.5670,
+                "longitude": -118.4128,
                 "quadrangles": [
                     "Green Valley"
                 ],
@@ -1901,6 +1942,8 @@
                 "source": "loj",
                 "lojIsolation": 2.51,
                 "date": "",
+                "latitude": 34.5490,
+                "longitude": -118.4509,
                 "quadrangles": [
                     "Green Valley"
                 ],
@@ -2571,12 +2614,15 @@
             },
             {
                 "lojID": 60708,
-                "name": "Sierra Pelona",
-                "elevation": 5220,
+                "name": "Odell Benchmark",
+                "altName": "Sierra Pelona HP",
+                "elevation": 5217,
                 "prominence": 1840,
                 "source": "loj",
                 "lojIsolation": 10.94,
                 "date": "",
+                "latitude": 34.5433,
+                "longitude": -118.2348,
                 "quadrangles": [
                     "Ritter Ridge"
                 ],
@@ -3714,12 +3760,15 @@
             },
             {
                 "lojID": 60906,
-                "name": "Pt 5100'",
-                "elevation": 5100,
+                "name": "Middle-Aged Emma",
+                "elevation": 5080,
+                "plus": 40,
                 "prominence": 280,
                 "source": "loj",
                 "lojIsolation": 0.86,
                 "date": "2008-01-19",
+                "latitude": 34.4682,
+                "longitude": -118.0573,
                 "quadrangles": [
                     "Pacifico Mountain"
                 ],
