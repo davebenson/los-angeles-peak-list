@@ -1,0 +1,6325 @@
+[
+    {
+        "name": "Antelope Valley",
+        "peaks": [
+            {
+                "lojID": 64407,
+                "elevation": 3334,
+                "prominence": 344,
+                "source": "loj",
+                "lojIsolation": 4.98,
+                "date": "",
+                "quadrangles": [
+                    "Jackrabbit Hill"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 65555,
+                "elevation": 2845,
+                "prominence": 20,
+                "source": "loj",
+                "lojIsolation": 0.81,
+                "date": "",
+                "quadrangles": [
+                    "Hi Vista"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 65610,
+                "elevation": 2825,
+                "prominence": 218,
+                "source": "loj",
+                "lojIsolation": 1.41,
+                "date": "",
+                "quadrangles": [
+                    "Hi Vista"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 59365,
+                "elevation": 6103,
+                "prominence": 283,
+                "source": "loj",
+                "lojIsolation": 0.62,
+                "date": "",
+                "quadrangles": [
+                    "Juniper Hills"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 66038,
+                "elevation": 2670,
+                "prominence": 143,
+                "source": "loj",
+                "lojIsolation": 5.47,
+                "date": "",
+                "quadrangles": [
+                    "Lancaster West"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 65051,
+                "elevation": 3060,
+                "prominence": 281,
+                "source": "loj",
+                "lojIsolation": 1.64,
+                "date": "",
+                "quadrangles": [
+                    "Lake Hughes"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64186,
+                "elevation": 3422,
+                "prominence": 297,
+                "source": "loj",
+                "lojIsolation": 1.55,
+                "date": "",
+                "quadrangles": [
+                    "El Mirage"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64466,
+                "elevation": 3306,
+                "prominence": 151,
+                "source": "loj",
+                "lojIsolation": 1.66,
+                "date": "",
+                "quadrangles": [
+                    "El Mirage"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64600,
+                "elevation": 3255,
+                "prominence": 120,
+                "source": "loj",
+                "lojIsolation": 1.75,
+                "date": "",
+                "quadrangles": [
+                    "El Mirage"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 66301,
+                "elevation": 2572,
+                "prominence": 105,
+                "source": "loj",
+                "lojIsolation": 6.09,
+                "date": "",
+                "quadrangles": [
+                    "Little Buttes"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63559,
+                "elevation": 3700,
+                "prominence": 280,
+                "source": "loj",
+                "lojIsolation": 1.28,
+                "date": "",
+                "quadrangles": [
+                    "Agua Dulce"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 152985,
+                "elevation": 3277,
+                "prominence": 297,
+                "source": "loj",
+                "lojIsolation": 2,
+                "date": "",
+                "quadrangles": [
+                    "Agua Dulce"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64934,
+                "elevation": 3101,
+                "prominence": 281,
+                "source": "loj",
+                "lojIsolation": 1.33,
+                "date": "",
+                "quadrangles": [
+                    "Agua Dulce"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 65847,
+                "elevation": 2740,
+                "prominence": 280,
+                "source": "loj",
+                "lojIsolation": 1.7,
+                "date": "",
+                "quadrangles": [
+                    "Agua Dulce"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64379,
+                "elevation": 3343,
+                "prominence": 568,
+                "source": "loj",
+                "lojIsolation": 6.55,
+                "date": "",
+                "quadrangles": [
+                    "Lovejoy Buttes"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": null,
+                "elevation": 3020,
+                "prominence": 160,
+                "source": "loj",
+                "lojIsolation": 0.92,
+                "date": "",
+                "quadrangles": [
+                    "Agua Dulce"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 65139,
+                "elevation": 3020,
+                "prominence": 160,
+                "source": "loj",
+                "lojIsolation": 0.92,
+                "date": "",
+                "quadrangles": [
+                    "Agua Dulce"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": null,
+                "elevation": 3020,
+                "prominence": 160,
+                "source": "loj",
+                "lojIsolation": 0.92,
+                "date": "",
+                "quadrangles": [
+                    "Agua Dulce"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 65562,
+                "elevation": 2843,
+                "prominence": 503,
+                "source": "loj",
+                "lojIsolation": 1.26,
+                "date": "2015-12-24",
+                "quadrangles": [
+                    "Agua Dulce"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62637,
+                "elevation": 4131,
+                "prominence": 871,
+                "source": "loj",
+                "lojIsolation": 5.36,
+                "date": "",
+                "latitude": 34.4598,
+                "longitude": -118.2188,
+                "quadrangles": [
+                    "Acton"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64128,
+                "elevation": 3458,
+                "prominence": 488,
+                "source": "loj",
+                "lojIsolation": 5.51,
+                "date": "",
+                "quadrangles": [
+                    "Adobe Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 66073,
+                "elevation": 2660,
+                "prominence": 160,
+                "source": "loj",
+                "lojIsolation": 0.46,
+                "date": "2015-06-14",
+                "quadrangles": [
+                    "Agua Dulce"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 66756,
+                "elevation": 2391,
+                "prominence": 371,
+                "source": "loj",
+                "lojIsolation": 2.42,
+                "date": "2015-12-24",
+                "quadrangles": [
+                    "Mint Canyon"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 66960,
+                "elevation": 2315,
+                "prominence": 175,
+                "source": "loj",
+                "lojIsolation": 1.02,
+                "date": "2016-02-15",
+                "quadrangles": [
+                    "Mint Canyon"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64592,
+                "elevation": 3259,
+                "prominence": 584,
+                "source": "loj",
+                "lojIsolation": 3.26,
+                "date": "",
+                "quadrangles": [
+                    "Alpine Butte"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64750,
+                "elevation": 3166,
+                "prominence": 386,
+                "source": "loj",
+                "lojIsolation": 2.62,
+                "date": "2016-02-27",
+                "quadrangles": [
+                    "Agua Dulce"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 65635,
+                "elevation": 2820,
+                "prominence": 320,
+                "source": "loj",
+                "lojIsolation": 1.83,
+                "date": "2015-06-14",
+                "quadrangles": [
+                    "Agua Dulce"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63660,
+                "elevation": 3654,
+                "prominence": 719,
+                "source": "loj",
+                "lojIsolation": 12.88,
+                "date": "",
+                "quadrangles": [
+                    "Hi Vista"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64420,
+                "elevation": 3328,
+                "prominence": 333,
+                "source": "loj",
+                "lojIsolation": 2.29,
+                "date": "",
+                "quadrangles": [
+                    "Hi Vista"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64771,
+                "elevation": 3175,
+                "prominence": 600,
+                "source": "loj",
+                "lojIsolation": 3.24,
+                "date": "",
+                "quadrangles": [
+                    "Hi Vista"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63829,
+                "elevation": 3581,
+                "prominence": 536,
+                "source": "loj",
+                "lojIsolation": 9.3,
+                "date": "",
+                "quadrangles": [
+                    "El Mirage"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 59463,
+                "elevation": 6020,
+                "prominence": 560,
+                "source": "loj",
+                "lojIsolation": 2.84,
+                "date": "",
+                "quadrangles": [
+                    "Acton"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 152977,
+                "elevation": 5279,
+                "prominence": 339,
+                "source": "loj",
+                "lojIsolation": 1.49,
+                "date": "",
+                "quadrangles": [
+                    "Acton"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63112,
+                "elevation": 3900,
+                "prominence": 400,
+                "source": "loj",
+                "lojIsolation": 1.45,
+                "date": "",
+                "quadrangles": [
+                    "Acton"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63308,
+                "elevation": 3819,
+                "prominence": 519,
+                "source": "loj",
+                "lojIsolation": 2.23,
+                "date": "",
+                "quadrangles": [
+                    "Acton"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63361,
+                "elevation": 3788,
+                "prominence": 528,
+                "source": "loj",
+                "lojIsolation": 1.07,
+                "date": "",
+                "quadrangles": [
+                    "Acton"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63368,
+                "elevation": 3784,
+                "prominence": 524,
+                "source": "loj",
+                "lojIsolation": 1.25,
+                "date": "",
+                "quadrangles": [
+                    "Acton"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63644,
+                "elevation": 3660,
+                "prominence": 320,
+                "source": "loj",
+                "lojIsolation": 1.42,
+                "date": "",
+                "quadrangles": [
+                    "Acton"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64196,
+                "elevation": 3420,
+                "prominence": 320,
+                "source": "loj",
+                "lojIsolation": 1.34,
+                "date": "",
+                "quadrangles": [
+                    "Acton"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62813,
+                "elevation": 4054,
+                "prominence": 754,
+                "source": "loj",
+                "lojIsolation": 2.46,
+                "date": "",
+                "quadrangles": [
+                    "Agua Dulce"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63140,
+                "elevation": 3897,
+                "prominence": 477,
+                "source": "loj",
+                "lojIsolation": 1.02,
+                "date": "",
+                "quadrangles": [
+                    "Agua Dulce"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63702,
+                "elevation": 3636,
+                "prominence": 456,
+                "source": "loj",
+                "lojIsolation": 1.26,
+                "date": "",
+                "quadrangles": [
+                    "Agua Dulce"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 65558,
+                "elevation": 2844,
+                "prominence": 424,
+                "source": "loj",
+                "lojIsolation": 1.88,
+                "date": "",
+                "quadrangles": [
+                    "Agua Dulce"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tejon Pass / I-5 Area",
+        "peaks": [
+            {
+                "lojID": 64926,
+                "elevation": 3105,
+                "prominence": 285,
+                "source": "loj",
+                "lojIsolation": 1.11,
+                "date": "",
+                "quadrangles": [
+                    "Whitaker Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 65945,
+                "elevation": 2700,
+                "prominence": 280,
+                "source": "loj",
+                "lojIsolation": 2.72,
+                "date": "",
+                "quadrangles": [
+                    "Whitaker Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 140686,
+                "elevation": 3119,
+                "prominence": 299,
+                "source": "loj",
+                "lojIsolation": 1.23,
+                "date": "",
+                "quadrangles": [
+                    "San Fernando"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 66460,
+                "elevation": 2511,
+                "prominence": 24,
+                "source": "loj",
+                "lojIsolation": 2.73,
+                "date": "",
+                "quadrangles": [
+                    "Oat Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 68236,
+                "elevation": 1829,
+                "prominence": 292,
+                "source": "loj",
+                "lojIsolation": 3.13,
+                "date": "",
+                "quadrangles": [
+                    "Oat Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 66701,
+                "elevation": 2420,
+                "prominence": 160,
+                "source": "loj",
+                "lojIsolation": 0.95,
+                "date": "",
+                "quadrangles": [
+                    "Black Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62606,
+                "elevation": 4148,
+                "prominence": 1128,
+                "source": "loj",
+                "lojIsolation": 4.86,
+                "date": "",
+                "quadrangles": [
+                    "Whitaker Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63364,
+                "elevation": 3786,
+                "prominence": 326,
+                "source": "loj",
+                "lojIsolation": 2.99,
+                "date": "",
+                "quadrangles": [
+                    "Whitaker Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64979,
+                "elevation": 3086,
+                "prominence": 386,
+                "source": "loj",
+                "lojIsolation": 1.43,
+                "date": "",
+                "quadrangles": [
+                    "Whitaker Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 65706,
+                "elevation": 2787,
+                "prominence": 327,
+                "source": "loj",
+                "lojIsolation": 0.83,
+                "date": "",
+                "quadrangles": [
+                    "Whitaker Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 67073,
+                "elevation": 2265,
+                "prominence": 445,
+                "source": "loj",
+                "lojIsolation": 1.81,
+                "date": "",
+                "quadrangles": [
+                    "Whitaker Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 140664,
+                "elevation": 2189,
+                "prominence": 329,
+                "source": "loj",
+                "lojIsolation": 0.76,
+                "date": "",
+                "quadrangles": [
+                    "Whitaker Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 152987,
+                "elevation": 1981,
+                "prominence": 331,
+                "source": "loj",
+                "lojIsolation": 3.65,
+                "date": "",
+                "quadrangles": [
+                    "Newhall"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64739,
+                "elevation": 3184,
+                "prominence": 604,
+                "source": "loj",
+                "lojIsolation": 2.6,
+                "date": "2016-02-14",
+                "quadrangles": [
+                    "Whitaker Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64185,
+                "elevation": 3424,
+                "prominence": 324,
+                "source": "loj",
+                "lojIsolation": 2.99,
+                "date": "2016-02-14",
+                "quadrangles": [
+                    "Whitaker Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62863,
+                "elevation": 4020,
+                "prominence": 560,
+                "source": "loj",
+                "lojIsolation": 1.45,
+                "date": "2016-01-17",
+                "quadrangles": [
+                    "Whitaker Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64964,
+                "elevation": 3096,
+                "prominence": 308,
+                "source": "loj",
+                "lojIsolation": 1.61,
+                "date": "2016-02-14",
+                "quadrangles": [
+                    "Whitaker Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 61718,
+                "elevation": 4631,
+                "prominence": 611,
+                "source": "loj",
+                "lojIsolation": 2.78,
+                "date": "2013-12-08",
+                "quadrangles": [
+                    "Black Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62944,
+                "elevation": 3980,
+                "prominence": 400,
+                "source": "loj",
+                "lojIsolation": 1.42,
+                "date": "",
+                "quadrangles": [
+                    "Black Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63069,
+                "elevation": 3929,
+                "prominence": 389,
+                "source": "loj",
+                "lojIsolation": 1.01,
+                "date": "",
+                "quadrangles": [
+                    "Black Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63798,
+                "elevation": 3598,
+                "prominence": 378,
+                "source": "loj",
+                "lojIsolation": 3.02,
+                "date": "",
+                "quadrangles": [
+                    "Black Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64195,
+                "elevation": 3420,
+                "prominence": 360,
+                "source": "loj",
+                "lojIsolation": 0.79,
+                "date": "",
+                "quadrangles": [
+                    "Black Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64391,
+                "elevation": 3340,
+                "prominence": 360,
+                "source": "loj",
+                "lojIsolation": 0.47,
+                "date": "",
+                "quadrangles": [
+                    "Black Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64853,
+                "elevation": 3140,
+                "prominence": 320,
+                "source": "loj",
+                "lojIsolation": 1.06,
+                "date": "",
+                "quadrangles": [
+                    "Black Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64829,
+                "elevation": 3148,
+                "prominence": 448,
+                "source": "loj",
+                "lojIsolation": 1.76,
+                "date": "",
+                "quadrangles": [
+                    "Cobblestone Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 61246,
+                "elevation": 4906,
+                "prominence": 726,
+                "source": "loj",
+                "lojIsolation": 5.2,
+                "date": "",
+                "quadrangles": [
+                    "Lebec"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 61288,
+                "elevation": 4872,
+                "prominence": 332,
+                "source": "loj",
+                "lojIsolation": 2.68,
+                "date": "",
+                "quadrangles": [
+                    "Lebec"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 61515,
+                "elevation": 4740,
+                "prominence": 360,
+                "source": "loj",
+                "lojIsolation": 1.77,
+                "date": "",
+                "quadrangles": [
+                    "Lebec"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Northwest Angeles National Monument",
+        "peaks": [
+            {
+                "lojID": 152983,
+                "elevation": 3980,
+                "prominence": 290,
+                "source": "loj",
+                "lojIsolation": 3.63,
+                "date": "",
+                "quadrangles": [
+                    "Liebre Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64759,
+                "elevation": 3180,
+                "prominence": 280,
+                "source": "loj",
+                "lojIsolation": 2.77,
+                "date": "",
+                "quadrangles": [
+                    "Mint Canyon"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64342,
+                "elevation": 3364,
+                "prominence": 144,
+                "source": "loj",
+                "lojIsolation": 4.44,
+                "date": "",
+                "quadrangles": [
+                    "Ritter Ridge"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63256,
+                "elevation": 3838,
+                "prominence": 298,
+                "source": "loj",
+                "lojIsolation": 1.83,
+                "date": "",
+                "quadrangles": [
+                    "Liebre Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 17258,
+                "elevation": 5794,
+                "prominence": 2464,
+                "source": "loj",
+                "lojIsolation": 14.57,
+                "date": "2012-03-11",
+                "quadrangles": [
+                    "Burnt Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 160154,
+                "elevation": 5780,
+                "prominence": 80,
+                "source": "loj",
+                "lojIsolation": 0.68,
+                "date": "2007-10-20",
+                "quadrangles": [
+                    "Liebre Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 60759,
+                "elevation": 5187,
+                "prominence": 767,
+                "source": "loj",
+                "lojIsolation": 2.9,
+                "date": "2010-12-04",
+                "quadrangles": [
+                    "Sleepy Valley"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64583,
+                "elevation": 3260,
+                "prominence": 280,
+                "source": "loj",
+                "lojIsolation": 0.98,
+                "date": "",
+                "quadrangles": [
+                    "Sleepy Valley"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64656,
+                "elevation": 3227,
+                "prominence": 287,
+                "source": "loj",
+                "lojIsolation": 2.09,
+                "date": "",
+                "quadrangles": [
+                    "Green Valley"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 66601,
+                "elevation": 2460,
+                "prominence": 40,
+                "source": "loj",
+                "lojIsolation": 2.11,
+                "date": "",
+                "quadrangles": [
+                    "Green Valley"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62862,
+                "elevation": 4020,
+                "prominence": 1120,
+                "source": "loj",
+                "lojIsolation": 3.07,
+                "date": "",
+                "quadrangles": [
+                    "Warm Springs Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62915,
+                "elevation": 3996,
+                "prominence": 936,
+                "source": "loj",
+                "lojIsolation": 3.27,
+                "date": "",
+                "quadrangles": [
+                    "Warm Springs Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 66753,
+                "elevation": 2392,
+                "prominence": 372,
+                "source": "loj",
+                "lojIsolation": 1.93,
+                "date": "",
+                "quadrangles": [
+                    "Warm Springs Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 66856,
+                "elevation": 2356,
+                "prominence": 376,
+                "source": "loj",
+                "lojIsolation": 0.71,
+                "date": "",
+                "quadrangles": [
+                    "Warm Springs Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 61333,
+                "elevation": 4850,
+                "prominence": 350,
+                "source": "loj",
+                "lojIsolation": 4.63,
+                "date": "",
+                "quadrangles": [
+                    "Sleepy Valley"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 61778,
+                "elevation": 4593,
+                "prominence": 893,
+                "source": "loj",
+                "lojIsolation": 3.11,
+                "date": "",
+                "quadrangles": [
+                    "Sleepy Valley"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 61872,
+                "elevation": 4541,
+                "prominence": 521,
+                "source": "loj",
+                "lojIsolation": 3.16,
+                "date": "",
+                "quadrangles": [
+                    "Sleepy Valley"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62020,
+                "elevation": 4474,
+                "prominence": 414,
+                "source": "loj",
+                "lojIsolation": 1.61,
+                "date": "",
+                "quadrangles": [
+                    "Sleepy Valley"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63229,
+                "elevation": 3853,
+                "prominence": 553,
+                "source": "loj",
+                "lojIsolation": 2.13,
+                "date": "",
+                "quadrangles": [
+                    "Sleepy Valley"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63353,
+                "elevation": 3791,
+                "prominence": 411,
+                "source": "loj",
+                "lojIsolation": 2.74,
+                "date": "",
+                "quadrangles": [
+                    "Sleepy Valley"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63366,
+                "elevation": 3785,
+                "prominence": 365,
+                "source": "loj",
+                "lojIsolation": 1.46,
+                "date": "",
+                "quadrangles": [
+                    "Sleepy Valley"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64801,
+                "elevation": 3166,
+                "prominence": 426,
+                "source": "loj",
+                "lojIsolation": 3.13,
+                "date": "",
+                "quadrangles": [
+                    "Sleepy Valley"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 61546,
+                "elevation": 4725,
+                "prominence": 545,
+                "source": "loj",
+                "lojIsolation": 4.08,
+                "date": "",
+                "quadrangles": [
+                    "Ritter Ridge"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62785,
+                "elevation": 4065,
+                "prominence": 325,
+                "source": "loj",
+                "lojIsolation": 2.06,
+                "date": "",
+                "quadrangles": [
+                    "Ritter Ridge"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63483,
+                "elevation": 3730,
+                "prominence": 310,
+                "source": "loj",
+                "lojIsolation": 0.61,
+                "date": "",
+                "quadrangles": [
+                    "Ritter Ridge"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63807,
+                "elevation": 3589,
+                "prominence": 369,
+                "source": "loj",
+                "lojIsolation": 2.03,
+                "date": "",
+                "quadrangles": [
+                    "Ritter Ridge"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 152984,
+                "elevation": 3260,
+                "prominence": 320,
+                "source": "loj",
+                "lojIsolation": 3.47,
+                "date": "",
+                "quadrangles": [
+                    "Ritter Ridge"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64965,
+                "elevation": 3094,
+                "prominence": 594,
+                "source": "loj",
+                "lojIsolation": 3.55,
+                "date": "",
+                "quadrangles": [
+                    "Mint Canyon"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 152464,
+                "elevation": 2420,
+                "prominence": 400,
+                "source": "loj",
+                "lojIsolation": 4.19,
+                "date": "",
+                "quadrangles": [
+                    "Mint Canyon"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 61761,
+                "elevation": 4605,
+                "prominence": 985,
+                "source": "loj",
+                "lojIsolation": 6.44,
+                "date": "2016-02-07",
+                "quadrangles": [
+                    "Lake Hughes"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 61955,
+                "elevation": 4501,
+                "prominence": 601,
+                "source": "loj",
+                "lojIsolation": 2.88,
+                "date": "",
+                "quadrangles": [
+                    "Lake Hughes"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 152982,
+                "elevation": 4260,
+                "prominence": 360,
+                "source": "loj",
+                "lojIsolation": 1.1,
+                "date": "",
+                "quadrangles": [
+                    "Lake Hughes"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62496,
+                "elevation": 4215,
+                "prominence": 355,
+                "source": "loj",
+                "lojIsolation": 1.17,
+                "date": "",
+                "quadrangles": [
+                    "Lake Hughes"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62782,
+                "elevation": 4087,
+                "prominence": 347,
+                "source": "loj",
+                "lojIsolation": 0.75,
+                "date": "",
+                "quadrangles": [
+                    "Lake Hughes"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63018,
+                "elevation": 3952,
+                "prominence": 412,
+                "source": "loj",
+                "lojIsolation": 2.35,
+                "date": "",
+                "quadrangles": [
+                    "Lake Hughes"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64808,
+                "elevation": 3163,
+                "prominence": 408,
+                "source": "loj",
+                "lojIsolation": 5.13,
+                "date": "",
+                "quadrangles": [
+                    "Lake Hughes"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62895,
+                "elevation": 4007,
+                "prominence": 547,
+                "source": "loj",
+                "lojIsolation": 2.84,
+                "date": "",
+                "quadrangles": [
+                    "Del Sur"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 61999,
+                "elevation": 4486,
+                "prominence": 386,
+                "source": "loj",
+                "lojIsolation": 2.03,
+                "date": "",
+                "quadrangles": [
+                    "Burnt Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 59927,
+                "elevation": 5726,
+                "prominence": 346,
+                "source": "loj",
+                "lojIsolation": 2.6,
+                "date": "",
+                "quadrangles": [
+                    "Burnt Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 60266,
+                "elevation": 5500,
+                "prominence": 120,
+                "source": "loj",
+                "lojIsolation": 0.43,
+                "date": "",
+                "quadrangles": [
+                    "Burnt Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62879,
+                "elevation": 4020,
+                "prominence": 40,
+                "source": "loj",
+                "lojIsolation": 2.85,
+                "date": "",
+                "quadrangles": [
+                    "Burnt Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 60242,
+                "elevation": 5514,
+                "prominence": 374,
+                "source": "loj",
+                "lojIsolation": 1.15,
+                "date": "",
+                "quadrangles": [
+                    "Burnt Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 60296,
+                "elevation": 5482,
+                "prominence": 342,
+                "source": "loj",
+                "lojIsolation": 1.17,
+                "date": "",
+                "quadrangles": [
+                    "Burnt Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 60709,
+                "elevation": 5220,
+                "prominence": 560,
+                "source": "loj",
+                "lojIsolation": 1.73,
+                "date": "",
+                "quadrangles": [
+                    "Burnt Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62394,
+                "elevation": 4260,
+                "prominence": 480,
+                "source": "loj",
+                "lojIsolation": 2.06,
+                "date": "",
+                "quadrangles": [
+                    "Burnt Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62669,
+                "elevation": 4119,
+                "prominence": 339,
+                "source": "loj",
+                "lojIsolation": 1.17,
+                "date": "",
+                "quadrangles": [
+                    "Burnt Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63381,
+                "elevation": 3780,
+                "prominence": 320,
+                "source": "loj",
+                "lojIsolation": 1,
+                "date": "",
+                "quadrangles": [
+                    "Burnt Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 141134,
+                "elevation": 3991,
+                "prominence": 51,
+                "source": "loj",
+                "lojIsolation": 1.35,
+                "date": "2016-01-16",
+                "quadrangles": [
+                    "Liebre Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 61961,
+                "elevation": 4489,
+                "prominence": 680,
+                "source": "loj",
+                "lojIsolation": 2.86,
+                "date": "2016-01-16",
+                "latitude": 34.6589,
+                "longitude": -118.6398,
+                "quadrangles": [
+                    "Liebre Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63165,
+                "elevation": 3884,
+                "prominence": 344,
+                "source": "loj",
+                "lojIsolation": 2.3,
+                "date": "2016-02-07",
+                "quadrangles": [
+                    "Del Sur"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 61975,
+                "elevation": 4498,
+                "prominence": 1077,
+                "source": "loj",
+                "lojIsolation": 2.44,
+                "date": "2016-02-07",
+                "quadrangles": [
+                    "Green Valley"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62095,
+                "elevation": 4431,
+                "prominence": 331,
+                "source": "loj",
+                "lojIsolation": 0.93,
+                "date": "2016-02-07",
+                "quadrangles": [
+                    "Green Valley"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62129,
+                "elevation": 4416,
+                "prominence": 636,
+                "source": "loj",
+                "lojIsolation": 1.91,
+                "date": "",
+                "quadrangles": [
+                    "Green Valley"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63521,
+                "elevation": 3717,
+                "prominence": 697,
+                "source": "loj",
+                "lojIsolation": 2.4,
+                "date": "",
+                "quadrangles": [
+                    "Green Valley"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63704,
+                "elevation": 3635,
+                "prominence": 375,
+                "source": "loj",
+                "lojIsolation": 2.51,
+                "date": "",
+                "quadrangles": [
+                    "Green Valley"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63717,
+                "elevation": 3626,
+                "prominence": 326,
+                "source": "loj",
+                "lojIsolation": 1.55,
+                "date": "",
+                "quadrangles": [
+                    "Green Valley"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63852,
+                "elevation": 3578,
+                "prominence": 318,
+                "source": "loj",
+                "lojIsolation": 1.08,
+                "date": "",
+                "quadrangles": [
+                    "Green Valley"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 65900,
+                "elevation": 2714,
+                "prominence": 334,
+                "source": "loj",
+                "lojIsolation": 1.62,
+                "date": "",
+                "quadrangles": [
+                    "Green Valley"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 59825,
+                "elevation": 5783,
+                "prominence": 1083,
+                "source": "loj",
+                "lojIsolation": 5.53,
+                "date": "",
+                "quadrangles": [
+                    "Liebre Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 61877,
+                "elevation": 4540,
+                "prominence": 520,
+                "source": "loj",
+                "lojIsolation": 4.07,
+                "date": "",
+                "quadrangles": [
+                    "Liebre Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62076,
+                "elevation": 4442,
+                "prominence": 422,
+                "source": "loj",
+                "lojIsolation": 0.65,
+                "date": "",
+                "quadrangles": [
+                    "Liebre Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62961,
+                "elevation": 3974,
+                "prominence": 474,
+                "source": "loj",
+                "lojIsolation": 3.44,
+                "date": "",
+                "quadrangles": [
+                    "Liebre Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64113,
+                "elevation": 3460,
+                "prominence": 480,
+                "source": "loj",
+                "lojIsolation": 1.66,
+                "date": "",
+                "quadrangles": [
+                    "Liebre Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 65007,
+                "elevation": 3075,
+                "prominence": 415,
+                "source": "loj",
+                "lojIsolation": 1.94,
+                "date": "",
+                "quadrangles": [
+                    "Liebre Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Simi Valley",
+        "peaks": [
+            {
+                "lojID": 64896,
+                "elevation": 3117,
+                "prominence": 327,
+                "source": "loj",
+                "lojIsolation": 3.56,
+                "date": "",
+                "quadrangles": [
+                    "Simi Valley East"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 65899,
+                "elevation": 2714,
+                "prominence": 352,
+                "source": "loj",
+                "lojIsolation": 1.79,
+                "date": "2012-05-06",
+                "quadrangles": [
+                    "Simi Valley East"
+                ],
+                "counties": [
+                    "Los Angeles",
+                    "Ventura"
+                ]
+            },
+            {
+                "lojID": 65758,
+                "elevation": 2771,
+                "prominence": 184,
+                "source": "loj",
+                "lojIsolation": 4.04,
+                "date": "2009-02-15",
+                "quadrangles": [
+                    "Oat Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 65894,
+                "elevation": 2717,
+                "prominence": 480,
+                "source": "loj",
+                "lojIsolation": 2.38,
+                "date": "2016-01-10",
+                "quadrangles": [
+                    "Simi Valley East"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63433,
+                "elevation": 3747,
+                "prominence": 1960,
+                "source": "loj",
+                "lojIsolation": 9.91,
+                "date": "",
+                "quadrangles": [
+                    "Oat Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 67153,
+                "elevation": 2230,
+                "prominence": 443,
+                "source": "loj",
+                "lojIsolation": 3.58,
+                "date": "",
+                "quadrangles": [
+                    "Oat Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Val Verde",
+        "peaks": [
+            {
+                "lojID": 152994,
+                "elevation": 1502,
+                "prominence": 292,
+                "source": "loj",
+                "lojIsolation": 1,
+                "date": "",
+                "quadrangles": [
+                    "Val Verde"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 66513,
+                "elevation": 2494,
+                "prominence": 354,
+                "source": "loj",
+                "lojIsolation": 4.58,
+                "date": "",
+                "quadrangles": [
+                    "Val Verde"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 66846,
+                "elevation": 2361,
+                "prominence": 524,
+                "source": "loj",
+                "lojIsolation": 3.66,
+                "date": "",
+                "quadrangles": [
+                    "Val Verde"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 67429,
+                "elevation": 2137,
+                "prominence": 400,
+                "source": "loj",
+                "lojIsolation": 1.09,
+                "date": "",
+                "quadrangles": [
+                    "Val Verde"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 67540,
+                "elevation": 2094,
+                "prominence": 324,
+                "source": "loj",
+                "lojIsolation": 2.25,
+                "date": "",
+                "quadrangles": [
+                    "Val Verde"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 152986,
+                "elevation": 2012,
+                "prominence": 300,
+                "source": "loj",
+                "lojIsolation": 1.77,
+                "date": "",
+                "quadrangles": [
+                    "Val Verde"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 68692,
+                "elevation": 1677,
+                "prominence": 340,
+                "source": "loj",
+                "lojIsolation": 2.47,
+                "date": "",
+                "quadrangles": [
+                    "Val Verde"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Santa Monica Mountains",
+        "peaks": [
+            {
+                "lojID": 68365,
+                "elevation": 1787,
+                "prominence": 275,
+                "source": "loj",
+                "lojIsolation": 2.33,
+                "date": "",
+                "quadrangles": [
+                    "Topanga"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 70946,
+                "elevation": 387,
+                "prominence": 100,
+                "source": "loj",
+                "lojIsolation": 1.91,
+                "date": "",
+                "quadrangles": [
+                    "Topanga"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 68558,
+                "elevation": 1729,
+                "prominence": 139,
+                "source": "loj",
+                "lojIsolation": 1.88,
+                "date": "",
+                "quadrangles": [
+                    "Triunfo Pass"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 71020,
+                "elevation": 203,
+                "prominence": 66,
+                "source": "loj",
+                "lojIsolation": 5.22,
+                "date": "",
+                "quadrangles": [
+                    "Point Dume"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 68193,
+                "elevation": 1844,
+                "prominence": 82,
+                "source": "loj",
+                "lojIsolation": 3.83,
+                "date": "",
+                "quadrangles": [
+                    "Malibu Beach"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 68590,
+                "elevation": 1713,
+                "prominence": 251,
+                "source": "loj",
+                "lojIsolation": 3.6,
+                "date": "",
+                "quadrangles": [
+                    "Malibu Beach"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 70053,
+                "elevation": 1112,
+                "prominence": 150,
+                "source": "loj",
+                "lojIsolation": 0.42,
+                "date": "",
+                "quadrangles": [
+                    "Malibu Beach"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 70823,
+                "elevation": 562,
+                "prominence": 200,
+                "source": "loj",
+                "lojIsolation": 4.11,
+                "date": "",
+                "quadrangles": [
+                    "Malibu Beach"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 141140,
+                "elevation": 2049,
+                "prominence": 187,
+                "source": "loj",
+                "lojIsolation": 3.72,
+                "date": "",
+                "quadrangles": [
+                    "Malibu Beach"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 66462,
+                "elevation": 2510,
+                "prominence": 423,
+                "source": "loj",
+                "lojIsolation": 1.7,
+                "date": "",
+                "quadrangles": [
+                    "Triunfo Pass"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 68204,
+                "elevation": 1838,
+                "prominence": 526,
+                "source": "loj",
+                "lojIsolation": 2.01,
+                "date": "",
+                "quadrangles": [
+                    "Triunfo Pass"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 152990,
+                "elevation": 1581,
+                "prominence": 293,
+                "source": "loj",
+                "lojIsolation": 0.77,
+                "date": "",
+                "quadrangles": [
+                    "Calabasas"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 160269,
+                "elevation": 1550,
+                "prominence": 40,
+                "source": "loj",
+                "lojIsolation": 0.19,
+                "date": "",
+                "quadrangles": [
+                    "Calabasas"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 66471,
+                "elevation": 2507,
+                "prominence": 797,
+                "source": "loj",
+                "lojIsolation": 2.82,
+                "date": "",
+                "quadrangles": [
+                    "Point Dume"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 66614,
+                "elevation": 2450,
+                "prominence": 640,
+                "source": "loj",
+                "lojIsolation": 2.35,
+                "date": "",
+                "quadrangles": [
+                    "Point Dume"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 67230,
+                "elevation": 2210,
+                "prominence": 320,
+                "source": "loj",
+                "lojIsolation": 1.27,
+                "date": "",
+                "quadrangles": [
+                    "Point Dume"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 67455,
+                "elevation": 2126,
+                "prominence": 339,
+                "source": "loj",
+                "lojIsolation": 1.37,
+                "date": "",
+                "quadrangles": [
+                    "Point Dume"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 67562,
+                "elevation": 2080,
+                "prominence": 370,
+                "source": "loj",
+                "lojIsolation": 0.79,
+                "date": "",
+                "quadrangles": [
+                    "Point Dume"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 67665,
+                "elevation": 2039,
+                "prominence": 302,
+                "source": "loj",
+                "lojIsolation": 0.49,
+                "date": "",
+                "quadrangles": [
+                    "Point Dume"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 152989,
+                "elevation": 1612,
+                "prominence": 300,
+                "source": "loj",
+                "lojIsolation": 1.47,
+                "date": "",
+                "quadrangles": [
+                    "Point Dume"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 69116,
+                "elevation": 1515,
+                "prominence": 428,
+                "source": "loj",
+                "lojIsolation": 1.76,
+                "date": "",
+                "quadrangles": [
+                    "Point Dume"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 60708,
+                "elevation": 5220,
+                "prominence": 1840,
+                "source": "loj",
+                "lojIsolation": 10.94,
+                "date": "",
+                "quadrangles": [
+                    "Ritter Ridge"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 67853,
+                "elevation": 1961,
+                "prominence": 198,
+                "source": "loj",
+                "lojIsolation": 0.96,
+                "date": "",
+                "quadrangles": [
+                    "Canoga Park"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 67453,
+                "elevation": 2126,
+                "prominence": 627,
+                "source": "loj",
+                "lojIsolation": 5.69,
+                "date": "2016-02-20",
+                "quadrangles": [
+                    "Topanga"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 67785,
+                "elevation": 1986,
+                "prominence": 476,
+                "source": "loj",
+                "lojIsolation": 2.51,
+                "date": "",
+                "quadrangles": [
+                    "Topanga"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 68445,
+                "elevation": 1762,
+                "prominence": 352,
+                "source": "loj",
+                "lojIsolation": 1.77,
+                "date": "",
+                "quadrangles": [
+                    "Calabasas"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 68782,
+                "elevation": 1639,
+                "prominence": 327,
+                "source": "loj",
+                "lojIsolation": 1.07,
+                "date": "",
+                "quadrangles": [
+                    "Calabasas"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 68794,
+                "elevation": 1632,
+                "prominence": 302,
+                "source": "loj",
+                "lojIsolation": 1.46,
+                "date": "",
+                "quadrangles": [
+                    "Calabasas"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 65594,
+                "elevation": 2830,
+                "prominence": 1740,
+                "source": "loj",
+                "lojIsolation": 16.12,
+                "date": "",
+                "quadrangles": [
+                    "Malibu Beach"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 67351,
+                "elevation": 2163,
+                "prominence": 633,
+                "source": "loj",
+                "lojIsolation": 2.34,
+                "date": "",
+                "quadrangles": [
+                    "Malibu Beach"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 69235,
+                "elevation": 1470,
+                "prominence": 560,
+                "source": "loj",
+                "lojIsolation": 1.9,
+                "date": "",
+                "quadrangles": [
+                    "Malibu Beach"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 69334,
+                "elevation": 1430,
+                "prominence": 300,
+                "source": "loj",
+                "lojIsolation": 0.95,
+                "date": "",
+                "quadrangles": [
+                    "Malibu Beach"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 69664,
+                "elevation": 1287,
+                "prominence": 425,
+                "source": "loj",
+                "lojIsolation": 1.39,
+                "date": "",
+                "quadrangles": [
+                    "Malibu Beach"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 69767,
+                "elevation": 1237,
+                "prominence": 325,
+                "source": "loj",
+                "lojIsolation": 0.72,
+                "date": "",
+                "quadrangles": [
+                    "Malibu Beach"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 69954,
+                "elevation": 1137,
+                "prominence": 425,
+                "source": "loj",
+                "lojIsolation": 0.39,
+                "date": "",
+                "quadrangles": [
+                    "Malibu Beach"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 152988,
+                "elevation": 1629,
+                "prominence": 292,
+                "source": "loj",
+                "lojIsolation": 2.21,
+                "date": "2016-02-20",
+                "quadrangles": [
+                    "Topanga"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 68855,
+                "elevation": 1614,
+                "prominence": 302,
+                "source": "loj",
+                "lojIsolation": 2.71,
+                "date": "2016-02-20",
+                "quadrangles": [
+                    "Topanga"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 67671,
+                "elevation": 2036,
+                "prominence": 1066,
+                "source": "loj",
+                "lojIsolation": 2.74,
+                "date": "",
+                "quadrangles": [
+                    "Thousand Oaks"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 69075,
+                "elevation": 1529,
+                "prominence": 379,
+                "source": "loj",
+                "lojIsolation": 1.22,
+                "date": "",
+                "quadrangles": [
+                    "Thousand Oaks"
+                ],
+                "counties": [
+                    "Los Angeles",
+                    "Ventura"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Griffith Park Area",
+        "peaks": [
+            {
+                "lojID": 69133,
+                "elevation": 1509,
+                "prominence": 432,
+                "source": "loj",
+                "lojIsolation": 1.46,
+                "date": "",
+                "quadrangles": [
+                    "Burbank"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 67410,
+                "elevation": 2140,
+                "prominence": 320,
+                "source": "loj",
+                "lojIsolation": 1.91,
+                "date": "",
+                "quadrangles": [
+                    "Burbank"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 68259,
+                "elevation": 1820,
+                "prominence": 1030,
+                "source": "loj",
+                "lojIsolation": 6.02,
+                "date": "",
+                "quadrangles": [
+                    "Burbank"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 68643,
+                "elevation": 1700,
+                "prominence": 40,
+                "source": "loj",
+                "lojIsolation": 0.32,
+                "date": "",
+                "quadrangles": [
+                    "Burbank"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 68811,
+                "elevation": 1625,
+                "prominence": 245,
+                "source": "loj",
+                "lojIsolation": 1.54,
+                "date": "",
+                "quadrangles": [
+                    "Burbank"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 70175,
+                "elevation": 1060,
+                "prominence": 40,
+                "source": "loj",
+                "lojIsolation": 1.87,
+                "date": "",
+                "quadrangles": [
+                    "Burbank"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Little Tujunga Canyon",
+        "peaks": [
+            {
+                "lojID": null,
+                "elevation": 4498,
+                "prominence": 158,
+                "source": "map",
+                "date": "",
+                "latitude": 34.3911,
+                "longitude": -118.3002,
+                "quadrangles": [
+                    "Agua Dulce"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 140687,
+                "elevation": 4705,
+                "prominence": 245,
+                "source": "loj",
+                "lojIsolation": 1.21,
+                "date": "",
+                "quadrangles": [
+                    "Agua Dulce"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 152978,
+                "elevation": 4838,
+                "prominence": 338,
+                "source": "loj",
+                "lojIsolation": 3.24,
+                "date": "",
+                "quadrangles": [
+                    "Sunland"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 60636,
+                "elevation": 5260,
+                "prominence": 280,
+                "source": "loj",
+                "lojIsolation": 2.41,
+                "date": "",
+                "quadrangles": [
+                    "Sunland"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63259,
+                "elevation": 3836,
+                "prominence": 296,
+                "source": "loj",
+                "lojIsolation": 1.8,
+                "date": "2014-02-14",
+                "quadrangles": [
+                    "Sunland"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 65231,
+                "elevation": 2986,
+                "prominence": 326,
+                "source": "loj",
+                "lojIsolation": 1.89,
+                "date": "2014-01-12",
+                "quadrangles": [
+                    "Sunland"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 67529,
+                "elevation": 2100,
+                "prominence": 200,
+                "source": "loj",
+                "lojIsolation": 1.6,
+                "date": "2015-12-06",
+                "quadrangles": [
+                    "San Fernando"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63936,
+                "elevation": 3537,
+                "prominence": 917,
+                "source": "loj",
+                "lojIsolation": 2.29,
+                "date": "2014-02-14",
+                "quadrangles": [
+                    "San Fernando"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 65865,
+                "elevation": 2732,
+                "prominence": 312,
+                "source": "loj",
+                "lojIsolation": 0.57,
+                "date": "2014-02-14",
+                "quadrangles": [
+                    "Sunland"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63147,
+                "elevation": 3892,
+                "prominence": 912,
+                "source": "loj",
+                "lojIsolation": 3.27,
+                "date": "2013-03-30",
+                "quadrangles": [
+                    "Sunland"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63033,
+                "elevation": 3948,
+                "prominence": 328,
+                "source": "loj",
+                "lojIsolation": 0.7,
+                "date": "2016-01-18",
+                "quadrangles": [
+                    "San Fernando"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63832,
+                "elevation": 3580,
+                "prominence": 480,
+                "source": "loj",
+                "lojIsolation": 1.69,
+                "date": "2016-01-18",
+                "quadrangles": [
+                    "San Fernando"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62861,
+                "elevation": 4003,
+                "prominence": 1320,
+                "source": "loj",
+                "lojIsolation": 5.51,
+                "date": "2015-12-26",
+                "quadrangles": [
+                    "San Fernando"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": null,
+                "elevation": 3635,
+                "prominence": 0,
+                "source": "topo map",
+                "date": "2015-12-26",
+                "quadrangles": [
+                    "San Fernando"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 61664,
+                "elevation": 4660,
+                "prominence": 320,
+                "source": "loj",
+                "lojIsolation": 1.09,
+                "date": "2015-12-26",
+                "quadrangles": [
+                    "Sunland"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Santa Clara Divide",
+        "peaks": [
+            {
+                "lojID": 60396,
+                "elevation": 5420,
+                "prominence": 280,
+                "source": "loj",
+                "lojIsolation": 2.04,
+                "date": "",
+                "quadrangles": [
+                    "Condor Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 60834,
+                "elevation": 5146,
+                "prominence": 366,
+                "source": "loj",
+                "lojIsolation": 2.07,
+                "date": "",
+                "quadrangles": [
+                    "Condor Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 58158,
+                "elevation": 7124,
+                "prominence": 1563,
+                "source": "loj",
+                "lojIsolation": 5.87,
+                "date": "2008-02-27",
+                "quadrangles": [
+                    "Pacifico Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 58809,
+                "elevation": 6540,
+                "prominence": 1640,
+                "source": "loj",
+                "lojIsolation": 6.1,
+                "date": "2013-11-17",
+                "quadrangles": [
+                    "Acton"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 61136,
+                "elevation": 4949,
+                "prominence": 809,
+                "source": "loj",
+                "lojIsolation": 2.82,
+                "date": "2016-01-24",
+                "quadrangles": [
+                    "Agua Dulce"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": null,
+                "elevation": 4542,
+                "prominence": 0,
+                "source": "loj",
+                "latitude": 34.3943,
+                "longitude": -118.256,
+                "quadrangles": [
+                    "Agua Dulce"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 59486,
+                "elevation": 6015,
+                "prominence": 195,
+                "source": "loj",
+                "lojIsolation": 1.26,
+                "date": "2016-01-30",
+                "quadrangles": [
+                    "Acton"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 60003,
+                "elevation": 5682,
+                "prominence": 302,
+                "source": "loj",
+                "lojIsolation": 2.82,
+                "date": "2016-01-30",
+                "quadrangles": [
+                    "Acton"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 59962,
+                "elevation": 5705,
+                "prominence": 285,
+                "source": "loj",
+                "lojIsolation": 2.08,
+                "date": "2016-01-30",
+                "quadrangles": [
+                    "Acton"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 58980,
+                "elevation": 6388,
+                "prominence": 568,
+                "source": "loj",
+                "lojIsolation": 2.69,
+                "date": "2008-04-07",
+                "quadrangles": [
+                    "Juniper Hills"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lower Big Tujunga Canyon",
+        "peaks": [
+            {
+                "lojID": 64825,
+                "elevation": 3150,
+                "prominence": 290,
+                "source": "loj",
+                "lojIsolation": 1.95,
+                "date": "",
+                "quadrangles": [
+                    "Condor Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62144,
+                "elevation": 4408,
+                "prominence": 388,
+                "source": "loj",
+                "lojIsolation": 2.24,
+                "date": "",
+                "quadrangles": [
+                    "Condor Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 60071,
+                "elevation": 5635,
+                "prominence": 577,
+                "source": "loj",
+                "lojIsolation": 2.13,
+                "date": "2008-02-11",
+                "quadrangles": [
+                    "Condor Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 60328,
+                "elevation": 5460,
+                "prominence": 680,
+                "source": "loj",
+                "lojIsolation": 1.7,
+                "date": "2008-11-22",
+                "quadrangles": [
+                    "Condor Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 60809,
+                "elevation": 5162,
+                "prominence": 302,
+                "source": "loj",
+                "lojIsolation": 0.94,
+                "date": "2008-11-22",
+                "quadrangles": [
+                    "Condor Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 60944,
+                "elevation": 5074,
+                "prominence": 1774,
+                "source": "loj",
+                "lojIsolation": 4.08,
+                "date": "2008-03-17",
+                "quadrangles": [
+                    "Condor Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 61009,
+                "elevation": 5033,
+                "prominence": 493,
+                "source": "loj",
+                "lojIsolation": 1.39,
+                "date": "2008-11-22",
+                "quadrangles": [
+                    "Condor Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Angeles Forest Highway Peaks",
+        "peaks": [
+            {
+                "lojID": 152980,
+                "elevation": 4388,
+                "prominence": 288,
+                "source": "loj",
+                "lojIsolation": 1.24,
+                "date": "",
+                "quadrangles": [
+                    "Condor Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 58726,
+                "elevation": 6620,
+                "prominence": 400,
+                "source": "loj",
+                "lojIsolation": 2.19,
+                "date": "2015-03-14",
+                "quadrangles": [
+                    "Chilao Flat"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 60113,
+                "elevation": 5604,
+                "prominence": 344,
+                "source": "loj",
+                "lojIsolation": 0.97,
+                "date": "2008-01-19",
+                "quadrangles": [
+                    "Pacifico Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62329,
+                "elevation": 4300,
+                "prominence": 280,
+                "source": "loj",
+                "lojIsolation": 1.95,
+                "date": "2016-06-01",
+                "quadrangles": [
+                    "Pacifico Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62101,
+                "elevation": 4427,
+                "prominence": 287,
+                "source": "loj",
+                "lojIsolation": 1.65,
+                "date": "",
+                "quadrangles": [
+                    "Pacifico Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62231,
+                "elevation": 4358,
+                "prominence": 298,
+                "source": "loj",
+                "lojIsolation": 1.21,
+                "date": "",
+                "quadrangles": [
+                    "Pacifico Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 152981,
+                "elevation": 4380,
+                "prominence": 280,
+                "source": "loj",
+                "lojIsolation": 1.66,
+                "date": "2016-06-01",
+                "quadrangles": [
+                    "Pacifico Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 59287,
+                "elevation": 6168,
+                "prominence": 388,
+                "source": "loj",
+                "lojIsolation": 1.49,
+                "date": "",
+                "quadrangles": [
+                    "Pacifico Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 59682,
+                "elevation": 5881,
+                "prominence": 461,
+                "source": "loj",
+                "lojIsolation": 2.56,
+                "date": "",
+                "quadrangles": [
+                    "Pacifico Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 59724,
+                "elevation": 5860,
+                "prominence": 400,
+                "source": "loj",
+                "lojIsolation": 0.58,
+                "date": "",
+                "quadrangles": [
+                    "Pacifico Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 60850,
+                "elevation": 5140,
+                "prominence": 360,
+                "source": "loj",
+                "lojIsolation": 1.83,
+                "date": "",
+                "quadrangles": [
+                    "Pacifico Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 61143,
+                "elevation": 4946,
+                "prominence": 406,
+                "source": "loj",
+                "lojIsolation": 1.32,
+                "date": "",
+                "quadrangles": [
+                    "Pacifico Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 61235,
+                "elevation": 4900,
+                "prominence": 320,
+                "source": "loj",
+                "lojIsolation": 0.68,
+                "date": "",
+                "quadrangles": [
+                    "Pacifico Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62042,
+                "elevation": 4460,
+                "prominence": 720,
+                "source": "loj",
+                "lojIsolation": 3.15,
+                "date": "",
+                "quadrangles": [
+                    "Pacifico Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62298,
+                "elevation": 4322,
+                "prominence": 302,
+                "source": "loj",
+                "lojIsolation": 1.33,
+                "date": "",
+                "quadrangles": [
+                    "Pacifico Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62320,
+                "elevation": 4300,
+                "prominence": 520,
+                "source": "loj",
+                "lojIsolation": 1.03,
+                "date": "",
+                "quadrangles": [
+                    "Pacifico Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62337,
+                "elevation": 4296,
+                "prominence": 396,
+                "source": "loj",
+                "lojIsolation": 0.99,
+                "date": "",
+                "quadrangles": [
+                    "Pacifico Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62558,
+                "elevation": 4183,
+                "prominence": 443,
+                "source": "loj",
+                "lojIsolation": 1.39,
+                "date": "",
+                "quadrangles": [
+                    "Palmdale"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 60906,
+                "elevation": 5100,
+                "prominence": 280,
+                "source": "loj",
+                "lojIsolation": 0.86,
+                "date": "2008-01-19",
+                "quadrangles": [
+                    "Pacifico Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 141025,
+                "elevation": 5063,
+                "prominence": 243,
+                "source": "loj",
+                "lojIsolation": 1.43,
+                "date": "2008-01-19",
+                "quadrangles": [
+                    "Pacifico Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 60969,
+                "elevation": 5060,
+                "prominence": 320,
+                "source": "loj",
+                "lojIsolation": 2.52,
+                "date": "2015-03-14",
+                "quadrangles": [
+                    "Chilao Flat"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 60557,
+                "elevation": 5307,
+                "prominence": 207,
+                "source": "loj",
+                "lojIsolation": 1.71,
+                "date": "2015-03-14",
+                "quadrangles": [
+                    "Chilao Flat"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 59079,
+                "elevation": 6316,
+                "prominence": 216,
+                "source": "loj",
+                "lojIsolation": 1.33,
+                "date": "2015-03-14",
+                "quadrangles": [
+                    "Chilao Flat"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 61183,
+                "elevation": 4926,
+                "prominence": 266,
+                "source": "loj",
+                "lojIsolation": 2.12,
+                "date": "2015-03-22",
+                "quadrangles": [
+                    "Sunland"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 61302,
+                "elevation": 4860,
+                "prominence": 520,
+                "source": "loj",
+                "lojIsolation": 3.36,
+                "date": "2014-01-11",
+                "quadrangles": [
+                    "Agua Dulce"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 60604,
+                "elevation": 5273,
+                "prominence": 773,
+                "source": "loj",
+                "lojIsolation": 2.7,
+                "date": "2008-01-19",
+                "quadrangles": [
+                    "Pacifico Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Mt Wilson Area Peaks",
+        "peaks": [
+            {
+                "lojID": 61559,
+                "elevation": 4711,
+                "prominence": 291,
+                "source": "loj",
+                "lojIsolation": 1.74,
+                "date": "",
+                "quadrangles": [
+                    "Condor Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 60117,
+                "elevation": 5603,
+                "prominence": 263,
+                "source": "loj",
+                "lojIsolation": 0.52,
+                "date": "2003-11-23",
+                "quadrangles": [
+                    "Mount Wilson"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 60587,
+                "elevation": 5291,
+                "prominence": 111,
+                "source": "loj",
+                "lojIsolation": 0.44,
+                "date": "2014-02-01",
+                "quadrangles": [
+                    "Azusa"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": null,
+                "elevation": 3681,
+                "prominence": 101,
+                "source": "Local legend; Fuji Camp is still the name of the upper campsite at Henninger Flats.",
+                "date": "2016-02-03",
+                "latitude": 34.1955,
+                "longitude": -118.078,
+                "quadrangles": [
+                    "Mount Wilson"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 60368,
+                "elevation": 5441,
+                "prominence": 301,
+                "source": "loj",
+                "lojIsolation": 1.94,
+                "date": "2016-05-07",
+                "quadrangles": [
+                    "Mount Wilson"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63860,
+                "elevation": 3575,
+                "prominence": 75,
+                "source": "loj",
+                "lojIsolation": 1.45,
+                "date": "2015-05-06",
+                "quadrangles": [
+                    "Mount Wilson"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 141138,
+                "elevation": 3207,
+                "prominence": 0,
+                "source": "loj",
+                "lojIsolation": 2.16,
+                "date": "2013-01-21",
+                "quadrangles": [
+                    "Mount Wilson"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 141087,
+                "elevation": 3375,
+                "prominence": 75,
+                "source": "loj",
+                "lojIsolation": 1.92,
+                "date": "2008-01-26",
+                "quadrangles": [
+                    "Mount Wilson"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 141133,
+                "elevation": 4020,
+                "prominence": 0,
+                "source": "loj",
+                "lojIsolation": 1.3,
+                "date": "2008-02-05",
+                "quadrangles": [
+                    "Mount Wilson"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 61794,
+                "elevation": 4583,
+                "prominence": 283,
+                "source": "loj",
+                "lojIsolation": 0.82,
+                "date": "",
+                "quadrangles": [
+                    "Mount Wilson"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 59296,
+                "elevation": 6161,
+                "prominence": 1541,
+                "source": "loj",
+                "lojIsolation": 3.04,
+                "date": "2012-04-01",
+                "quadrangles": [
+                    "Mount Wilson"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 141021,
+                "elevation": 5796,
+                "prominence": 256,
+                "source": "loj",
+                "lojIsolation": 1,
+                "date": "2016-01-02",
+                "quadrangles": [
+                    "Mount Wilson"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 59886,
+                "elevation": 5742,
+                "prominence": 442,
+                "source": "loj",
+                "lojIsolation": 0.45,
+                "date": "2015-07-11",
+                "quadrangles": [
+                    "Mount Wilson"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 59543,
+                "elevation": 5980,
+                "prominence": 240,
+                "source": "loj",
+                "lojIsolation": 0.44,
+                "date": "2007-10-07",
+                "quadrangles": [
+                    "Mount Wilson"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 59913,
+                "elevation": 5732,
+                "prominence": 632,
+                "source": "loj",
+                "lojIsolation": 0.89,
+                "date": "2016-05-05",
+                "quadrangles": [
+                    "Mount Wilson"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 59949,
+                "elevation": 5710,
+                "prominence": 170,
+                "source": "loj",
+                "lojIsolation": 1.49,
+                "date": "0000-00-00",
+                "quadrangles": [
+                    "Mount Wilson"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 141131,
+                "elevation": 4166,
+                "prominence": 186,
+                "source": "loj",
+                "lojIsolation": 0.8,
+                "date": "2015-12-27",
+                "quadrangles": [
+                    "Mount Wilson"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 61987,
+                "elevation": 4492,
+                "prominence": 352,
+                "source": "loj",
+                "lojIsolation": 0.6,
+                "date": "2015-12-27",
+                "quadrangles": [
+                    "Mount Wilson"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62031,
+                "elevation": 4466,
+                "prominence": 406,
+                "source": "loj",
+                "lojIsolation": 2.7,
+                "date": "2015-02-07",
+                "quadrangles": [
+                    "Pasadena"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 141132,
+                "elevation": 4780,
+                "prominence": 80,
+                "source": "loj",
+                "lojIsolation": 0.59,
+                "date": "2008-11-29",
+                "quadrangles": [
+                    "Mount Wilson"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 61554,
+                "elevation": 4714,
+                "prominence": 254,
+                "source": "loj",
+                "lojIsolation": 1.21,
+                "date": "2007-11-28",
+                "quadrangles": [
+                    "Mount Wilson"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 71057,
+                "elevation": 4688,
+                "prominence": 188,
+                "source": "loj",
+                "lojIsolation": 1.48,
+                "date": "2008-03-10",
+                "quadrangles": [
+                    "Mount Wilson"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 61948,
+                "elevation": 4505,
+                "prominence": 405,
+                "source": "loj",
+                "lojIsolation": 1.74,
+                "date": "2015-12-27",
+                "quadrangles": [
+                    "Azusa"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 60414,
+                "elevation": 5409,
+                "prominence": 1509,
+                "source": "loj",
+                "lojIsolation": 5.07,
+                "date": "2014-02-01",
+                "quadrangles": [
+                    "Azusa"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Angeles Crest Highway Low-Country",
+        "peaks": [
+            {
+                "lojID": 152979,
+                "elevation": 4751,
+                "prominence": 291,
+                "source": "loj",
+                "lojIsolation": 1.02,
+                "date": "",
+                "quadrangles": [
+                    "Chilao Flat"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 60179,
+                "elevation": 5558,
+                "prominence": 698,
+                "source": "loj",
+                "lojIsolation": 1.91,
+                "date": "2008-09-17",
+                "quadrangles": [
+                    "Condor Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 60415,
+                "elevation": 5408,
+                "prominence": 468,
+                "source": "loj",
+                "lojIsolation": 1.18,
+                "date": "2015-05-23",
+                "quadrangles": [
+                    "Chilao Flat"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 60391,
+                "elevation": 5420,
+                "prominence": 309,
+                "source": "loj",
+                "lojIsolation": 0.99,
+                "date": "2015-07-05",
+                "quadrangles": [
+                    "Waterman Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 65145,
+                "elevation": 3020,
+                "prominence": 80,
+                "source": "loj",
+                "lojIsolation": 0.91,
+                "date": "2013-03-01",
+                "quadrangles": [
+                    "Condor Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 59290,
+                "elevation": 6164,
+                "prominence": 1584,
+                "source": "loj",
+                "lojIsolation": 6.72,
+                "date": "2008-03-31",
+                "quadrangles": [
+                    "Chilao Flat"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 59566,
+                "elevation": 5957,
+                "prominence": 737,
+                "source": "loj",
+                "lojIsolation": 1.3,
+                "date": "2008-09-17",
+                "quadrangles": [
+                    "Chilao Flat"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 141099,
+                "elevation": 5620,
+                "prominence": 160,
+                "source": "loj",
+                "lojIsolation": 1.47,
+                "date": "2008-01-11",
+                "quadrangles": [
+                    "Chilao Flat"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": null,
+                "elevation": 5499,
+                "prominence": 119,
+                "source": "loj",
+                "lojIsolation": 1.47,
+                "latitude": 34.2795,
+                "longitude": -118.0653,
+                "quadrangles": [
+                    "Chilao Flat"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 152035,
+                "elevation": 3754,
+                "prominence": 454,
+                "source": "loj",
+                "lojIsolation": 4.12,
+                "date": "2016-05-20",
+                "quadrangles": [
+                    "Glendora"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63508,
+                "elevation": 3720,
+                "prominence": 500,
+                "source": "loj",
+                "lojIsolation": 2.26,
+                "date": "2015-11-22",
+                "quadrangles": [
+                    "Azusa"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64869,
+                "elevation": 3136,
+                "prominence": 36,
+                "source": "loj",
+                "lojIsolation": 0.74,
+                "date": "",
+                "quadrangles": [
+                    "Azusa"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63591,
+                "elevation": 3685,
+                "prominence": 305,
+                "source": "loj",
+                "lojIsolation": 3.18,
+                "date": "2016-04-17",
+                "quadrangles": [
+                    "Mount Baldy"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62150,
+                "elevation": 4404,
+                "prominence": 756,
+                "source": "loj",
+                "lojIsolation": 1.75,
+                "date": "2014-01-10",
+                "quadrangles": [
+                    "Condor Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62414,
+                "elevation": 4253,
+                "prominence": 393,
+                "source": "loj",
+                "lojIsolation": 0.69,
+                "date": "2016-02-09",
+                "quadrangles": [
+                    "Condor Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 61547,
+                "elevation": 4724,
+                "prominence": 384,
+                "source": "loj",
+                "lojIsolation": 2.32,
+                "date": "",
+                "quadrangles": [
+                    "Chilao Flat"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62518,
+                "elevation": 4202,
+                "prominence": 542,
+                "source": "loj",
+                "lojIsolation": 1.1,
+                "date": "2016-04-21",
+                "quadrangles": [
+                    "Condor Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62186,
+                "elevation": 4380,
+                "prominence": 280,
+                "source": "loj",
+                "lojIsolation": 1.52,
+                "date": "2014-02-01",
+                "quadrangles": [
+                    "Azusa"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 66021,
+                "elevation": 2675,
+                "prominence": 295,
+                "source": "loj",
+                "lojIsolation": 1.77,
+                "date": "2013-09-14",
+                "quadrangles": [
+                    "Glendora"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 141139,
+                "elevation": 2081,
+                "prominence": 61,
+                "source": "loj",
+                "lojIsolation": 1.71,
+                "date": "2013-09-14",
+                "quadrangles": [
+                    "Azusa"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Angeles Crest Highway High-Country",
+        "peaks": [
+            {
+                "lojID": 58712,
+                "elevation": 6629,
+                "prominence": 329,
+                "source": "loj",
+                "lojIsolation": 1.71,
+                "date": "2015-07-26",
+                "quadrangles": [
+                    "Waterman Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 58278,
+                "elevation": 7003,
+                "prominence": 343,
+                "source": "loj",
+                "lojIsolation": 0.89,
+                "date": "2008-05-09",
+                "quadrangles": [
+                    "Waterman Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 58017,
+                "elevation": 7283,
+                "prominence": 343,
+                "source": "loj",
+                "lojIsolation": 1.07,
+                "date": "2008-05-09",
+                "quadrangles": [
+                    "Waterman Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 141084,
+                "elevation": 7258,
+                "prominence": 78,
+                "source": "loj",
+                "lojIsolation": 1.77,
+                "date": "2016-04-03",
+                "quadrangles": [
+                    "Mount San Antonio"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 58112,
+                "elevation": 7180,
+                "prominence": 320,
+                "source": "loj",
+                "lojIsolation": 0.61,
+                "date": "2016-05-22",
+                "quadrangles": [
+                    "Waterman Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 17088,
+                "elevation": 9399,
+                "prominence": 2819,
+                "source": "loj",
+                "lojIsolation": 7.53,
+                "date": "2008-06-04",
+                "quadrangles": [
+                    "Crystal Lake"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 56805,
+                "elevation": 9138,
+                "prominence": 598,
+                "source": "loj",
+                "lojIsolation": 2.06,
+                "date": "2008-05-12",
+                "quadrangles": [
+                    "Crystal Lake"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 56875,
+                "elevation": 8997,
+                "prominence": 177,
+                "source": "loj",
+                "lojIsolation": 0.98,
+                "date": "2008-06-04",
+                "quadrangles": [
+                    "Crystal Lake"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 56949,
+                "elevation": 8850,
+                "prominence": 110,
+                "source": "loj",
+                "lojIsolation": 0.73,
+                "date": "2008-05-12",
+                "quadrangles": [
+                    "Crystal Lake"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 141023,
+                "elevation": 8505,
+                "prominence": 205,
+                "source": "loj",
+                "lojIsolation": 1.38,
+                "date": "2008-05-12",
+                "quadrangles": [
+                    "Crystal Lake"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 57191,
+                "elevation": 8396,
+                "prominence": 493,
+                "source": "loj",
+                "lojIsolation": 1.52,
+                "date": "2008-09-12",
+                "quadrangles": [
+                    "Crystal Lake"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 57283,
+                "elevation": 8250,
+                "prominence": 662,
+                "source": "loj",
+                "lojIsolation": 2.35,
+                "date": "2008-10-20",
+                "quadrangles": [
+                    "Crystal Lake"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 57285,
+                "elevation": 8248,
+                "prominence": 1588,
+                "source": "loj",
+                "lojIsolation": 2.51,
+                "date": "2014-08-23",
+                "quadrangles": [
+                    "Valyermo"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 141080,
+                "elevation": 8047,
+                "prominence": 147,
+                "source": "loj",
+                "lojIsolation": 2.08,
+                "date": "2015-04-04",
+                "quadrangles": [
+                    "Crystal Lake"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 57428,
+                "elevation": 8038,
+                "prominence": 1418,
+                "source": "loj",
+                "lojIsolation": 4.95,
+                "date": "2008-11-10",
+                "quadrangles": [
+                    "Waterman Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 57461,
+                "elevation": 7983,
+                "prominence": 1024,
+                "source": "loj",
+                "lojIsolation": 2.79,
+                "date": "2008-06-08",
+                "quadrangles": [
+                    "Juniper Hills"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 57565,
+                "elevation": 7845,
+                "prominence": 185,
+                "source": "loj",
+                "lojIsolation": 0.55,
+                "date": "2008-06-08",
+                "quadrangles": [
+                    "Juniper Hills"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 57614,
+                "elevation": 7783,
+                "prominence": 323,
+                "source": "loj",
+                "lojIsolation": 2.77,
+                "date": "2008-05-12",
+                "quadrangles": [
+                    "Crystal Lake"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 57619,
+                "elevation": 7780,
+                "prominence": 480,
+                "source": "loj",
+                "lojIsolation": 1.38,
+                "date": "2014-08-23",
+                "quadrangles": [
+                    "Juniper Hills"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 57632,
+                "elevation": 7761,
+                "prominence": 1221,
+                "source": "loj",
+                "lojIsolation": 1.54,
+                "date": "2015-05-30",
+                "quadrangles": [
+                    "Waterman Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 57786,
+                "elevation": 7580,
+                "prominence": 280,
+                "source": "loj",
+                "lojIsolation": 1.81,
+                "date": "2016-05-22",
+                "quadrangles": [
+                    "Mescal Creek"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 141083,
+                "elevation": 7558,
+                "prominence": 98,
+                "source": "loj",
+                "lojIsolation": 1.1,
+                "date": "2008-08-27",
+                "quadrangles": [
+                    "Waterman Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 57830,
+                "elevation": 7515,
+                "prominence": 775,
+                "source": "loj",
+                "lojIsolation": 2.24,
+                "date": "2008-05-09",
+                "quadrangles": [
+                    "Waterman Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 57835,
+                "elevation": 7502,
+                "prominence": 482,
+                "source": "loj",
+                "lojIsolation": 1.52,
+                "date": "2008-05-09",
+                "quadrangles": [
+                    "Waterman Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 57847,
+                "elevation": 7499,
+                "prominence": 119,
+                "source": "loj",
+                "lojIsolation": 1.42,
+                "date": "2008-05-12",
+                "quadrangles": [
+                    "Crystal Lake"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 57771,
+                "elevation": 7596,
+                "prominence": 256,
+                "source": "loj",
+                "lojIsolation": 0.56,
+                "date": "",
+                "quadrangles": [
+                    "Waterman Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 59306,
+                "elevation": 6151,
+                "prominence": 291,
+                "source": "loj",
+                "lojIsolation": 1.65,
+                "date": "",
+                "quadrangles": [
+                    "Waterman Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 140592,
+                "elevation": 5580,
+                "prominence": 280,
+                "source": "loj",
+                "lojIsolation": 1.77,
+                "date": "",
+                "quadrangles": [
+                    "Chilao Flat"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 59720,
+                "elevation": 5860,
+                "prominence": 240,
+                "source": "loj",
+                "lojIsolation": 0.89,
+                "date": "2015-05-23",
+                "quadrangles": [
+                    "Chilao Flat"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 59201,
+                "elevation": 6220,
+                "prominence": 320,
+                "source": "loj",
+                "lojIsolation": 2.65,
+                "date": "2008-01-18",
+                "quadrangles": [
+                    "Chilao Flat"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 59295,
+                "elevation": 6162,
+                "prominence": 22,
+                "source": "loj",
+                "lojIsolation": 0.38,
+                "date": "2008-01-18",
+                "quadrangles": [
+                    "Chilao Flat"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 59638,
+                "elevation": 5908,
+                "prominence": 688,
+                "source": "loj",
+                "lojIsolation": 3.38,
+                "date": "2015-07-05",
+                "quadrangles": [
+                    "Chilao Flat"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 141093,
+                "elevation": 5870,
+                "prominence": 490,
+                "source": "loj",
+                "lojIsolation": 1.87,
+                "date": "",
+                "quadrangles": [
+                    "Waterman Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 57829,
+                "elevation": 7516,
+                "prominence": 656,
+                "source": "loj",
+                "lojIsolation": 2.24,
+                "date": "",
+                "quadrangles": [
+                    "Mescal Creek"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 59051,
+                "elevation": 6340,
+                "prominence": 560,
+                "source": "loj",
+                "lojIsolation": 0.95,
+                "date": "",
+                "quadrangles": [
+                    "Waterman Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 57123,
+                "elevation": 8500,
+                "prominence": 400,
+                "source": "loj",
+                "lojIsolation": 2.69,
+                "date": "",
+                "quadrangles": [
+                    "Mount San Antonio"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Valyermo Area",
+        "peaks": [
+            {
+                "lojID": 62123,
+                "elevation": 4420,
+                "prominence": 120,
+                "source": "loj",
+                "lojIsolation": 1.11,
+                "date": "",
+                "quadrangles": [
+                    "Valyermo"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62124,
+                "elevation": 4420,
+                "prominence": 80,
+                "source": "loj",
+                "lojIsolation": 1.17,
+                "date": "",
+                "quadrangles": [
+                    "Valyermo"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62330,
+                "elevation": 4300,
+                "prominence": 240,
+                "source": "loj",
+                "lojIsolation": 2,
+                "date": "",
+                "quadrangles": [
+                    "Valyermo"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 59453,
+                "elevation": 6033,
+                "prominence": 293,
+                "source": "loj",
+                "lojIsolation": 3.48,
+                "date": "",
+                "quadrangles": [
+                    "Mescal Creek"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 61157,
+                "elevation": 4940,
+                "prominence": 280,
+                "source": "loj",
+                "lojIsolation": 2.56,
+                "date": "",
+                "quadrangles": [
+                    "Mescal Creek"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 61164,
+                "elevation": 4939,
+                "prominence": 359,
+                "source": "loj",
+                "lojIsolation": 3.02,
+                "date": "",
+                "quadrangles": [
+                    "Juniper Hills"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 58722,
+                "elevation": 6621,
+                "prominence": 321,
+                "source": "loj",
+                "lojIsolation": 1.87,
+                "date": "",
+                "quadrangles": [
+                    "Valyermo"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 60546,
+                "elevation": 5316,
+                "prominence": 376,
+                "source": "loj",
+                "lojIsolation": 0.95,
+                "date": "",
+                "quadrangles": [
+                    "Valyermo"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 61304,
+                "elevation": 4860,
+                "prominence": 400,
+                "source": "loj",
+                "lojIsolation": 1.87,
+                "date": "",
+                "quadrangles": [
+                    "Valyermo"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 59089,
+                "elevation": 6306,
+                "prominence": 406,
+                "source": "loj",
+                "lojIsolation": 1.74,
+                "date": "",
+                "quadrangles": [
+                    "Juniper Hills"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 57326,
+                "elevation": 8180,
+                "prominence": 280,
+                "source": "loj",
+                "lojIsolation": 0.51,
+                "date": "",
+                "quadrangles": [
+                    "Valyermo"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 58826,
+                "elevation": 6535,
+                "prominence": 155,
+                "source": "loj",
+                "lojIsolation": 2.59,
+                "date": "",
+                "quadrangles": [
+                    "Valyermo"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 60034,
+                "elevation": 5660,
+                "prominence": 320,
+                "source": "loj",
+                "lojIsolation": 4.57,
+                "date": "",
+                "quadrangles": [
+                    "Mescal Creek"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "San Gabriel River Peaks",
+        "peaks": [
+            {
+                "lojID": 65795,
+                "elevation": 2759,
+                "prominence": 299,
+                "source": "loj",
+                "lojIsolation": 1.78,
+                "date": "",
+                "quadrangles": [
+                    "Glendora"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 66251,
+                "elevation": 2589,
+                "prominence": 289,
+                "source": "loj",
+                "lojIsolation": 1.3,
+                "date": "",
+                "quadrangles": [
+                    "Glendora"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63475,
+                "elevation": 3733,
+                "prominence": 313,
+                "source": "loj",
+                "lojIsolation": 3.77,
+                "date": "",
+                "quadrangles": [
+                    "Glendora"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 57923,
+                "elevation": 7402,
+                "prominence": 142,
+                "source": "loj",
+                "lojIsolation": 2.39,
+                "date": "2008-06-04",
+                "quadrangles": [
+                    "Crystal Lake"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 60882,
+                "elevation": 5111,
+                "prominence": 811,
+                "source": "loj",
+                "lojIsolation": 3.7,
+                "date": "2013-02-06",
+                "quadrangles": [
+                    "Crystal Lake"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 59839,
+                "elevation": 5780,
+                "prominence": 40,
+                "source": "loj",
+                "lojIsolation": 1.3,
+                "date": "",
+                "quadrangles": [
+                    "Crystal Lake"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 141135,
+                "elevation": 3983,
+                "prominence": 3,
+                "source": "loj",
+                "lojIsolation": 2.42,
+                "date": "2008-04-09",
+                "quadrangles": [
+                    "Mount San Antonio"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 57449,
+                "elevation": 8007,
+                "prominence": 707,
+                "source": "loj",
+                "lojIsolation": 3.84,
+                "date": "2008-04-09",
+                "quadrangles": [
+                    "Mount San Antonio"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 61894,
+                "elevation": 4539,
+                "prominence": 399,
+                "source": "loj",
+                "lojIsolation": 3.57,
+                "date": "",
+                "quadrangles": [
+                    "Azusa"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 152751,
+                "elevation": 4660,
+                "prominence": 280,
+                "source": "loj",
+                "lojIsolation": 1.89,
+                "date": "",
+                "quadrangles": [
+                    "Azusa"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 59768,
+                "elevation": 5826,
+                "prominence": 926,
+                "source": "loj",
+                "lojIsolation": 3.34,
+                "date": "2008-12-05",
+                "quadrangles": [
+                    "Crystal Lake"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64714,
+                "elevation": 3200,
+                "prominence": 100,
+                "source": "loj",
+                "lojIsolation": 0.69,
+                "date": "",
+                "quadrangles": [
+                    "Crystal Lake"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63953,
+                "elevation": 3529,
+                "prominence": 487,
+                "source": "loj",
+                "lojIsolation": 1.29,
+                "date": "2016-05-19",
+                "quadrangles": [
+                    "Glendora"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64170,
+                "elevation": 3430,
+                "prominence": 330,
+                "source": "loj",
+                "lojIsolation": 1.68,
+                "date": "2014-03-22",
+                "quadrangles": [
+                    "Azusa"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 141137,
+                "elevation": 3385,
+                "prominence": 45,
+                "source": "loj",
+                "lojIsolation": 0.23,
+                "date": "2014-03-22",
+                "quadrangles": [
+                    "Azusa"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64434,
+                "elevation": 3322,
+                "prominence": 182,
+                "source": "loj",
+                "lojIsolation": 2.01,
+                "date": "2016-05-20",
+                "quadrangles": [
+                    "Glendora"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63318,
+                "elevation": 3812,
+                "prominence": 352,
+                "source": "loj",
+                "lojIsolation": 0.9,
+                "date": "",
+                "quadrangles": [
+                    "Azusa"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63758,
+                "elevation": 3619,
+                "prominence": 439,
+                "source": "loj",
+                "lojIsolation": 1.85,
+                "date": "",
+                "quadrangles": [
+                    "Azusa"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 65453,
+                "elevation": 2885,
+                "prominence": 305,
+                "source": "loj",
+                "lojIsolation": 0.96,
+                "date": "",
+                "quadrangles": [
+                    "Azusa"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 65561,
+                "elevation": 2843,
+                "prominence": 503,
+                "source": "loj",
+                "lojIsolation": 1.42,
+                "date": "",
+                "quadrangles": [
+                    "Azusa"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 60495,
+                "elevation": 5346,
+                "prominence": 326,
+                "source": "loj",
+                "lojIsolation": 0.53,
+                "date": "",
+                "quadrangles": [
+                    "Crystal Lake"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63834,
+                "elevation": 3580,
+                "prominence": 360,
+                "source": "loj",
+                "lojIsolation": 2.18,
+                "date": "",
+                "quadrangles": [
+                    "Crystal Lake"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 59459,
+                "elevation": 6025,
+                "prominence": 325,
+                "source": "loj",
+                "lojIsolation": 2.4,
+                "date": "",
+                "quadrangles": [
+                    "Mount San Antonio"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Peaks North of West Fork San Gabriel River",
+        "peaks": [
+            {
+                "lojID": 66690,
+                "elevation": 2420,
+                "prominence": 320,
+                "source": "loj",
+                "lojIsolation": 1.6,
+                "date": "",
+                "quadrangles": [
+                    "Azusa"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 63545,
+                "elevation": 3702,
+                "prominence": 322,
+                "source": "loj",
+                "lojIsolation": 1.65,
+                "date": "",
+                "quadrangles": [
+                    "Waterman Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 61684,
+                "elevation": 4654,
+                "prominence": 714,
+                "source": "loj",
+                "lojIsolation": 3.28,
+                "date": "",
+                "quadrangles": [
+                    "Waterman Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62786,
+                "elevation": 4065,
+                "prominence": 285,
+                "source": "loj",
+                "lojIsolation": 1.07,
+                "date": "",
+                "quadrangles": [
+                    "Waterman Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 66357,
+                "elevation": 2543,
+                "prominence": 283,
+                "source": "loj",
+                "lojIsolation": 2.02,
+                "date": "",
+                "quadrangles": [
+                    "Crystal Lake"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 62573,
+                "elevation": 4177,
+                "prominence": 437,
+                "source": "loj",
+                "lojIsolation": 1.76,
+                "date": "",
+                "quadrangles": [
+                    "Waterman Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "San Dimas Experimental Forest",
+        "peaks": [
+            {
+                "lojID": 64879,
+                "elevation": 3126,
+                "prominence": 586,
+                "source": "loj",
+                "lojIsolation": 1.78,
+                "date": "",
+                "quadrangles": [
+                    "Glendora"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64747,
+                "elevation": 3180,
+                "prominence": 640,
+                "source": "loj",
+                "lojIsolation": 3.14,
+                "date": "",
+                "quadrangles": [
+                    "Glendora"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "San Antonio (Baldy) Peaks",
+        "peaks": [
+            {
+                "lojID": 58518,
+                "elevation": 6812,
+                "prominence": 152,
+                "source": "loj",
+                "lojIsolation": 0.43,
+                "date": "2015-11-14",
+                "quadrangles": [
+                    "Mount Baldy"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 58358,
+                "elevation": 6930,
+                "prominence": 390,
+                "source": "loj",
+                "lojIsolation": 2.83,
+                "date": "2015-11-14",
+                "quadrangles": [
+                    "Mount San Antonio"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 57878,
+                "elevation": 7460,
+                "prominence": 200,
+                "source": "loj",
+                "lojIsolation": 2.05,
+                "date": "2014-03-28",
+                "quadrangles": [
+                    "Mount San Antonio"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 16684,
+                "elevation": 10064,
+                "prominence": 6244,
+                "source": "loj",
+                "lojIsolation": 44.5,
+                "date": "2008-05-31",
+                "quadrangles": [
+                    "Mount San Antonio"
+                ],
+                "counties": [
+                    "Los Angeles",
+                    "San Bernardino"
+                ]
+            },
+            {
+                "lojID": 63132,
+                "elevation": 3900,
+                "prominence": 40,
+                "source": "loj",
+                "lojIsolation": 1.26,
+                "date": "",
+                "quadrangles": [
+                    "Mount Baldy"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 56685,
+                "elevation": 9425,
+                "prominence": 45,
+                "source": "loj",
+                "lojIsolation": 0.99,
+                "date": "",
+                "quadrangles": [
+                    "Mount San Antonio"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64192,
+                "elevation": 3420,
+                "prominence": 440,
+                "source": "loj",
+                "lojIsolation": 1.9,
+                "date": "2014-01-18",
+                "quadrangles": [
+                    "Mount Baldy"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 59811,
+                "elevation": 5796,
+                "prominence": 1273,
+                "source": "loj",
+                "lojIsolation": 2.76,
+                "date": "2010-03-21",
+                "quadrangles": [
+                    "Mount Baldy"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 57636,
+                "elevation": 7758,
+                "prominence": 391,
+                "source": "loj",
+                "lojIsolation": 1.05,
+                "date": "2008-05-31",
+                "quadrangles": [
+                    "Mount San Antonio"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 60257,
+                "elevation": 5480,
+                "prominence": 440,
+                "source": "loj",
+                "lojIsolation": 1.71,
+                "date": "2016-04-10",
+                "quadrangles": [
+                    "Mount Baldy"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Paso Robles Hills",
+        "peaks": [
+            {
+                "lojID": 68076,
+                "elevation": 1889,
+                "prominence": 549,
+                "source": "loj",
+                "lojIsolation": 5.83,
+                "date": "2015-12-17",
+                "quadrangles": [
+                    "Pasadena"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 68082,
+                "elevation": 1887,
+                "prominence": 547,
+                "source": "loj",
+                "lojIsolation": 1.77,
+                "date": "2015-03-18",
+                "quadrangles": [
+                    "Pasadena"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Verdugo Mountains",
+        "peaks": [
+            {
+                "lojID": 66094,
+                "elevation": 2656,
+                "prominence": 156,
+                "source": "loj",
+                "lojIsolation": 1.73,
+                "date": "2013-04-28",
+                "quadrangles": [
+                    "Burbank"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 64842,
+                "elevation": 3140,
+                "prominence": 1364,
+                "source": "loj",
+                "lojIsolation": 4.39,
+                "date": "2009-02-15",
+                "quadrangles": [
+                    "Burbank"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Urban Hills",
+        "peaks": [
+            {
+                "lojID": 69665,
+                "elevation": 1287,
+                "prominence": 175,
+                "source": "loj",
+                "lojIsolation": 2.28,
+                "date": "",
+                "quadrangles": [
+                    "Oat Mountain"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 152995,
+                "elevation": 710,
+                "prominence": 295,
+                "source": "loj",
+                "lojIsolation": 0.46,
+                "date": "",
+                "quadrangles": [
+                    "Los Angeles"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 171284,
+                "elevation": 670,
+                "prominence": 20,
+                "source": "loj",
+                "lojIsolation": 0.48,
+                "date": "",
+                "quadrangles": [
+                    "Los Angeles"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 69939,
+                "elevation": 1170,
+                "prominence": 220,
+                "source": "loj",
+                "lojIsolation": 0.81,
+                "date": "2016-05-25",
+                "latitude": 34.0517,
+                "longitude": -117.797,
+                "quadrangles": [
+                    "San Dimas"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 69438,
+                "elevation": 1381,
+                "prominence": 351,
+                "source": "loj",
+                "lojIsolation": 1.79,
+                "date": "2016-05-06",
+                "latitude": 34.0429,
+                "longitude": -117.7874,
+                "quadrangles": [
+                    "San Dimas"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 69840,
+                "elevation": 1212,
+                "prominence": 342,
+                "source": "loj",
+                "lojIsolation": 3.96,
+                "date": "2015-07-08",
+                "quadrangles": [
+                    "San Dimas"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 69467,
+                "elevation": 1375,
+                "prominence": 380,
+                "source": "loj",
+                "lojIsolation": 3.75,
+                "date": "2015-11-24",
+                "latitude": 34.0564,
+                "longitude": -117.8507,
+                "quadrangles": [
+                    "San Dimas"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 69374,
+                "elevation": 1416,
+                "prominence": 546,
+                "source": "loj",
+                "lojIsolation": 3.01,
+                "date": "2015-12-30",
+                "quadrangles": [
+                    "La Habra"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 69429,
+                "elevation": 1389,
+                "prominence": 619,
+                "source": "loj",
+                "lojIsolation": 3.67,
+                "date": "2015-12-30",
+                "quadrangles": [
+                    "Whittier"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 69337,
+                "elevation": 1428,
+                "prominence": 631,
+                "source": "loj",
+                "lojIsolation": 4.28,
+                "date": "",
+                "quadrangles": [
+                    "La Habra"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 140386,
+                "elevation": 1270,
+                "prominence": 300,
+                "source": "loj",
+                "lojIsolation": 1.08,
+                "date": "",
+                "quadrangles": [
+                    "La Habra"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 70860,
+                "elevation": 511,
+                "prominence": 374,
+                "source": "loj",
+                "lojIsolation": 8.39,
+                "date": "",
+                "quadrangles": [
+                    "Hollywood"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 70882,
+                "elevation": 490,
+                "prominence": 80,
+                "source": "loj",
+                "lojIsolation": 3.14,
+                "date": "",
+                "quadrangles": [
+                    "Hollywood"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 70575,
+                "elevation": 810,
+                "prominence": 360,
+                "source": "loj",
+                "lojIsolation": 1.94,
+                "date": "2016-02-03",
+                "quadrangles": [
+                    "Los Angeles"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Urban Driveups",
+        "peaks": [
+            {
+                "lojID": 70957,
+                "elevation": 362,
+                "prominence": 290,
+                "source": "loj",
+                "lojIsolation": 10.57,
+                "date": "",
+                "quadrangles": [
+                    "Long Beach"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 70109,
+                "elevation": 1090,
+                "prominence": 80,
+                "source": "loj",
+                "lojIsolation": 2.09,
+                "date": "",
+                "quadrangles": [
+                    "San Dimas"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 69434,
+                "elevation": 1385,
+                "prominence": 10,
+                "source": "loj",
+                "lojIsolation": 3.71,
+                "date": "",
+                "quadrangles": [
+                    "Ontario"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 70221,
+                "elevation": 1031,
+                "prominence": 131,
+                "source": "loj",
+                "lojIsolation": 2.48,
+                "date": "",
+                "quadrangles": [
+                    "Pasadena"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 70257,
+                "elevation": 1020,
+                "prominence": 40,
+                "source": "loj",
+                "lojIsolation": 1.59,
+                "date": "",
+                "quadrangles": [
+                    "Pasadena"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 70558,
+                "elevation": 820,
+                "prominence": 270,
+                "source": "loj",
+                "lojIsolation": 2.09,
+                "date": "",
+                "quadrangles": [
+                    "Pasadena"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 69670,
+                "elevation": 1284,
+                "prominence": 294,
+                "source": "loj",
+                "lojIsolation": 2.1,
+                "date": "",
+                "quadrangles": [
+                    "Baldwin Park"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 69232,
+                "elevation": 1470,
+                "prominence": 1368,
+                "source": "loj",
+                "lojIsolation": 23.93,
+                "date": "",
+                "quadrangles": [
+                    "San Pedro"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 70327,
+                "elevation": 960,
+                "prominence": 410,
+                "source": "loj",
+                "lojIsolation": 4.22,
+                "date": "2016-02-03",
+                "quadrangles": [
+                    "Los Angeles"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 70564,
+                "elevation": 820,
+                "prominence": 30,
+                "source": "loj",
+                "lojIsolation": 3.62,
+                "date": "2016-02-03",
+                "quadrangles": [
+                    "Pasadena"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 71021,
+                "elevation": 197,
+                "prominence": 105,
+                "source": "loj",
+                "lojIsolation": 9.74,
+                "date": "",
+                "quadrangles": [
+                    "Long Beach"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 68263,
+                "elevation": 1780,
+                "prominence": 440,
+                "source": "loj",
+                "lojIsolation": 1.2,
+                "date": "2015-12-17",
+                "quadrangles": [
+                    "Pasadena"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 152991,
+                "elevation": 1570,
+                "prominence": 480,
+                "source": "loj",
+                "lojIsolation": 4.02,
+                "date": "",
+                "quadrangles": [
+                    "Beverly Hills"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 70577,
+                "elevation": 809,
+                "prominence": 359,
+                "source": "loj",
+                "lojIsolation": 3.54,
+                "date": "",
+                "quadrangles": [
+                    "Baldwin Park"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 70662,
+                "elevation": 736,
+                "prominence": 326,
+                "source": "loj",
+                "lojIsolation": 5.38,
+                "date": "",
+                "quadrangles": [
+                    "Los Angeles"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Catalina Peaks",
+        "peaks": [
+            {
+                "lojID": 69618,
+                "elevation": 1302,
+                "prominence": 177,
+                "source": "loj",
+                "lojIsolation": 1.69,
+                "date": "",
+                "quadrangles": [
+                    "Santa Catalina East (N)"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 70128,
+                "elevation": 1075,
+                "prominence": 100,
+                "source": "loj",
+                "lojIsolation": 0.94,
+                "date": "",
+                "quadrangles": [
+                    "Santa Catalina South"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 69556,
+                "elevation": 1336,
+                "prominence": 161,
+                "source": "loj",
+                "lojIsolation": 1.78,
+                "date": "",
+                "quadrangles": [
+                    "Santa Catalina West"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 70596,
+                "elevation": 782,
+                "prominence": 7,
+                "source": "loj",
+                "lojIsolation": 1.24,
+                "date": "",
+                "quadrangles": [
+                    "Santa Catalina West"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 70854,
+                "elevation": 525,
+                "prominence": 150,
+                "source": "loj",
+                "lojIsolation": 2.12,
+                "date": "",
+                "quadrangles": [
+                    "Santa Catalina West"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 68674,
+                "elevation": 1684,
+                "prominence": 609,
+                "source": "loj",
+                "lojIsolation": 3.58,
+                "date": "",
+                "quadrangles": [
+                    "Santa Catalina East (S)"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 146881,
+                "elevation": 1671,
+                "prominence": 346,
+                "source": "loj",
+                "lojIsolation": 1.56,
+                "date": "",
+                "quadrangles": [
+                    "Santa Catalina East (S)"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 17550,
+                "elevation": 2125,
+                "prominence": 2125,
+                "source": "loj",
+                "lojIsolation": 50.48,
+                "date": "",
+                "quadrangles": [
+                    "Santa Catalina North"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 67748,
+                "elevation": 2010,
+                "prominence": 395,
+                "source": "loj",
+                "lojIsolation": 1.33,
+                "date": "",
+                "quadrangles": [
+                    "Santa Catalina North"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 68699,
+                "elevation": 1675,
+                "prominence": 300,
+                "source": "loj",
+                "lojIsolation": 0.75,
+                "date": "",
+                "quadrangles": [
+                    "Santa Catalina North"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 69793,
+                "elevation": 1236,
+                "prominence": 511,
+                "source": "loj",
+                "lojIsolation": 4.05,
+                "date": "",
+                "quadrangles": [
+                    "Santa Catalina North"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 146880,
+                "elevation": 1075,
+                "prominence": 350,
+                "source": "loj",
+                "lojIsolation": 1.09,
+                "date": "",
+                "quadrangles": [
+                    "Santa Catalina North"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 68480,
+                "elevation": 1747,
+                "prominence": 472,
+                "source": "loj",
+                "lojIsolation": 3.01,
+                "date": "",
+                "quadrangles": [
+                    "Santa Catalina South"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 68538,
+                "elevation": 1734,
+                "prominence": 309,
+                "source": "loj",
+                "lojIsolation": 0.95,
+                "date": "",
+                "quadrangles": [
+                    "Santa Catalina South"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 68697,
+                "elevation": 1675,
+                "prominence": 400,
+                "source": "loj",
+                "lojIsolation": 1.02,
+                "date": "",
+                "quadrangles": [
+                    "Santa Catalina South"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 68978,
+                "elevation": 1560,
+                "prominence": 385,
+                "source": "loj",
+                "lojIsolation": 2.46,
+                "date": "",
+                "quadrangles": [
+                    "Santa Catalina South"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 68325,
+                "elevation": 1804,
+                "prominence": 1779,
+                "source": "loj",
+                "lojIsolation": 10.4,
+                "date": "",
+                "quadrangles": [
+                    "Santa Catalina West"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 68414,
+                "elevation": 1776,
+                "prominence": 351,
+                "source": "loj",
+                "lojIsolation": 1.49,
+                "date": "",
+                "quadrangles": [
+                    "Santa Catalina West"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "UNLISTED: Low Value Bushwhacks",
+        "peaks": []
+    },
+    {
+        "name": "UNLISTED: visited Low-Prominence Spot Elevations",
+        "peaks": []
+    },
+    {
+        "name": "UNLISTED: unvisited Low-Prominence Spot Elevations",
+        "peaks": []
+    },
+    {
+        "name": "UNLISTED: Urban Paved Driveups",
+        "peaks": []
+    },
+    {
+        "name": "UNLISTED: Private Property Peaks",
+        "peaks": [
+            {
+                "lojID": 65611,
+                "elevation": 2824,
+                "prominence": 1034,
+                "source": "loj",
+                "lojIsolation": 7.49,
+                "date": "",
+                "quadrangles": [
+                    "Point Dume"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 69234,
+                "elevation": 1470,
+                "prominence": 340,
+                "source": "loj",
+                "lojIsolation": 4.48,
+                "date": "",
+                "latitude": 34.0177,
+                "longitude": -117.7806,
+                "quadrangles": [
+                    "San Dimas"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "UNLISTED: Military Property",
+        "peaks": [
+            {
+                "lojID": 64775,
+                "elevation": 3175,
+                "prominence": 45,
+                "source": "loj",
+                "lojIsolation": 5.52,
+                "date": "",
+                "quadrangles": [
+                    "Rogers Lake South"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 67843,
+                "elevation": 1965,
+                "prominence": 1965,
+                "source": "loj",
+                "lojIsolation": 34.06,
+                "date": "",
+                "quadrangles": [
+                    "San Clemente Island Cent (E)"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            }
+        ]
+    }
+]
