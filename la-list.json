@@ -4,6 +4,7 @@
         "peaks": [
             {
                 "lojID": 64407,
+                "name": "Sunday Benchmark",
                 "elevation": 3334,
                 "prominence": 344,
                 "source": "loj",
@@ -18,6 +19,7 @@
             },
             {
                 "lojID": 65555,
+                "name": "Little Butte",
                 "elevation": 2845,
                 "prominence": 20,
                 "source": "loj",
@@ -32,6 +34,7 @@
             },
             {
                 "lojID": 65610,
+                "name": "Rocky Buttes",
                 "elevation": 2825,
                 "prominence": 218,
                 "source": "loj",
@@ -46,6 +49,7 @@
             },
             {
                 "lojID": 59365,
+                "name": "Pt 6103'",
                 "elevation": 6103,
                 "prominence": 283,
                 "source": "loj",
@@ -60,6 +64,7 @@
             },
             {
                 "lojID": 66038,
+                "name": "Quartz Hill",
                 "elevation": 2670,
                 "prominence": 143,
                 "source": "loj",
@@ -74,6 +79,7 @@
             },
             {
                 "lojID": 65051,
+                "name": "Antelope Buttes",
                 "elevation": 3060,
                 "prominence": 281,
                 "source": "loj",
@@ -88,6 +94,7 @@
             },
             {
                 "lojID": 64186,
+                "name": "Three Sisters, North",
                 "elevation": 3422,
                 "prominence": 297,
                 "source": "loj",
@@ -102,6 +109,7 @@
             },
             {
                 "lojID": 64466,
+                "name": "Three Sisters, Middle",
                 "elevation": 3306,
                 "prominence": 151,
                 "source": "loj",
@@ -116,6 +124,7 @@
             },
             {
                 "lojID": 64600,
+                "name": "Three Sisters, South",
                 "elevation": 3255,
                 "prominence": 120,
                 "source": "loj",
@@ -130,6 +139,7 @@
             },
             {
                 "lojID": 66301,
+                "name": "Little Buttes",
                 "elevation": 2572,
                 "prominence": 105,
                 "source": "loj",
@@ -144,6 +154,7 @@
             },
             {
                 "lojID": 63559,
+                "name": "Pt 3700'",
                 "elevation": 3700,
                 "prominence": 280,
                 "source": "loj",
@@ -158,6 +169,7 @@
             },
             {
                 "lojID": 152985,
+                "name": "Pt 3277'",
                 "elevation": 3277,
                 "prominence": 297,
                 "source": "loj",
@@ -172,6 +184,7 @@
             },
             {
                 "lojID": 64934,
+                "name": "Saddleback Mountain",
                 "elevation": 3101,
                 "prominence": 281,
                 "source": "loj",
@@ -186,6 +199,7 @@
             },
             {
                 "lojID": 65847,
+                "name": "Pt 2740'",
                 "elevation": 2740,
                 "prominence": 280,
                 "source": "loj",
@@ -200,6 +214,7 @@
             },
             {
                 "lojID": 64379,
+                "name": "Lovejoy Buttes",
                 "elevation": 3343,
                 "prominence": 568,
                 "source": "loj",
@@ -214,6 +229,7 @@
             },
             {
                 "lojID": null,
+                "name": "Three Sisters Rock, North",
                 "elevation": 3020,
                 "prominence": 160,
                 "source": "loj",
@@ -228,6 +244,7 @@
             },
             {
                 "lojID": 65139,
+                "name": "Three Sisters Rock, Middle (HP)",
                 "elevation": 3020,
                 "prominence": 160,
                 "source": "loj",
@@ -242,6 +259,7 @@
             },
             {
                 "lojID": null,
+                "name": "Three Sisters Rock, South",
                 "elevation": 3020,
                 "prominence": 160,
                 "source": "loj",
@@ -256,6 +274,7 @@
             },
             {
                 "lojID": 65562,
+                "name": "Agua Dulce Benchmark",
                 "elevation": 2843,
                 "prominence": 503,
                 "source": "loj",
@@ -270,6 +289,7 @@
             },
             {
                 "lojID": 62637,
+                "name": "Parker Mountain",
                 "elevation": 4131,
                 "prominence": 871,
                 "source": "loj",
@@ -286,6 +306,7 @@
             },
             {
                 "lojID": 64128,
+                "name": "Adobe Mountain",
                 "elevation": 3458,
                 "prominence": 488,
                 "source": "loj",
@@ -300,6 +321,7 @@
             },
             {
                 "lojID": 66073,
+                "name": "Vasquez Rocks",
                 "elevation": 2660,
                 "prominence": 160,
                 "source": "loj",
@@ -314,6 +336,7 @@
             },
             {
                 "lojID": 66756,
+                "name": "Horse Benchmark",
                 "elevation": 2391,
                 "prominence": 371,
                 "source": "loj",
@@ -328,6 +351,7 @@
             },
             {
                 "lojID": 66960,
+                "name": "Cruzan Mesa",
                 "elevation": 2315,
                 "prominence": 175,
                 "source": "loj",
@@ -342,6 +366,7 @@
             },
             {
                 "lojID": 64592,
+                "name": "Alpine Butte",
                 "elevation": 3259,
                 "prominence": 584,
                 "source": "loj",
@@ -356,6 +381,7 @@
             },
             {
                 "lojID": 64750,
+                "name": "Pt 3166'",
                 "elevation": 3166,
                 "prominence": 386,
                 "source": "loj",
@@ -370,6 +396,7 @@
             },
             {
                 "lojID": 65635,
+                "name": "Pt 2820'",
                 "elevation": 2820,
                 "prominence": 320,
                 "source": "loj",
@@ -384,6 +411,7 @@
             },
             {
                 "lojID": 63660,
+                "name": "Saddleback Butte",
                 "elevation": 3654,
                 "prominence": 719,
                 "source": "loj",
@@ -398,6 +426,7 @@
             },
             {
                 "lojID": 64420,
+                "name": "Blue Rock Benchmark",
                 "elevation": 3328,
                 "prominence": 333,
                 "source": "loj",
@@ -412,6 +441,7 @@
             },
             {
                 "lojID": 64771,
+                "name": "Piute Butte",
                 "elevation": 3175,
                 "prominence": 600,
                 "source": "loj",
@@ -426,6 +456,7 @@
             },
             {
                 "lojID": 63829,
+                "name": "Black Butte",
                 "elevation": 3581,
                 "prominence": 536,
                 "source": "loj",
@@ -440,6 +471,7 @@
             },
             {
                 "lojID": 59463,
+                "name": "Pt 6020'",
                 "elevation": 6020,
                 "prominence": 560,
                 "source": "loj",
@@ -454,6 +486,7 @@
             },
             {
                 "lojID": 152977,
+                "name": "Pt 5279'",
                 "elevation": 5279,
                 "prominence": 339,
                 "source": "loj",
@@ -468,6 +501,7 @@
             },
             {
                 "lojID": 63112,
+                "name": "Pt 3900'",
                 "elevation": 3900,
                 "prominence": 400,
                 "source": "loj",
@@ -482,6 +516,7 @@
             },
             {
                 "lojID": 63308,
+                "name": "Pt 3819'",
                 "elevation": 3819,
                 "prominence": 519,
                 "source": "loj",
@@ -496,6 +531,7 @@
             },
             {
                 "lojID": 63361,
+                "name": "Pt 3788'",
                 "elevation": 3788,
                 "prominence": 528,
                 "source": "loj",
@@ -510,6 +546,7 @@
             },
             {
                 "lojID": 63368,
+                "name": "Pt 3784'",
                 "elevation": 3784,
                 "prominence": 524,
                 "source": "loj",
@@ -524,6 +561,7 @@
             },
             {
                 "lojID": 63644,
+                "name": "Pt 3660'",
                 "elevation": 3660,
                 "prominence": 320,
                 "source": "loj",
@@ -538,6 +576,7 @@
             },
             {
                 "lojID": 64196,
+                "name": "Pt 3420'",
                 "elevation": 3420,
                 "prominence": 320,
                 "source": "loj",
@@ -552,6 +591,7 @@
             },
             {
                 "lojID": 62813,
+                "name": "Pt 4054'",
                 "elevation": 4054,
                 "prominence": 754,
                 "source": "loj",
@@ -566,6 +606,7 @@
             },
             {
                 "lojID": 63140,
+                "name": "Pt 3897'",
                 "elevation": 3897,
                 "prominence": 477,
                 "source": "loj",
@@ -580,6 +621,7 @@
             },
             {
                 "lojID": 63702,
+                "name": "Pt 3636'",
                 "elevation": 3636,
                 "prominence": 456,
                 "source": "loj",
@@ -594,6 +636,7 @@
             },
             {
                 "lojID": 65558,
+                "name": "Pt 2844'",
                 "elevation": 2844,
                 "prominence": 424,
                 "source": "loj",
@@ -613,6 +656,7 @@
         "peaks": [
             {
                 "lojID": 64926,
+                "name": "Pt 3105'",
                 "elevation": 3105,
                 "prominence": 285,
                 "source": "loj",
@@ -627,6 +671,7 @@
             },
             {
                 "lojID": 65945,
+                "name": "Pt 2700'",
                 "elevation": 2700,
                 "prominence": 280,
                 "source": "loj",
@@ -641,6 +686,7 @@
             },
             {
                 "lojID": 140686,
+                "name": "Pt 3119'",
                 "elevation": 3119,
                 "prominence": 299,
                 "source": "loj",
@@ -655,6 +701,7 @@
             },
             {
                 "lojID": 66460,
+                "name": "Sand Rock Peak",
                 "elevation": 2511,
                 "prominence": 24,
                 "source": "loj",
@@ -669,6 +716,7 @@
             },
             {
                 "lojID": 68236,
+                "name": "Pt 1829'",
                 "elevation": 1829,
                 "prominence": 292,
                 "source": "loj",
@@ -683,6 +731,7 @@
             },
             {
                 "lojID": 66701,
+                "name": "Pyramid Rock",
                 "elevation": 2420,
                 "prominence": 160,
                 "source": "loj",
@@ -697,6 +746,7 @@
             },
             {
                 "lojID": 62606,
+                "name": "Whitaker Peak",
                 "elevation": 4148,
                 "prominence": 1128,
                 "source": "loj",
@@ -711,6 +761,7 @@
             },
             {
                 "lojID": 63364,
+                "name": "Pt 3786'",
                 "elevation": 3786,
                 "prominence": 326,
                 "source": "loj",
@@ -725,6 +776,7 @@
             },
             {
                 "lojID": 64979,
+                "name": "Pt 3086'",
                 "elevation": 3086,
                 "prominence": 386,
                 "source": "loj",
@@ -739,6 +791,7 @@
             },
             {
                 "lojID": 65706,
+                "name": "Pt 2787'",
                 "elevation": 2787,
                 "prominence": 327,
                 "source": "loj",
@@ -753,6 +806,7 @@
             },
             {
                 "lojID": 67073,
+                "name": "Pt 2265'",
                 "elevation": 2265,
                 "prominence": 445,
                 "source": "loj",
@@ -767,6 +821,7 @@
             },
             {
                 "lojID": 140664,
+                "name": "Pt 2189'",
                 "elevation": 2189,
                 "prominence": 329,
                 "source": "loj",
@@ -781,6 +836,7 @@
             },
             {
                 "lojID": 152987,
+                "name": "Pt 1981'",
                 "elevation": 1981,
                 "prominence": 331,
                 "source": "loj",
@@ -795,6 +851,7 @@
             },
             {
                 "lojID": 64739,
+                "name": "Townsend Peak",
                 "elevation": 3184,
                 "prominence": 604,
                 "source": "loj",
@@ -809,6 +866,7 @@
             },
             {
                 "lojID": 64185,
+                "name": "Hiway Benchmark",
                 "elevation": 3424,
                 "prominence": 324,
                 "source": "loj",
@@ -823,6 +881,7 @@
             },
             {
                 "lojID": 62863,
+                "name": "Pt 4020'",
                 "elevation": 4020,
                 "prominence": 560,
                 "source": "loj",
@@ -837,6 +896,7 @@
             },
             {
                 "lojID": 64964,
+                "name": "Pt 3096'",
                 "elevation": 3096,
                 "prominence": 308,
                 "source": "loj",
@@ -851,6 +911,7 @@
             },
             {
                 "lojID": 61718,
+                "name": "Slide Mountain",
                 "elevation": 4631,
                 "prominence": 611,
                 "source": "loj",
@@ -865,6 +926,7 @@
             },
             {
                 "lojID": 62944,
+                "name": "Pt 3980'",
                 "elevation": 3980,
                 "prominence": 400,
                 "source": "loj",
@@ -879,6 +941,7 @@
             },
             {
                 "lojID": 63069,
+                "name": "Pt 3929'",
                 "elevation": 3929,
                 "prominence": 389,
                 "source": "loj",
@@ -893,6 +956,7 @@
             },
             {
                 "lojID": 63798,
+                "name": "Pt 3598'",
                 "elevation": 3598,
                 "prominence": 378,
                 "source": "loj",
@@ -907,6 +971,7 @@
             },
             {
                 "lojID": 64195,
+                "name": "Pt 3420'",
                 "elevation": 3420,
                 "prominence": 360,
                 "source": "loj",
@@ -921,6 +986,7 @@
             },
             {
                 "lojID": 64391,
+                "name": "Pt 3340'",
                 "elevation": 3340,
                 "prominence": 360,
                 "source": "loj",
@@ -935,6 +1001,7 @@
             },
             {
                 "lojID": 64853,
+                "name": "Pt 3140'",
                 "elevation": 3140,
                 "prominence": 320,
                 "source": "loj",
@@ -949,6 +1016,7 @@
             },
             {
                 "lojID": 64829,
+                "name": "Pt 3148'",
                 "elevation": 3148,
                 "prominence": 448,
                 "source": "loj",
@@ -963,6 +1031,7 @@
             },
             {
                 "lojID": 61246,
+                "name": "Lebec B-9 Benchmark",
                 "elevation": 4906,
                 "prominence": 726,
                 "source": "loj",
@@ -977,6 +1046,7 @@
             },
             {
                 "lojID": 61288,
+                "name": "Tejon Benchmark",
                 "elevation": 4872,
                 "prominence": 332,
                 "source": "loj",
@@ -991,6 +1061,7 @@
             },
             {
                 "lojID": 61515,
+                "name": "Pines, Mount",
                 "elevation": 4740,
                 "prominence": 360,
                 "source": "loj",
@@ -1010,6 +1081,7 @@
         "peaks": [
             {
                 "lojID": 152983,
+                "name": "Pt 3980'",
                 "elevation": 3980,
                 "prominence": 290,
                 "source": "loj",
@@ -1024,6 +1096,7 @@
             },
             {
                 "lojID": 64759,
+                "name": "Pt 3180'",
                 "elevation": 3180,
                 "prominence": 280,
                 "source": "loj",
@@ -1038,6 +1111,7 @@
             },
             {
                 "lojID": 64342,
+                "name": "Ritter Ridge",
                 "elevation": 3364,
                 "prominence": 144,
                 "source": "loj",
@@ -1052,6 +1126,7 @@
             },
             {
                 "lojID": 63256,
+                "name": "Pt 3838'",
                 "elevation": 3838,
                 "prominence": 298,
                 "source": "loj",
@@ -1066,6 +1141,7 @@
             },
             {
                 "lojID": 17258,
+                "name": "Burnt Peak",
                 "elevation": 5794,
                 "prominence": 2464,
                 "source": "loj",
@@ -1080,6 +1156,7 @@
             },
             {
                 "lojID": 160154,
+                "name": "\"Liebre Mountain\"",
                 "elevation": 5780,
                 "prominence": 80,
                 "source": "loj",
@@ -1094,6 +1171,7 @@
             },
             {
                 "lojID": 60759,
+                "name": "McDill, Mount",
                 "elevation": 5187,
                 "prominence": 767,
                 "source": "loj",
@@ -1108,6 +1186,7 @@
             },
             {
                 "lojID": 64583,
+                "name": "Pt 3260'",
                 "elevation": 3260,
                 "prominence": 280,
                 "source": "loj",
@@ -1122,6 +1201,7 @@
             },
             {
                 "lojID": 64656,
+                "name": "Pt 3227'",
                 "elevation": 3227,
                 "prominence": 287,
                 "source": "loj",
@@ -1136,6 +1216,7 @@
             },
             {
                 "lojID": 66601,
+                "name": "Table Rock",
                 "elevation": 2460,
                 "prominence": 40,
                 "source": "loj",
@@ -1150,6 +1231,7 @@
             },
             {
                 "lojID": 62862,
+                "name": "Warm Springs Mountain",
                 "elevation": 4020,
                 "prominence": 1120,
                 "source": "loj",
@@ -1164,6 +1246,7 @@
             },
             {
                 "lojID": 62915,
+                "name": "Red Mountain",
                 "elevation": 3996,
                 "prominence": 936,
                 "source": "loj",
@@ -1178,6 +1261,7 @@
             },
             {
                 "lojID": 66753,
+                "name": "Pt 2392'",
                 "elevation": 2392,
                 "prominence": 372,
                 "source": "loj",
@@ -1192,6 +1276,7 @@
             },
             {
                 "lojID": 66856,
+                "name": "Pt 2356'",
                 "elevation": 2356,
                 "prominence": 376,
                 "source": "loj",
@@ -1206,6 +1291,7 @@
             },
             {
                 "lojID": 61333,
+                "name": "Sierra Benchmark",
                 "elevation": 4850,
                 "prominence": 350,
                 "source": "loj",
@@ -1220,6 +1306,7 @@
             },
             {
                 "lojID": 61778,
+                "name": "Granite Benchmark",
                 "elevation": 4593,
                 "prominence": 893,
                 "source": "loj",
@@ -1234,6 +1321,7 @@
             },
             {
                 "lojID": 61872,
+                "name": "Burn Benchmark",
                 "elevation": 4541,
                 "prominence": 521,
                 "source": "loj",
@@ -1248,6 +1336,7 @@
             },
             {
                 "lojID": 62020,
+                "name": "Pt 4474'",
                 "elevation": 4474,
                 "prominence": 414,
                 "source": "loj",
@@ -1262,6 +1351,7 @@
             },
             {
                 "lojID": 63229,
+                "name": "Pt 3853'",
                 "elevation": 3853,
                 "prominence": 553,
                 "source": "loj",
@@ -1276,6 +1366,7 @@
             },
             {
                 "lojID": 63353,
+                "name": "Pt 3791'",
                 "elevation": 3791,
                 "prominence": 411,
                 "source": "loj",
@@ -1290,6 +1381,7 @@
             },
             {
                 "lojID": 63366,
+                "name": "Windy Benchmark",
                 "elevation": 3785,
                 "prominence": 365,
                 "source": "loj",
@@ -1304,6 +1396,7 @@
             },
             {
                 "lojID": 64801,
+                "name": "Pt 3166'",
                 "elevation": 3166,
                 "prominence": 426,
                 "source": "loj",
@@ -1318,6 +1411,7 @@
             },
             {
                 "lojID": 61546,
+                "name": "Harold Beacon Benchmark",
                 "elevation": 4725,
                 "prominence": 545,
                 "source": "loj",
@@ -1332,6 +1426,7 @@
             },
             {
                 "lojID": 62785,
+                "name": "Pt 4065'",
                 "elevation": 4065,
                 "prominence": 325,
                 "source": "loj",
@@ -1346,6 +1441,7 @@
             },
             {
                 "lojID": 63483,
+                "name": "Pt 3730'",
                 "elevation": 3730,
                 "prominence": 310,
                 "source": "loj",
@@ -1360,6 +1456,7 @@
             },
             {
                 "lojID": 63807,
+                "name": "Pt 3589'",
                 "elevation": 3589,
                 "prominence": 369,
                 "source": "loj",
@@ -1374,6 +1471,7 @@
             },
             {
                 "lojID": 152984,
+                "name": "Pt 3260'",
                 "elevation": 3260,
                 "prominence": 320,
                 "source": "loj",
@@ -1388,6 +1486,7 @@
             },
             {
                 "lojID": 64965,
+                "name": "Burn Benchmark",
                 "elevation": 3094,
                 "prominence": 594,
                 "source": "loj",
@@ -1402,6 +1501,7 @@
             },
             {
                 "lojID": 152464,
+                "name": "Pt 2420'",
                 "elevation": 2420,
                 "prominence": 400,
                 "source": "loj",
@@ -1416,6 +1516,7 @@
             },
             {
                 "lojID": 61761,
+                "name": "Grass Mountain",
                 "elevation": 4605,
                 "prominence": 985,
                 "source": "loj",
@@ -1430,6 +1531,7 @@
             },
             {
                 "lojID": 61955,
+                "name": "Pt 4501'",
                 "elevation": 4501,
                 "prominence": 601,
                 "source": "loj",
@@ -1444,6 +1546,7 @@
             },
             {
                 "lojID": 152982,
+                "name": "Pt 4260'",
                 "elevation": 4260,
                 "prominence": 360,
                 "source": "loj",
@@ -1458,6 +1561,7 @@
             },
             {
                 "lojID": 62496,
+                "name": "Pt 4215'",
                 "elevation": 4215,
                 "prominence": 355,
                 "source": "loj",
@@ -1472,6 +1576,7 @@
             },
             {
                 "lojID": 62782,
+                "name": "Pt 4087'",
                 "elevation": 4087,
                 "prominence": 347,
                 "source": "loj",
@@ -1486,6 +1591,7 @@
             },
             {
                 "lojID": 63018,
+                "name": "Lake Benchmark",
                 "elevation": 3952,
                 "prominence": 412,
                 "source": "loj",
@@ -1500,6 +1606,7 @@
             },
             {
                 "lojID": 64808,
+                "name": "Fairmont Butte",
                 "elevation": 3163,
                 "prominence": 408,
                 "source": "loj",
@@ -1514,6 +1621,7 @@
             },
             {
                 "lojID": 62895,
+                "name": "Portal Ridge, East",
                 "elevation": 4007,
                 "prominence": 547,
                 "source": "loj",
@@ -1528,6 +1636,7 @@
             },
             {
                 "lojID": 61999,
+                "name": "Portal Ridge",
                 "elevation": 4486,
                 "prominence": 386,
                 "source": "loj",
@@ -1542,6 +1651,7 @@
             },
             {
                 "lojID": 59927,
+                "name": "Pt 5726'",
                 "elevation": 5726,
                 "prominence": 346,
                 "source": "loj",
@@ -1556,6 +1666,7 @@
             },
             {
                 "lojID": 60266,
+                "name": "Little Burnt Peak",
                 "elevation": 5500,
                 "prominence": 120,
                 "source": "loj",
@@ -1570,6 +1681,7 @@
             },
             {
                 "lojID": 62879,
+                "name": "Schumacher Point",
                 "elevation": 4020,
                 "prominence": 40,
                 "source": "loj",
@@ -1584,6 +1696,7 @@
             },
             {
                 "lojID": 60242,
+                "name": "Sawmill Mountain",
                 "elevation": 5514,
                 "prominence": 374,
                 "source": "loj",
@@ -1598,6 +1711,7 @@
             },
             {
                 "lojID": 60296,
+                "name": "Pt 5482'",
                 "elevation": 5482,
                 "prominence": 342,
                 "source": "loj",
@@ -1612,6 +1726,7 @@
             },
             {
                 "lojID": 60709,
+                "name": "Sawtooth Mountain",
                 "elevation": 5220,
                 "prominence": 560,
                 "source": "loj",
@@ -1626,6 +1741,7 @@
             },
             {
                 "lojID": 62394,
+                "name": "Pt 4260'",
                 "elevation": 4260,
                 "prominence": 480,
                 "source": "loj",
@@ -1640,6 +1756,7 @@
             },
             {
                 "lojID": 62669,
+                "name": "Pt 4119'",
                 "elevation": 4119,
                 "prominence": 339,
                 "source": "loj",
@@ -1654,6 +1771,7 @@
             },
             {
                 "lojID": 63381,
+                "name": "Pt 3780'",
                 "elevation": 3780,
                 "prominence": 320,
                 "source": "loj",
@@ -1668,6 +1786,7 @@
             },
             {
                 "lojID": 141134,
+                "name": "Red Rock Mountain Benchmark",
                 "elevation": 3991,
                 "prominence": 51,
                 "source": "loj",
@@ -1682,6 +1801,7 @@
             },
             {
                 "lojID": 61961,
+                "name": "Redrock Mountain",
                 "elevation": 4489,
                 "prominence": 680,
                 "source": "loj",
@@ -1698,6 +1818,7 @@
             },
             {
                 "lojID": 63165,
+                "name": "Pt 3884'",
                 "elevation": 3884,
                 "prominence": 344,
                 "source": "loj",
@@ -1712,6 +1833,7 @@
             },
             {
                 "lojID": 61975,
+                "name": "Jupiter Mountain",
                 "elevation": 4498,
                 "prominence": 1077,
                 "source": "loj",
@@ -1726,6 +1848,7 @@
             },
             {
                 "lojID": 62095,
+                "name": "Juno Peak",
                 "elevation": 4431,
                 "prominence": 331,
                 "source": "loj",
@@ -1740,6 +1863,7 @@
             },
             {
                 "lojID": 62129,
+                "name": "Tule Ridge",
                 "elevation": 4416,
                 "prominence": 636,
                 "source": "loj",
@@ -1754,6 +1878,7 @@
             },
             {
                 "lojID": 63521,
+                "name": "Bee Benchmark",
                 "elevation": 3717,
                 "prominence": 697,
                 "source": "loj",
@@ -1768,6 +1893,7 @@
             },
             {
                 "lojID": 63704,
+                "name": "Del Sur Ridge",
                 "elevation": 3635,
                 "prominence": 375,
                 "source": "loj",
@@ -1782,6 +1908,7 @@
             },
             {
                 "lojID": 63717,
+                "name": "Pt 3626'",
                 "elevation": 3626,
                 "prominence": 326,
                 "source": "loj",
@@ -1796,6 +1923,7 @@
             },
             {
                 "lojID": 63852,
+                "name": "Pt 3578'",
                 "elevation": 3578,
                 "prominence": 318,
                 "source": "loj",
@@ -1810,6 +1938,7 @@
             },
             {
                 "lojID": 65900,
+                "name": "Brushy Benchmark",
                 "elevation": 2714,
                 "prominence": 334,
                 "source": "loj",
@@ -1824,6 +1953,7 @@
             },
             {
                 "lojID": 59825,
+                "name": "Liebre Mountain",
                 "elevation": 5783,
                 "prominence": 1083,
                 "source": "loj",
@@ -1838,6 +1968,7 @@
             },
             {
                 "lojID": 61877,
+                "name": "Bald Mountain",
                 "elevation": 4540,
                 "prominence": 520,
                 "source": "loj",
@@ -1852,6 +1983,7 @@
             },
             {
                 "lojID": 62076,
+                "name": "Pt 4442'",
                 "elevation": 4442,
                 "prominence": 422,
                 "source": "loj",
@@ -1866,6 +1998,7 @@
             },
             {
                 "lojID": 62961,
+                "name": "Reservoir Hill",
                 "elevation": 3974,
                 "prominence": 474,
                 "source": "loj",
@@ -1880,6 +2013,7 @@
             },
             {
                 "lojID": 64113,
+                "name": "Pt 3460'",
                 "elevation": 3460,
                 "prominence": 480,
                 "source": "loj",
@@ -1894,6 +2028,7 @@
             },
             {
                 "lojID": 65007,
+                "name": "Pt 3075'",
                 "elevation": 3075,
                 "prominence": 415,
                 "source": "loj",
@@ -1913,6 +2048,7 @@
         "peaks": [
             {
                 "lojID": 64896,
+                "name": "Pt 3117'",
                 "elevation": 3117,
                 "prominence": 327,
                 "source": "loj",
@@ -1927,6 +2063,7 @@
             },
             {
                 "lojID": 65899,
+                "name": "Rocky Peak",
                 "elevation": 2714,
                 "prominence": 352,
                 "source": "loj",
@@ -1942,6 +2079,7 @@
             },
             {
                 "lojID": 65758,
+                "name": "Mission Point",
                 "elevation": 2771,
                 "prominence": 184,
                 "source": "loj",
@@ -1956,6 +2094,7 @@
             },
             {
                 "lojID": 65894,
+                "name": "Pt 2717'",
                 "elevation": 2717,
                 "prominence": 480,
                 "source": "loj",
@@ -1970,6 +2109,7 @@
             },
             {
                 "lojID": 63433,
+                "name": "Oat Mountain",
                 "elevation": 3747,
                 "prominence": 1960,
                 "source": "loj",
@@ -1984,6 +2124,7 @@
             },
             {
                 "lojID": 67153,
+                "name": "Pt 2230'",
                 "elevation": 2230,
                 "prominence": 443,
                 "source": "loj",
@@ -2003,6 +2144,7 @@
         "peaks": [
             {
                 "lojID": 152994,
+                "name": "Pt 1502'",
                 "elevation": 1502,
                 "prominence": 292,
                 "source": "loj",
@@ -2017,6 +2159,7 @@
             },
             {
                 "lojID": 66513,
+                "name": "Loma Verde",
                 "elevation": 2494,
                 "prominence": 354,
                 "source": "loj",
@@ -2031,6 +2174,7 @@
             },
             {
                 "lojID": 66846,
+                "name": "Pt 2361'",
                 "elevation": 2361,
                 "prominence": 524,
                 "source": "loj",
@@ -2045,6 +2189,7 @@
             },
             {
                 "lojID": 67429,
+                "name": "Pt 2137'",
                 "elevation": 2137,
                 "prominence": 400,
                 "source": "loj",
@@ -2059,6 +2204,7 @@
             },
             {
                 "lojID": 67540,
+                "name": "Pt 2094'",
                 "elevation": 2094,
                 "prominence": 324,
                 "source": "loj",
@@ -2073,6 +2219,7 @@
             },
             {
                 "lojID": 152986,
+                "name": "Pt 2012'",
                 "elevation": 2012,
                 "prominence": 300,
                 "source": "loj",
@@ -2087,6 +2234,7 @@
             },
             {
                 "lojID": 68692,
+                "name": "Pt 1677'",
                 "elevation": 1677,
                 "prominence": 340,
                 "source": "loj",
@@ -2106,6 +2254,7 @@
         "peaks": [
             {
                 "lojID": 68365,
+                "name": "Henry Ridge",
                 "elevation": 1787,
                 "prominence": 275,
                 "source": "loj",
@@ -2120,6 +2269,7 @@
             },
             {
                 "lojID": 70946,
+                "name": "Castellammare Mesa",
                 "elevation": 387,
                 "prominence": 100,
                 "source": "loj",
@@ -2134,6 +2284,7 @@
             },
             {
                 "lojID": 68558,
+                "name": "Barney Knob",
                 "elevation": 1729,
                 "prominence": 139,
                 "source": "loj",
@@ -2148,6 +2299,7 @@
             },
             {
                 "lojID": 71020,
+                "name": "Point Dume",
                 "elevation": 203,
                 "prominence": 66,
                 "source": "loj",
@@ -2162,6 +2314,7 @@
             },
             {
                 "lojID": 68193,
+                "name": "Mesa Peak",
                 "elevation": 1844,
                 "prominence": 82,
                 "source": "loj",
@@ -2176,6 +2329,7 @@
             },
             {
                 "lojID": 68590,
+                "name": "Brents Mountain",
                 "elevation": 1713,
                 "prominence": 251,
                 "source": "loj",
@@ -2190,6 +2344,7 @@
             },
             {
                 "lojID": 70053,
+                "name": "Goat Buttes, West",
                 "elevation": 1112,
                 "prominence": 150,
                 "source": "loj",
@@ -2204,6 +2359,7 @@
             },
             {
                 "lojID": 70823,
+                "name": "Solstice Hill",
                 "elevation": 562,
                 "prominence": 200,
                 "source": "loj",
@@ -2218,6 +2374,7 @@
             },
             {
                 "lojID": 141140,
+                "name": "McAuley Peak",
                 "elevation": 2049,
                 "prominence": 187,
                 "source": "loj",
@@ -2232,6 +2389,7 @@
             },
             {
                 "lojID": 66462,
+                "name": "Pt 2510'",
                 "elevation": 2510,
                 "prominence": 423,
                 "source": "loj",
@@ -2246,6 +2404,7 @@
             },
             {
                 "lojID": 68204,
+                "name": "Pt 1838'",
                 "elevation": 1838,
                 "prominence": 526,
                 "source": "loj",
@@ -2260,6 +2419,7 @@
             },
             {
                 "lojID": 152990,
+                "name": "Pt 1581'",
                 "elevation": 1581,
                 "prominence": 293,
                 "source": "loj",
@@ -2274,6 +2434,7 @@
             },
             {
                 "lojID": 160269,
+                "name": "\"Castle Peak\"",
                 "elevation": 1550,
                 "prominence": 40,
                 "source": "loj",
@@ -2288,6 +2449,7 @@
             },
             {
                 "lojID": 66471,
+                "name": "Pt 2507'",
                 "elevation": 2507,
                 "prominence": 797,
                 "source": "loj",
@@ -2302,6 +2464,7 @@
             },
             {
                 "lojID": 66614,
+                "name": "Pt 2450'",
                 "elevation": 2450,
                 "prominence": 640,
                 "source": "loj",
@@ -2316,6 +2479,7 @@
             },
             {
                 "lojID": 67230,
+                "name": "Saddle Rock",
                 "elevation": 2210,
                 "prominence": 320,
                 "source": "loj",
@@ -2330,6 +2494,7 @@
             },
             {
                 "lojID": 67455,
+                "name": "Pt 2126'",
                 "elevation": 2126,
                 "prominence": 339,
                 "source": "loj",
@@ -2344,6 +2509,7 @@
             },
             {
                 "lojID": 67562,
+                "name": "Pt 2080'",
                 "elevation": 2080,
                 "prominence": 370,
                 "source": "loj",
@@ -2358,6 +2524,7 @@
             },
             {
                 "lojID": 67665,
+                "name": "Ballard Mountain",
                 "elevation": 2039,
                 "prominence": 302,
                 "source": "loj",
@@ -2372,6 +2539,7 @@
             },
             {
                 "lojID": 152989,
+                "name": "Pt 1612'",
                 "elevation": 1612,
                 "prominence": 300,
                 "source": "loj",
@@ -2386,6 +2554,7 @@
             },
             {
                 "lojID": 69116,
+                "name": "Pt 1515'",
                 "elevation": 1515,
                 "prominence": 428,
                 "source": "loj",
@@ -2400,6 +2569,7 @@
             },
             {
                 "lojID": 60708,
+                "name": "Sierra Pelona",
                 "elevation": 5220,
                 "prominence": 1840,
                 "source": "loj",
@@ -2414,6 +2584,7 @@
             },
             {
                 "lojID": 67853,
+                "name": "San Vicente Mountain",
                 "elevation": 1961,
                 "prominence": 198,
                 "source": "loj",
@@ -2428,6 +2599,7 @@
             },
             {
                 "lojID": 67453,
+                "name": "Temescal Peak",
                 "elevation": 2126,
                 "prominence": 627,
                 "source": "loj",
@@ -2442,6 +2614,7 @@
             },
             {
                 "lojID": 67785,
+                "name": "Pt 1986'",
                 "elevation": 1986,
                 "prominence": 476,
                 "source": "loj",
@@ -2456,6 +2629,7 @@
             },
             {
                 "lojID": 68445,
+                "name": "Pt 1762'",
                 "elevation": 1762,
                 "prominence": 352,
                 "source": "loj",
@@ -2470,6 +2644,7 @@
             },
             {
                 "lojID": 68782,
+                "name": "Pt 1639'",
                 "elevation": 1639,
                 "prominence": 327,
                 "source": "loj",
@@ -2484,6 +2659,7 @@
             },
             {
                 "lojID": 68794,
+                "name": "Pt 1632'",
                 "elevation": 1632,
                 "prominence": 302,
                 "source": "loj",
@@ -2498,6 +2674,7 @@
             },
             {
                 "lojID": 65594,
+                "name": "Saddle Peak",
                 "elevation": 2830,
                 "prominence": 1740,
                 "source": "loj",
@@ -2512,6 +2689,7 @@
             },
             {
                 "lojID": 67351,
+                "name": "Calabasas Peak",
                 "elevation": 2163,
                 "prominence": 633,
                 "source": "loj",
@@ -2526,6 +2704,7 @@
             },
             {
                 "lojID": 69235,
+                "name": "Pt 1470'",
                 "elevation": 1470,
                 "prominence": 560,
                 "source": "loj",
@@ -2540,6 +2719,7 @@
             },
             {
                 "lojID": 69334,
+                "name": "Pt 1430'",
                 "elevation": 1430,
                 "prominence": 300,
                 "source": "loj",
@@ -2554,6 +2734,7 @@
             },
             {
                 "lojID": 69664,
+                "name": "Goat Buttes, East",
                 "elevation": 1287,
                 "prominence": 425,
                 "source": "loj",
@@ -2568,6 +2749,7 @@
             },
             {
                 "lojID": 69767,
+                "name": "Pt 1237'",
                 "elevation": 1237,
                 "prominence": 325,
                 "source": "loj",
@@ -2582,6 +2764,7 @@
             },
             {
                 "lojID": 69954,
+                "name": "Pt 1137'",
                 "elevation": 1137,
                 "prominence": 425,
                 "source": "loj",
@@ -2596,6 +2779,7 @@
             },
             {
                 "lojID": 152988,
+                "name": "Pt 1629'",
                 "elevation": 1629,
                 "prominence": 292,
                 "source": "loj",
@@ -2610,6 +2794,7 @@
             },
             {
                 "lojID": 68855,
+                "name": "Pt 1614'",
                 "elevation": 1614,
                 "prominence": 302,
                 "source": "loj",
@@ -2624,6 +2809,7 @@
             },
             {
                 "lojID": 67671,
+                "name": "Ladyface",
                 "elevation": 2036,
                 "prominence": 1066,
                 "source": "loj",
@@ -2638,6 +2824,7 @@
             },
             {
                 "lojID": 69075,
+                "name": "Pt 1529'",
                 "elevation": 1529,
                 "prominence": 379,
                 "source": "loj",
@@ -2658,6 +2845,7 @@
         "peaks": [
             {
                 "lojID": 69133,
+                "name": "Pt 1509'",
                 "elevation": 1509,
                 "prominence": 432,
                 "source": "loj",
@@ -2672,6 +2860,7 @@
             },
             {
                 "lojID": 67410,
+                "name": "Pt 2140'",
                 "elevation": 2140,
                 "prominence": 320,
                 "source": "loj",
@@ -2686,6 +2875,7 @@
             },
             {
                 "lojID": 68259,
+                "name": "Cahuenga Peak",
                 "elevation": 1820,
                 "prominence": 1030,
                 "source": "loj",
@@ -2700,6 +2890,7 @@
             },
             {
                 "lojID": 68643,
+                "name": "Lee, Mount",
                 "elevation": 1700,
                 "prominence": 40,
                 "source": "loj",
@@ -2714,6 +2905,7 @@
             },
             {
                 "lojID": 68811,
+                "name": "Hollywood, Mount",
                 "elevation": 1625,
                 "prominence": 245,
                 "source": "loj",
@@ -2728,6 +2920,7 @@
             },
             {
                 "lojID": 70175,
+                "name": "Bee Rock",
                 "elevation": 1060,
                 "prominence": 40,
                 "source": "loj",
@@ -2747,6 +2940,7 @@
         "peaks": [
             {
                 "lojID": null,
+                "name": "Cub Benchmark",
                 "elevation": 4498,
                 "prominence": 158,
                 "source": "map",
@@ -2762,6 +2956,7 @@
             },
             {
                 "lojID": 140687,
+                "name": "Magic Mountain Wilderness HP",
                 "elevation": 4705,
                 "prominence": 245,
                 "source": "loj",
@@ -2776,6 +2971,7 @@
             },
             {
                 "lojID": 152978,
+                "name": "Pt 4838'",
                 "elevation": 4838,
                 "prominence": 338,
                 "source": "loj",
@@ -2790,6 +2986,7 @@
             },
             {
                 "lojID": 60636,
+                "name": "Mendenhall Ridge",
                 "elevation": 5260,
                 "prominence": 280,
                 "source": "loj",
@@ -2804,6 +3001,7 @@
             },
             {
                 "lojID": 63259,
+                "name": "Pinnacle, The",
                 "elevation": 3836,
                 "prominence": 296,
                 "source": "loj",
@@ -2818,6 +3016,7 @@
             },
             {
                 "lojID": 65231,
+                "name": "Limerock Peak",
                 "elevation": 2986,
                 "prominence": 326,
                 "source": "loj",
@@ -2832,6 +3031,7 @@
             },
             {
                 "lojID": 67529,
+                "name": "Sugarloaf",
                 "elevation": 2100,
                 "prominence": 200,
                 "source": "loj",
@@ -2846,6 +3046,7 @@
             },
             {
                 "lojID": 63936,
+                "name": "Kagel Mountain",
                 "elevation": 3537,
                 "prominence": 917,
                 "source": "loj",
@@ -2860,6 +3061,7 @@
             },
             {
                 "lojID": 65865,
+                "name": "Pt 2732'",
                 "elevation": 2732,
                 "prominence": 312,
                 "source": "loj",
@@ -2874,6 +3076,7 @@
             },
             {
                 "lojID": 63147,
+                "name": "Yerba Buena Ridge",
                 "elevation": 3892,
                 "prominence": 912,
                 "source": "loj",
@@ -2888,6 +3091,7 @@
             },
             {
                 "lojID": 63033,
+                "name": "May Benchmark",
                 "elevation": 3948,
                 "prominence": 328,
                 "source": "loj",
@@ -2902,6 +3106,7 @@
             },
             {
                 "lojID": 63832,
+                "name": "Los Pinetos Peak",
                 "elevation": 3580,
                 "prominence": 480,
                 "source": "loj",
@@ -2916,6 +3121,7 @@
             },
             {
                 "lojID": 62861,
+                "name": "Fernando 2 Benchmark",
                 "elevation": 4003,
                 "prominence": 1320,
                 "source": "loj",
@@ -2930,6 +3136,7 @@
             },
             {
                 "lojID": null,
+                "name": "Contract Point",
                 "elevation": 3635,
                 "prominence": 0,
                 "source": "topo map",
@@ -2943,6 +3150,7 @@
             },
             {
                 "lojID": 61664,
+                "name": "Mendenhall Peak",
                 "elevation": 4660,
                 "prominence": 320,
                 "source": "loj",
@@ -2962,6 +3170,7 @@
         "peaks": [
             {
                 "lojID": 60396,
+                "name": "Pt 5420'",
                 "elevation": 5420,
                 "prominence": 280,
                 "source": "loj",
@@ -2976,6 +3185,7 @@
             },
             {
                 "lojID": 60834,
+                "name": "Pt 5146'",
                 "elevation": 5146,
                 "prominence": 366,
                 "source": "loj",
@@ -2990,6 +3200,7 @@
             },
             {
                 "lojID": 58158,
+                "name": "Pacifico Mountain",
                 "elevation": 7124,
                 "prominence": 1563,
                 "source": "loj",
@@ -3004,6 +3215,7 @@
             },
             {
                 "lojID": 58809,
+                "name": "Gleason, Mount",
                 "elevation": 6540,
                 "prominence": 1640,
                 "source": "loj",
@@ -3018,6 +3230,7 @@
             },
             {
                 "lojID": 61136,
+                "name": "Snow Benchmark",
                 "elevation": 4949,
                 "prominence": 809,
                 "source": "loj",
@@ -3032,6 +3245,7 @@
             },
             {
                 "lojID": null,
+                "name": "Indian Benchmark",
                 "elevation": 4542,
                 "prominence": 0,
                 "source": "loj",
@@ -3046,6 +3260,7 @@
             },
             {
                 "lojID": 59486,
+                "name": "Messenger Peak",
                 "elevation": 6015,
                 "prominence": 195,
                 "source": "loj",
@@ -3060,6 +3275,7 @@
             },
             {
                 "lojID": 60003,
+                "name": "Pt 5682'",
                 "elevation": 5682,
                 "prominence": 302,
                 "source": "loj",
@@ -3074,6 +3290,7 @@
             },
             {
                 "lojID": 59962,
+                "name": "Pt 5705'",
                 "elevation": 5705,
                 "prominence": 285,
                 "source": "loj",
@@ -3088,6 +3305,7 @@
             },
             {
                 "lojID": 58980,
+                "name": "Bare Mountain",
                 "elevation": 6388,
                 "prominence": 568,
                 "source": "loj",
@@ -3107,6 +3325,7 @@
         "peaks": [
             {
                 "lojID": 64825,
+                "name": "Pt 3150'",
                 "elevation": 3150,
                 "prominence": 290,
                 "source": "loj",
@@ -3121,6 +3340,7 @@
             },
             {
                 "lojID": 62144,
+                "name": "Fall Creek Point",
                 "elevation": 4408,
                 "prominence": 388,
                 "source": "loj",
@@ -3135,6 +3355,7 @@
             },
             {
                 "lojID": 60071,
+                "name": "Iron Mountain",
                 "elevation": 5635,
                 "prominence": 577,
                 "source": "loj",
@@ -3149,6 +3370,7 @@
             },
             {
                 "lojID": 60328,
+                "name": "Condor Peak",
                 "elevation": 5460,
                 "prominence": 680,
                 "source": "loj",
@@ -3163,6 +3385,7 @@
             },
             {
                 "lojID": 60809,
+                "name": "Pt 5162'",
                 "elevation": 5162,
                 "prominence": 302,
                 "source": "loj",
@@ -3177,6 +3400,7 @@
             },
             {
                 "lojID": 60944,
+                "name": "Mount Lukens",
                 "elevation": 5074,
                 "prominence": 1774,
                 "source": "loj",
@@ -3191,6 +3415,7 @@
             },
             {
                 "lojID": 61009,
+                "name": "Fox Benchmark",
                 "elevation": 5033,
                 "prominence": 493,
                 "source": "loj",
@@ -3210,6 +3435,7 @@
         "peaks": [
             {
                 "lojID": 152980,
+                "name": "Pt 4388'",
                 "elevation": 4388,
                 "prominence": 288,
                 "source": "loj",
@@ -3224,6 +3450,7 @@
             },
             {
                 "lojID": 58726,
+                "name": "Granite Mountain",
                 "elevation": 6620,
                 "prominence": 400,
                 "source": "loj",
@@ -3238,6 +3465,7 @@
             },
             {
                 "lojID": 60113,
+                "name": "Cole Benchmark",
                 "elevation": 5604,
                 "prominence": 344,
                 "source": "loj",
@@ -3252,6 +3480,7 @@
             },
             {
                 "lojID": 62329,
+                "name": "Pt 4280+'",
                 "elevation": 4300,
                 "prominence": 280,
                 "source": "loj",
@@ -3266,6 +3495,7 @@
             },
             {
                 "lojID": 62101,
+                "name": "Pt 4427'",
                 "elevation": 4427,
                 "prominence": 287,
                 "source": "loj",
@@ -3280,6 +3510,7 @@
             },
             {
                 "lojID": 62231,
+                "name": "Pt 4358'",
                 "elevation": 4358,
                 "prominence": 298,
                 "source": "loj",
@@ -3294,6 +3525,7 @@
             },
             {
                 "lojID": 152981,
+                "name": "Pt 4380'",
                 "elevation": 4380,
                 "prominence": 280,
                 "source": "loj",
@@ -3308,6 +3540,7 @@
             },
             {
                 "lojID": 59287,
+                "name": "Pt 6168'",
                 "elevation": 6168,
                 "prominence": 388,
                 "source": "loj",
@@ -3322,6 +3555,7 @@
             },
             {
                 "lojID": 59682,
+                "name": "Pt 5881'",
                 "elevation": 5881,
                 "prominence": 461,
                 "source": "loj",
@@ -3336,6 +3570,7 @@
             },
             {
                 "lojID": 59724,
+                "name": "Pt 5860'",
                 "elevation": 5860,
                 "prominence": 400,
                 "source": "loj",
@@ -3350,6 +3585,7 @@
             },
             {
                 "lojID": 60850,
+                "name": "Pt 5140'",
                 "elevation": 5140,
                 "prominence": 360,
                 "source": "loj",
@@ -3364,6 +3600,7 @@
             },
             {
                 "lojID": 61143,
+                "name": "Pt 4946'",
                 "elevation": 4946,
                 "prominence": 406,
                 "source": "loj",
@@ -3378,6 +3615,7 @@
             },
             {
                 "lojID": 61235,
+                "name": "Pt 4900'",
                 "elevation": 4900,
                 "prominence": 320,
                 "source": "loj",
@@ -3392,6 +3630,7 @@
             },
             {
                 "lojID": 62042,
+                "name": "Pt 4460'",
                 "elevation": 4460,
                 "prominence": 720,
                 "source": "loj",
@@ -3406,6 +3645,7 @@
             },
             {
                 "lojID": 62298,
+                "name": "Pt 4322'",
                 "elevation": 4322,
                 "prominence": 302,
                 "source": "loj",
@@ -3420,6 +3660,7 @@
             },
             {
                 "lojID": 62320,
+                "name": "Pt 4300'",
                 "elevation": 4300,
                 "prominence": 520,
                 "source": "loj",
@@ -3434,6 +3675,7 @@
             },
             {
                 "lojID": 62337,
+                "name": "Pt 4296'",
                 "elevation": 4296,
                 "prominence": 396,
                 "source": "loj",
@@ -3448,6 +3690,7 @@
             },
             {
                 "lojID": 62558,
+                "name": "Pt 4183'",
                 "elevation": 4183,
                 "prominence": 443,
                 "source": "loj",
@@ -3462,6 +3705,7 @@
             },
             {
                 "lojID": 60906,
+                "name": "Pt 5100'",
                 "elevation": 5100,
                 "prominence": 280,
                 "source": "loj",
@@ -3476,6 +3720,7 @@
             },
             {
                 "lojID": 141025,
+                "name": "\"Old Mount Emma\"",
                 "elevation": 5063,
                 "prominence": 243,
                 "source": "loj",
@@ -3490,6 +3735,7 @@
             },
             {
                 "lojID": 60969,
+                "name": "Iron Mountain",
                 "elevation": 5060,
                 "prominence": 320,
                 "source": "loj",
@@ -3504,6 +3750,7 @@
             },
             {
                 "lojID": 60557,
+                "name": "Rabbit Peak",
                 "elevation": 5307,
                 "prominence": 207,
                 "source": "loj",
@@ -3518,6 +3765,7 @@
             },
             {
                 "lojID": 59079,
+                "name": "Roundtop",
                 "elevation": 6316,
                 "prominence": 216,
                 "source": "loj",
@@ -3532,6 +3780,7 @@
             },
             {
                 "lojID": 61183,
+                "name": "McKinley, Mount",
                 "elevation": 4926,
                 "prominence": 266,
                 "source": "loj",
@@ -3546,6 +3795,7 @@
             },
             {
                 "lojID": 61302,
+                "name": "Magic Mountain",
                 "elevation": 4860,
                 "prominence": 520,
                 "source": "loj",
@@ -3560,6 +3810,7 @@
             },
             {
                 "lojID": 60604,
+                "name": "Emma, Mount",
                 "elevation": 5273,
                 "prominence": 773,
                 "source": "loj",
@@ -3579,6 +3830,7 @@
         "peaks": [
             {
                 "lojID": 61559,
+                "name": "Pt 4711'",
                 "elevation": 4711,
                 "prominence": 291,
                 "source": "loj",
@@ -3593,6 +3845,7 @@
             },
             {
                 "lojID": 60117,
+                "name": "Lowe, Mount",
                 "elevation": 5603,
                 "prominence": 263,
                 "source": "loj",
@@ -3607,6 +3860,7 @@
             },
             {
                 "lojID": 60587,
+                "name": "Rankin Peak",
                 "elevation": 5291,
                 "prominence": 111,
                 "source": "loj",
@@ -3621,6 +3875,7 @@
             },
             {
                 "lojID": null,
+                "name": "Fuji, Mount",
                 "elevation": 3681,
                 "prominence": 101,
                 "source": "Local legend; Fuji Camp is still the name of the upper campsite at Henninger Flats.",
@@ -3636,6 +3891,7 @@
             },
             {
                 "lojID": 60368,
+                "name": "Harvard, Mount",
                 "elevation": 5441,
                 "prominence": 301,
                 "source": "loj",
@@ -3650,6 +3906,7 @@
             },
             {
                 "lojID": 63860,
+                "name": "Mount Zion",
                 "elevation": 3575,
                 "prominence": 75,
                 "source": "loj",
@@ -3664,6 +3921,7 @@
             },
             {
                 "lojID": 141138,
+                "name": "Echo Mountain",
                 "elevation": 3207,
                 "prominence": 0,
                 "source": "loj",
@@ -3678,6 +3936,7 @@
             },
             {
                 "lojID": 141087,
+                "name": "Jones Peak",
                 "elevation": 3375,
                 "prominence": 75,
                 "source": "loj",
@@ -3692,6 +3951,7 @@
             },
             {
                 "lojID": 141133,
+                "name": "Hastings Peak",
                 "elevation": 4020,
                 "prominence": 0,
                 "source": "loj",
@@ -3706,6 +3966,7 @@
             },
             {
                 "lojID": 61794,
+                "name": "Pt 4583'",
                 "elevation": 4583,
                 "prominence": 283,
                 "source": "loj",
@@ -3720,6 +3981,7 @@
             },
             {
                 "lojID": 59296,
+                "name": "San Gabriel Peak",
                 "elevation": 6161,
                 "prominence": 1541,
                 "source": "loj",
@@ -3734,6 +3996,7 @@
             },
             {
                 "lojID": 141021,
+                "name": "Mount Deception",
                 "elevation": 5796,
                 "prominence": 256,
                 "source": "loj",
@@ -3748,6 +4011,7 @@
             },
             {
                 "lojID": 59886,
+                "name": "Mount Markham",
                 "elevation": 5742,
                 "prominence": 442,
                 "source": "loj",
@@ -3762,6 +4026,7 @@
             },
             {
                 "lojID": 59543,
+                "name": "Mount Disappointment",
                 "elevation": 5980,
                 "prominence": 240,
                 "source": "loj",
@@ -3776,6 +4041,7 @@
             },
             {
                 "lojID": 59913,
+                "name": "Occidental Peak",
                 "elevation": 5732,
                 "prominence": 632,
                 "source": "loj",
@@ -3790,6 +4056,7 @@
             },
             {
                 "lojID": 59949,
+                "name": "Mount Wilson",
                 "elevation": 5710,
                 "prominence": 170,
                 "source": "loj",
@@ -3804,6 +4071,7 @@
             },
             {
                 "lojID": 141131,
+                "name": "Newcomb Peak",
                 "elevation": 4166,
                 "prominence": 186,
                 "source": "loj",
@@ -3818,6 +4086,7 @@
             },
             {
                 "lojID": 61987,
+                "name": "Pt 4492'",
                 "elevation": 4492,
                 "prominence": 352,
                 "source": "loj",
@@ -3832,6 +4101,7 @@
             },
             {
                 "lojID": 62031,
+                "name": "Brown Mountain",
                 "elevation": 4466,
                 "prominence": 406,
                 "source": "loj",
@@ -3846,6 +4116,7 @@
             },
             {
                 "lojID": 141132,
+                "name": "\"Mount Yale\"",
                 "elevation": 4780,
                 "prominence": 80,
                 "source": "loj",
@@ -3860,6 +4131,7 @@
             },
             {
                 "lojID": 61554,
+                "name": "Inspiration Point",
                 "elevation": 4714,
                 "prominence": 254,
                 "source": "loj",
@@ -3874,6 +4146,7 @@
             },
             {
                 "lojID": 71057,
+                "name": "Muir Peak",
                 "elevation": 4688,
                 "prominence": 188,
                 "source": "loj",
@@ -3888,6 +4161,7 @@
             },
             {
                 "lojID": 61948,
+                "name": "Middle Benchmark",
                 "elevation": 4505,
                 "prominence": 405,
                 "source": "loj",
@@ -3902,6 +4176,7 @@
             },
             {
                 "lojID": 60414,
+                "name": "Monrovia Peak",
                 "elevation": 5409,
                 "prominence": 1509,
                 "source": "loj",
@@ -3921,6 +4196,7 @@
         "peaks": [
             {
                 "lojID": 152979,
+                "name": "Ladybug Canyon Point",
                 "elevation": 4751,
                 "prominence": 291,
                 "source": "loj",
@@ -3935,6 +4211,7 @@
             },
             {
                 "lojID": 60179,
+                "name": "Josephine Peak",
                 "elevation": 5558,
                 "prominence": 698,
                 "source": "loj",
@@ -3949,6 +4226,7 @@
             },
             {
                 "lojID": 60415,
+                "name": "Sally, Mount",
                 "elevation": 5408,
                 "prominence": 468,
                 "source": "loj",
@@ -3963,6 +4241,7 @@
             },
             {
                 "lojID": 60391,
+                "name": "East Mt Sally",
                 "elevation": 5420,
                 "prominence": 309,
                 "source": "loj",
@@ -3977,6 +4256,7 @@
             },
             {
                 "lojID": 65145,
+                "name": "CCC Ridge",
                 "elevation": 3020,
                 "prominence": 80,
                 "source": "loj",
@@ -3991,6 +4271,7 @@
             },
             {
                 "lojID": 59290,
+                "name": "Strawberry Peak",
                 "elevation": 6164,
                 "prominence": 1584,
                 "source": "loj",
@@ -4005,6 +4286,7 @@
             },
             {
                 "lojID": 59566,
+                "name": "Lawlor, Mount",
                 "elevation": 5957,
                 "prominence": 737,
                 "source": "loj",
@@ -4019,6 +4301,7 @@
             },
             {
                 "lojID": 141099,
+                "name": "\"Barley Flats\"",
                 "elevation": 5620,
                 "prominence": 160,
                 "source": "loj",
@@ -4033,6 +4316,7 @@
             },
             {
                 "lojID": null,
+                "name": "Thorn Benchmark",
                 "elevation": 5499,
                 "prominence": 119,
                 "source": "loj",
@@ -4048,6 +4332,7 @@
             },
             {
                 "lojID": 152035,
+                "name": "Pt 3754'",
                 "elevation": 3754,
                 "prominence": 454,
                 "source": "loj",
@@ -4062,6 +4347,7 @@
             },
             {
                 "lojID": 63508,
+                "name": "Bliss, Mount",
                 "elevation": 3720,
                 "prominence": 500,
                 "source": "loj",
@@ -4076,6 +4362,7 @@
             },
             {
                 "lojID": 64869,
+                "name": "Van Tassel Ridge",
                 "elevation": 3136,
                 "prominence": 36,
                 "source": "loj",
@@ -4090,6 +4377,7 @@
             },
             {
                 "lojID": 63591,
+                "name": "Pt 3685'",
                 "elevation": 3685,
                 "prominence": 305,
                 "source": "loj",
@@ -4104,6 +4392,7 @@
             },
             {
                 "lojID": 62150,
+                "name": "Hoyt Mountain",
                 "elevation": 4404,
                 "prominence": 756,
                 "source": "loj",
@@ -4118,6 +4407,7 @@
             },
             {
                 "lojID": 62414,
+                "name": "Pt 4253'",
                 "elevation": 4253,
                 "prominence": 393,
                 "source": "loj",
@@ -4132,6 +4422,7 @@
             },
             {
                 "lojID": 61547,
+                "name": "Pt 4724'",
                 "elevation": 4724,
                 "prominence": 384,
                 "source": "loj",
@@ -4146,6 +4437,7 @@
             },
             {
                 "lojID": 62518,
+                "name": "Clear Creek Point",
                 "elevation": 4202,
                 "prominence": 542,
                 "source": "loj",
@@ -4160,6 +4452,7 @@
             },
             {
                 "lojID": 62186,
+                "name": "Clamshell Peak",
                 "elevation": 4380,
                 "prominence": 280,
                 "source": "loj",
@@ -4174,6 +4467,7 @@
             },
             {
                 "lojID": 66021,
+                "name": "Pt 2675'",
                 "elevation": 2675,
                 "prominence": 295,
                 "source": "loj",
@@ -4188,6 +4482,7 @@
             },
             {
                 "lojID": 141139,
+                "name": "\"Azusa Peak\"",
                 "elevation": 2081,
                 "prominence": 61,
                 "source": "loj",
@@ -4207,6 +4502,7 @@
         "peaks": [
             {
                 "lojID": 58712,
+                "name": "Valcrest Rocks?",
                 "elevation": 6629,
                 "prominence": 329,
                 "source": "loj",
@@ -4221,6 +4517,7 @@
             },
             {
                 "lojID": 58278,
+                "name": "Winston Ridge",
                 "elevation": 7003,
                 "prominence": 343,
                 "source": "loj",
@@ -4235,6 +4532,7 @@
             },
             {
                 "lojID": 58017,
+                "name": "Mount Akawie",
                 "elevation": 7283,
                 "prominence": 343,
                 "source": "loj",
@@ -4249,6 +4547,7 @@
             },
             {
                 "lojID": 141084,
+                "name": "Wild View Peak",
                 "elevation": 7258,
                 "prominence": 78,
                 "source": "loj",
@@ -4263,6 +4562,7 @@
             },
             {
                 "lojID": 58112,
+                "name": "Pt 7180'",
                 "elevation": 7180,
                 "prominence": 320,
                 "source": "loj",
@@ -4277,6 +4577,7 @@
             },
             {
                 "lojID": 17088,
+                "name": "Baden-Powell, Mount",
                 "elevation": 9399,
                 "prominence": 2819,
                 "source": "loj",
@@ -4291,6 +4592,7 @@
             },
             {
                 "lojID": 56805,
+                "name": "Throop Peak",
                 "elevation": 9138,
                 "prominence": 598,
                 "source": "loj",
@@ -4305,6 +4607,7 @@
             },
             {
                 "lojID": 56875,
+                "name": "Burnham, Mount",
                 "elevation": 8997,
                 "prominence": 177,
                 "source": "loj",
@@ -4319,6 +4622,7 @@
             },
             {
                 "lojID": 56949,
+                "name": "Hawkins, Mount",
                 "elevation": 8850,
                 "prominence": 110,
                 "source": "loj",
@@ -4333,6 +4637,7 @@
             },
             {
                 "lojID": 141023,
+                "name": "\"Middle Hawkins\"",
                 "elevation": 8505,
                 "prominence": 205,
                 "source": "loj",
@@ -4347,6 +4652,7 @@
             },
             {
                 "lojID": 57191,
+                "name": "Lewis, Mount",
                 "elevation": 8396,
                 "prominence": 493,
                 "source": "loj",
@@ -4361,6 +4667,7 @@
             },
             {
                 "lojID": 57283,
+                "name": "Islip, Mount",
                 "elevation": 8250,
                 "prominence": 662,
                 "source": "loj",
@@ -4375,6 +4682,7 @@
             },
             {
                 "lojID": 57285,
+                "name": "Williamson, Mount",
                 "elevation": 8248,
                 "prominence": 1588,
                 "source": "loj",
@@ -4389,6 +4697,7 @@
             },
             {
                 "lojID": 141080,
+                "name": "Sadie Hawkins",
                 "elevation": 8047,
                 "prominence": 147,
                 "source": "loj",
@@ -4403,6 +4712,7 @@
             },
             {
                 "lojID": 57428,
+                "name": "Waterman Mountain",
                 "elevation": 8038,
                 "prominence": 1418,
                 "source": "loj",
@@ -4417,6 +4727,7 @@
             },
             {
                 "lojID": 57461,
+                "name": "Pallett Benchmark",
                 "elevation": 7983,
                 "prominence": 1024,
                 "source": "loj",
@@ -4431,6 +4742,7 @@
             },
             {
                 "lojID": 57565,
+                "name": "Will Thrall Peak",
                 "elevation": 7845,
                 "prominence": 185,
                 "source": "loj",
@@ -4445,6 +4757,7 @@
             },
             {
                 "lojID": 57614,
+                "name": "South Mount Hawkins",
                 "elevation": 7783,
                 "prominence": 323,
                 "source": "loj",
@@ -4459,6 +4772,7 @@
             },
             {
                 "lojID": 57619,
+                "name": "Pallett Mountain",
                 "elevation": 7780,
                 "prominence": 480,
                 "source": "loj",
@@ -4473,6 +4787,7 @@
             },
             {
                 "lojID": 57632,
+                "name": "Twin Peaks, East",
                 "elevation": 7761,
                 "prominence": 1221,
                 "source": "loj",
@@ -4487,6 +4802,7 @@
             },
             {
                 "lojID": 57786,
+                "name": "Pt 7580'",
                 "elevation": 7580,
                 "prominence": 280,
                 "source": "loj",
@@ -4501,6 +4817,7 @@
             },
             {
                 "lojID": 141083,
+                "name": "\"Goodykoontz Peak\"",
                 "elevation": 7558,
                 "prominence": 98,
                 "source": "loj",
@@ -4515,6 +4832,7 @@
             },
             {
                 "lojID": 57830,
+                "name": "Kratka Ridge",
                 "elevation": 7515,
                 "prominence": 775,
                 "source": "loj",
@@ -4529,6 +4847,7 @@
             },
             {
                 "lojID": 57835,
+                "name": "Winston Peak",
                 "elevation": 7502,
                 "prominence": 482,
                 "source": "loj",
@@ -4543,6 +4862,7 @@
             },
             {
                 "lojID": 57847,
+                "name": "Copter Ridge",
                 "elevation": 7499,
                 "prominence": 119,
                 "source": "loj",
@@ -4557,6 +4877,7 @@
             },
             {
                 "lojID": 57771,
+                "name": "Twin Peaks, West",
                 "elevation": 7596,
                 "prominence": 256,
                 "source": "loj",
@@ -4571,6 +4892,7 @@
             },
             {
                 "lojID": 59306,
+                "name": "Triplet Rocks",
                 "elevation": 6151,
                 "prominence": 291,
                 "source": "loj",
@@ -4585,6 +4907,7 @@
             },
             {
                 "lojID": 140592,
+                "name": "Chilao Summit",
                 "elevation": 5580,
                 "prominence": 280,
                 "source": "loj",
@@ -4599,6 +4922,7 @@
             },
             {
                 "lojID": 59720,
+                "name": "Mooney, Mount",
                 "elevation": 5860,
                 "prominence": 240,
                 "source": "loj",
@@ -4613,6 +4937,7 @@
             },
             {
                 "lojID": 59201,
+                "name": "\"Mount Hillyer\"",
                 "elevation": 6220,
                 "prominence": 320,
                 "source": "loj",
@@ -4627,6 +4952,7 @@
             },
             {
                 "lojID": 59295,
+                "name": "Hillyer, Mount",
                 "elevation": 6162,
                 "prominence": 22,
                 "source": "loj",
@@ -4641,6 +4967,7 @@
             },
             {
                 "lojID": 59638,
+                "name": "Vetter Mountain",
                 "elevation": 5908,
                 "prominence": 688,
                 "source": "loj",
@@ -4655,6 +4982,7 @@
             },
             {
                 "lojID": 141093,
+                "name": "Devil Benchmark",
                 "elevation": 5870,
                 "prominence": 490,
                 "source": "loj",
@@ -4669,6 +4997,7 @@
             },
             {
                 "lojID": 57829,
+                "name": "Table Mountain",
                 "elevation": 7516,
                 "prominence": 656,
                 "source": "loj",
@@ -4683,6 +5012,7 @@
             },
             {
                 "lojID": 59051,
+                "name": "Pt 6340'",
                 "elevation": 6340,
                 "prominence": 560,
                 "source": "loj",
@@ -4697,6 +5027,7 @@
             },
             {
                 "lojID": 57123,
+                "name": "Frost Benchmark",
                 "elevation": 8500,
                 "prominence": 400,
                 "source": "loj",
@@ -4716,6 +5047,7 @@
         "peaks": [
             {
                 "lojID": 62123,
+                "name": "Sandrocks, South",
                 "elevation": 4420,
                 "prominence": 120,
                 "source": "loj",
@@ -4730,6 +5062,7 @@
             },
             {
                 "lojID": 62124,
+                "name": "Sandrocks, North",
                 "elevation": 4420,
                 "prominence": 80,
                 "source": "loj",
@@ -4744,6 +5077,7 @@
             },
             {
                 "lojID": 62330,
+                "name": "Holcomb Ridge",
                 "elevation": 4300,
                 "prominence": 240,
                 "source": "loj",
@@ -4758,6 +5092,7 @@
             },
             {
                 "lojID": 59453,
+                "name": "Big John Benchmark",
                 "elevation": 6033,
                 "prominence": 293,
                 "source": "loj",
@@ -4772,6 +5107,7 @@
             },
             {
                 "lojID": 61157,
+                "name": "Pt 4940'",
                 "elevation": 4940,
                 "prominence": 280,
                 "source": "loj",
@@ -4786,6 +5122,7 @@
             },
             {
                 "lojID": 61164,
+                "name": "Alimony Ridge",
                 "elevation": 4939,
                 "prominence": 359,
                 "source": "loj",
@@ -4800,6 +5137,7 @@
             },
             {
                 "lojID": 58722,
+                "name": "Little Williamson",
                 "elevation": 6621,
                 "prominence": 321,
                 "source": "loj",
@@ -4814,6 +5152,7 @@
             },
             {
                 "lojID": 60546,
+                "name": "Pt 5316'",
                 "elevation": 5316,
                 "prominence": 376,
                 "source": "loj",
@@ -4828,6 +5167,7 @@
             },
             {
                 "lojID": 61304,
+                "name": "Devils Punchbowl Overlook",
                 "elevation": 4860,
                 "prominence": 400,
                 "source": "loj",
@@ -4842,6 +5182,7 @@
             },
             {
                 "lojID": 59089,
+                "name": "Pt 6306'",
                 "elevation": 6306,
                 "prominence": 406,
                 "source": "loj",
@@ -4856,6 +5197,7 @@
             },
             {
                 "lojID": 57326,
+                "name": "Pt 8180'",
                 "elevation": 8180,
                 "prominence": 280,
                 "source": "loj",
@@ -4870,6 +5212,7 @@
             },
             {
                 "lojID": 58826,
+                "name": "Pinyon Ridge",
                 "elevation": 6535,
                 "prominence": 155,
                 "source": "loj",
@@ -4884,6 +5227,7 @@
             },
             {
                 "lojID": 60034,
+                "name": "Pt 5660'",
                 "elevation": 5660,
                 "prominence": 320,
                 "source": "loj",
@@ -4903,6 +5247,7 @@
         "peaks": [
             {
                 "lojID": 65795,
+                "name": "Robbs Gulch Point",
                 "elevation": 2759,
                 "prominence": 299,
                 "source": "loj",
@@ -4917,6 +5262,7 @@
             },
             {
                 "lojID": 66251,
+                "name": "Little Burro Peak",
                 "elevation": 2589,
                 "prominence": 289,
                 "source": "loj",
@@ -4931,6 +5277,7 @@
             },
             {
                 "lojID": 63475,
+                "name": "Peacock Saddle Point",
                 "elevation": 3733,
                 "prominence": 313,
                 "source": "loj",
@@ -4945,6 +5292,7 @@
             },
             {
                 "lojID": 57923,
+                "name": "Ross Mountain",
                 "elevation": 7402,
                 "prominence": 142,
                 "source": "loj",
@@ -4959,6 +5307,7 @@
             },
             {
                 "lojID": 60882,
+                "name": "Smith Mountain",
                 "elevation": 5111,
                 "prominence": 811,
                 "source": "loj",
@@ -4973,6 +5322,7 @@
             },
             {
                 "lojID": 59839,
+                "name": "Pigeon Ridge",
                 "elevation": 5780,
                 "prominence": 40,
                 "source": "loj",
@@ -4987,6 +5337,7 @@
             },
             {
                 "lojID": 141135,
+                "name": "\"Bonita Peak\"",
                 "elevation": 3983,
                 "prominence": 3,
                 "source": "loj",
@@ -5001,6 +5352,7 @@
             },
             {
                 "lojID": 57449,
+                "name": "Iron Mountain",
                 "elevation": 8007,
                 "prominence": 707,
                 "source": "loj",
@@ -5015,6 +5367,7 @@
             },
             {
                 "lojID": 61894,
+                "name": "Pine Mountain",
                 "elevation": 4539,
                 "prominence": 399,
                 "source": "loj",
@@ -5029,6 +5382,7 @@
             },
             {
                 "lojID": 152751,
+                "name": "Pt 4660'",
                 "elevation": 4660,
                 "prominence": 280,
                 "source": "loj",
@@ -5043,6 +5397,7 @@
             },
             {
                 "lojID": 59768,
+                "name": "Rattlesnake Peak",
                 "elevation": 5826,
                 "prominence": 926,
                 "source": "loj",
@@ -5057,6 +5412,7 @@
             },
             {
                 "lojID": 64714,
+                "name": "Burro Peak",
                 "elevation": 3200,
                 "prominence": 100,
                 "source": "loj",
@@ -5071,6 +5427,7 @@
             },
             {
                 "lojID": 63953,
+                "name": "Pt 3529'",
                 "elevation": 3529,
                 "prominence": 487,
                 "source": "loj",
@@ -5085,6 +5442,7 @@
             },
             {
                 "lojID": 64170,
+                "name": "Pt 3430'",
                 "elevation": 3430,
                 "prominence": 330,
                 "source": "loj",
@@ -5099,6 +5457,7 @@
             },
             {
                 "lojID": 141137,
+                "name": "Silver Mountain",
                 "elevation": 3385,
                 "prominence": 45,
                 "source": "loj",
@@ -5113,6 +5472,7 @@
             },
             {
                 "lojID": 64434,
+                "name": "Glendora Mountain",
                 "elevation": 3322,
                 "prominence": 182,
                 "source": "loj",
@@ -5127,6 +5487,7 @@
             },
             {
                 "lojID": 63318,
+                "name": "Pt 3812'",
                 "elevation": 3812,
                 "prominence": 352,
                 "source": "loj",
@@ -5141,6 +5502,7 @@
             },
             {
                 "lojID": 63758,
+                "name": "Pt 3619'",
                 "elevation": 3619,
                 "prominence": 439,
                 "source": "loj",
@@ -5155,6 +5517,7 @@
             },
             {
                 "lojID": 65453,
+                "name": "Pt 2885'",
                 "elevation": 2885,
                 "prominence": 305,
                 "source": "loj",
@@ -5169,6 +5532,7 @@
             },
             {
                 "lojID": 65561,
+                "name": "Pt 2843'",
                 "elevation": 2843,
                 "prominence": 503,
                 "source": "loj",
@@ -5183,6 +5547,7 @@
             },
             {
                 "lojID": 60495,
+                "name": "Little Fang",
                 "elevation": 5346,
                 "prominence": 326,
                 "source": "loj",
@@ -5197,6 +5562,7 @@
             },
             {
                 "lojID": 63834,
+                "name": "Burro Ridge",
                 "elevation": 3580,
                 "prominence": 360,
                 "source": "loj",
@@ -5211,6 +5577,7 @@
             },
             {
                 "lojID": 59459,
+                "name": "Vincent Gulch Point",
                 "elevation": 6025,
                 "prominence": 325,
                 "source": "loj",
@@ -5230,6 +5597,7 @@
         "peaks": [
             {
                 "lojID": 66690,
+                "name": "Pt 2420'",
                 "elevation": 2420,
                 "prominence": 320,
                 "source": "loj",
@@ -5244,6 +5612,7 @@
             },
             {
                 "lojID": 63545,
+                "name": "Pt 3702'",
                 "elevation": 3702,
                 "prominence": 322,
                 "source": "loj",
@@ -5258,6 +5627,7 @@
             },
             {
                 "lojID": 61684,
+                "name": "Pt 4654'",
                 "elevation": 4654,
                 "prominence": 714,
                 "source": "loj",
@@ -5272,6 +5642,7 @@
             },
             {
                 "lojID": 62786,
+                "name": "Pt 4065'",
                 "elevation": 4065,
                 "prominence": 285,
                 "source": "loj",
@@ -5286,6 +5657,7 @@
             },
             {
                 "lojID": 66357,
+                "name": "Pt 2543'",
                 "elevation": 2543,
                 "prominence": 283,
                 "source": "loj",
@@ -5300,6 +5672,7 @@
             },
             {
                 "lojID": 62573,
+                "name": "Pt 4177'",
                 "elevation": 4177,
                 "prominence": 437,
                 "source": "loj",
@@ -5319,6 +5692,7 @@
         "peaks": [
             {
                 "lojID": 64879,
+                "name": "Pt 3126'",
                 "elevation": 3126,
                 "prominence": 586,
                 "source": "loj",
@@ -5333,6 +5707,7 @@
             },
             {
                 "lojID": 64747,
+                "name": "Johnstone Peak",
                 "elevation": 3180,
                 "prominence": 640,
                 "source": "loj",
@@ -5352,6 +5727,7 @@
         "peaks": [
             {
                 "lojID": 58518,
+                "name": "Lookout Mountain",
                 "elevation": 6812,
                 "prominence": 152,
                 "source": "loj",
@@ -5366,6 +5742,7 @@
             },
             {
                 "lojID": 58358,
+                "name": "Pt 6930'",
                 "elevation": 6930,
                 "prominence": 390,
                 "source": "loj",
@@ -5380,6 +5757,7 @@
             },
             {
                 "lojID": 57878,
+                "name": "Pine Mountain Ridge",
                 "elevation": 7460,
                 "prominence": 200,
                 "source": "loj",
@@ -5394,6 +5772,7 @@
             },
             {
                 "lojID": 16684,
+                "name": "San Antonio, Mount",
                 "elevation": 10064,
                 "prominence": 6244,
                 "source": "loj",
@@ -5409,6 +5788,7 @@
             },
             {
                 "lojID": 63132,
+                "name": "Hog Back",
                 "elevation": 3900,
                 "prominence": 40,
                 "source": "loj",
@@ -5423,6 +5803,7 @@
             },
             {
                 "lojID": 56685,
+                "name": "Big Horn Ridge",
                 "elevation": 9425,
                 "prominence": 45,
                 "source": "loj",
@@ -5437,6 +5818,7 @@
             },
             {
                 "lojID": 64192,
+                "name": "Potato Mountain",
                 "elevation": 3420,
                 "prominence": 440,
                 "source": "loj",
@@ -5451,6 +5833,7 @@
             },
             {
                 "lojID": 59811,
+                "name": "Sunset Peak",
                 "elevation": 5796,
                 "prominence": 1273,
                 "source": "loj",
@@ -5465,6 +5848,7 @@
             },
             {
                 "lojID": 57636,
+                "name": "San Antonio Ridge",
                 "elevation": 7758,
                 "prominence": 391,
                 "source": "loj",
@@ -5479,6 +5863,7 @@
             },
             {
                 "lojID": 60257,
+                "name": "Colver Peak",
                 "elevation": 5480,
                 "prominence": 440,
                 "source": "loj",
@@ -5498,6 +5883,7 @@
         "peaks": [
             {
                 "lojID": 68076,
+                "name": "Flint Peak",
                 "elevation": 1889,
                 "prominence": 549,
                 "source": "loj",
@@ -5512,6 +5898,7 @@
             },
             {
                 "lojID": 68082,
+                "name": "Cerro Negro Benchmark",
                 "elevation": 1887,
                 "prominence": 547,
                 "source": "loj",
@@ -5531,6 +5918,7 @@
         "peaks": [
             {
                 "lojID": 66094,
+                "name": "Tongva Peak",
                 "elevation": 2656,
                 "prominence": 156,
                 "source": "loj",
@@ -5545,6 +5933,7 @@
             },
             {
                 "lojID": 64842,
+                "name": "Verdugo Mountains (HP)",
                 "elevation": 3140,
                 "prominence": 1364,
                 "source": "loj",
@@ -5564,6 +5953,7 @@
         "peaks": [
             {
                 "lojID": 69665,
+                "name": "Stony Point",
                 "elevation": 1287,
                 "prominence": 175,
                 "source": "loj",
@@ -5578,6 +5968,7 @@
             },
             {
                 "lojID": 152995,
+                "name": "Pt 710'",
                 "elevation": 710,
                 "prominence": 295,
                 "source": "loj",
@@ -5592,6 +5983,7 @@
             },
             {
                 "lojID": 171284,
+                "name": "\"Angels Point\"",
                 "elevation": 670,
                 "prominence": 20,
                 "source": "loj",
@@ -5606,6 +5998,7 @@
             },
             {
                 "lojID": 69939,
+                "name": "Elephant Hill",
                 "elevation": 1170,
                 "prominence": 220,
                 "source": "loj",
@@ -5622,6 +6015,7 @@
             },
             {
                 "lojID": 69438,
+                "name": "Pt 1381'",
                 "elevation": 1381,
                 "prominence": 351,
                 "source": "loj",
@@ -5638,6 +6032,7 @@
             },
             {
                 "lojID": 69840,
+                "name": "South Hills",
                 "elevation": 1212,
                 "prominence": 342,
                 "source": "loj",
@@ -5652,6 +6047,7 @@
             },
             {
                 "lojID": 69467,
+                "name": "Buzzard Peak",
                 "elevation": 1375,
                 "prominence": 380,
                 "source": "loj",
@@ -5668,6 +6064,7 @@
             },
             {
                 "lojID": 69374,
+                "name": "Pt 1416'",
                 "elevation": 1416,
                 "prominence": 546,
                 "source": "loj",
@@ -5682,6 +6079,7 @@
             },
             {
                 "lojID": 69429,
+                "name": "Workman Hill",
                 "elevation": 1389,
                 "prominence": 619,
                 "source": "loj",
@@ -5696,6 +6094,7 @@
             },
             {
                 "lojID": 69337,
+                "name": "Pt 1428'",
                 "elevation": 1428,
                 "prominence": 631,
                 "source": "loj",
@@ -5710,6 +6109,7 @@
             },
             {
                 "lojID": 140386,
+                "name": "Pt 1270'",
                 "elevation": 1270,
                 "prominence": 300,
                 "source": "loj",
@@ -5724,6 +6124,7 @@
             },
             {
                 "lojID": 70860,
+                "name": "Baldwin Benchmark",
                 "elevation": 511,
                 "prominence": 374,
                 "source": "loj",
@@ -5738,6 +6139,7 @@
             },
             {
                 "lojID": 70882,
+                "name": "Olive Hill",
                 "elevation": 490,
                 "prominence": 80,
                 "source": "loj",
@@ -5752,6 +6154,7 @@
             },
             {
                 "lojID": 70575,
+                "name": "Pt 810'",
                 "elevation": 810,
                 "prominence": 360,
                 "source": "loj",
@@ -5771,6 +6174,7 @@
         "peaks": [
             {
                 "lojID": 70957,
+                "name": "Signal Hill",
                 "elevation": 362,
                 "prominence": 290,
                 "source": "loj",
@@ -5785,6 +6189,7 @@
             },
             {
                 "lojID": 70109,
+                "name": "Way Hill",
                 "elevation": 1090,
                 "prominence": 80,
                 "source": "loj",
@@ -5799,6 +6204,7 @@
             },
             {
                 "lojID": 69434,
+                "name": "Indian Hill",
                 "elevation": 1385,
                 "prominence": 10,
                 "source": "loj",
@@ -5813,6 +6219,7 @@
             },
             {
                 "lojID": 70221,
+                "name": "Poppy Peak",
                 "elevation": 1031,
                 "prominence": 131,
                 "source": "loj",
@@ -5827,6 +6234,7 @@
             },
             {
                 "lojID": 70257,
+                "name": "Eagle Rock",
                 "elevation": 1020,
                 "prominence": 40,
                 "source": "loj",
@@ -5841,6 +6249,7 @@
             },
             {
                 "lojID": 70558,
+                "name": "Adams Hill",
                 "elevation": 820,
                 "prominence": 270,
                 "source": "loj",
@@ -5855,6 +6264,7 @@
             },
             {
                 "lojID": 69670,
+                "name": "San Tuze Benchmark",
                 "elevation": 1284,
                 "prominence": 294,
                 "source": "loj",
@@ -5869,6 +6279,7 @@
             },
             {
                 "lojID": 69232,
+                "name": "San Pedro Hill",
                 "elevation": 1470,
                 "prominence": 1368,
                 "source": "loj",
@@ -5883,6 +6294,7 @@
             },
             {
                 "lojID": 70327,
+                "name": "Washington, Mount",
                 "elevation": 960,
                 "prominence": 410,
                 "source": "loj",
@@ -5897,6 +6309,7 @@
             },
             {
                 "lojID": 70564,
+                "name": "Grace Hill",
                 "elevation": 820,
                 "prominence": 30,
                 "source": "loj",
@@ -5911,6 +6324,7 @@
             },
             {
                 "lojID": 71021,
+                "name": "Dominguez Hills",
                 "elevation": 197,
                 "prominence": 105,
                 "source": "loj",
@@ -5925,6 +6339,7 @@
             },
             {
                 "lojID": 68263,
+                "name": "Pt 1780'",
                 "elevation": 1780,
                 "prominence": 440,
                 "source": "loj",
@@ -5939,6 +6354,7 @@
             },
             {
                 "lojID": 152991,
+                "name": "Pt 1570'",
                 "elevation": 1570,
                 "prominence": 480,
                 "source": "loj",
@@ -5953,6 +6369,7 @@
             },
             {
                 "lojID": 70577,
+                "name": "Pt 809'",
                 "elevation": 809,
                 "prominence": 359,
                 "source": "loj",
@@ -5967,6 +6384,7 @@
             },
             {
                 "lojID": 70662,
+                "name": "Pt 736'",
                 "elevation": 736,
                 "prominence": 326,
                 "source": "loj",
@@ -5986,6 +6404,7 @@
         "peaks": [
             {
                 "lojID": 69618,
+                "name": "Whitleys Peak",
                 "elevation": 1302,
                 "prominence": 177,
                 "source": "loj",
@@ -6000,6 +6419,7 @@
             },
             {
                 "lojID": 70128,
+                "name": "Eagles Nest",
                 "elevation": 1075,
                 "prominence": 100,
                 "source": "loj",
@@ -6014,6 +6434,7 @@
             },
             {
                 "lojID": 69556,
+                "name": "Torquemada, Mount",
                 "elevation": 1336,
                 "prominence": 161,
                 "source": "loj",
@@ -6028,6 +6449,7 @@
             },
             {
                 "lojID": 70596,
+                "name": "Ribbon Rock",
                 "elevation": 782,
                 "prominence": 7,
                 "source": "loj",
@@ -6042,6 +6464,7 @@
             },
             {
                 "lojID": 70854,
+                "name": "Catalina Head",
                 "elevation": 525,
                 "prominence": 150,
                 "source": "loj",
@@ -6056,6 +6479,7 @@
             },
             {
                 "lojID": 68674,
+                "name": "East Peak Benchmark",
                 "elevation": 1684,
                 "prominence": 609,
                 "source": "loj",
@@ -6070,6 +6494,7 @@
             },
             {
                 "lojID": 146881,
+                "name": "Silver Benchmark",
                 "elevation": 1671,
                 "prominence": 346,
                 "source": "loj",
@@ -6084,6 +6509,7 @@
             },
             {
                 "lojID": 17550,
+                "name": "Orizaba, Mount",
                 "elevation": 2125,
                 "prominence": 2125,
                 "source": "loj",
@@ -6098,6 +6524,7 @@
             },
             {
                 "lojID": 67748,
+                "name": "Black Jack Mountain",
                 "elevation": 2010,
                 "prominence": 395,
                 "source": "loj",
@@ -6112,6 +6539,7 @@
             },
             {
                 "lojID": 68699,
+                "name": "Pt 1675'",
                 "elevation": 1675,
                 "prominence": 300,
                 "source": "loj",
@@ -6126,6 +6554,7 @@
             },
             {
                 "lojID": 69793,
+                "name": "Pt 1236'",
                 "elevation": 1236,
                 "prominence": 511,
                 "source": "loj",
@@ -6140,6 +6569,7 @@
             },
             {
                 "lojID": 146880,
+                "name": "Pt 1075'",
                 "elevation": 1075,
                 "prominence": 350,
                 "source": "loj",
@@ -6154,6 +6584,7 @@
             },
             {
                 "lojID": 68480,
+                "name": "Pt 1747'",
                 "elevation": 1747,
                 "prominence": 472,
                 "source": "loj",
@@ -6168,6 +6599,7 @@
             },
             {
                 "lojID": 68538,
+                "name": "Banning, Mount",
                 "elevation": 1734,
                 "prominence": 309,
                 "source": "loj",
@@ -6182,6 +6614,7 @@
             },
             {
                 "lojID": 68697,
+                "name": "Pt 1675'",
                 "elevation": 1675,
                 "prominence": 400,
                 "source": "loj",
@@ -6196,6 +6629,7 @@
             },
             {
                 "lojID": 68978,
+                "name": "Cactus Peak",
                 "elevation": 1560,
                 "prominence": 385,
                 "source": "loj",
@@ -6210,6 +6644,7 @@
             },
             {
                 "lojID": 68325,
+                "name": "Silver Peak",
                 "elevation": 1804,
                 "prominence": 1779,
                 "source": "loj",
@@ -6224,6 +6659,7 @@
             },
             {
                 "lojID": 68414,
+                "name": "Pt 1776'",
                 "elevation": 1776,
                 "prominence": 351,
                 "source": "loj",
@@ -6259,6 +6695,7 @@
         "peaks": [
             {
                 "lojID": 65611,
+                "name": "Castro Peak",
                 "elevation": 2824,
                 "prominence": 1034,
                 "source": "loj",
@@ -6273,6 +6710,7 @@
             },
             {
                 "lojID": 69234,
+                "name": "Pomona Benchmark",
                 "elevation": 1470,
                 "prominence": 340,
                 "source": "loj",
@@ -6294,6 +6732,7 @@
         "peaks": [
             {
                 "lojID": 64775,
+                "name": "Mount Mesa",
                 "elevation": 3175,
                 "prominence": 45,
                 "source": "loj",
@@ -6308,6 +6747,7 @@
             },
             {
                 "lojID": 67843,
+                "name": "San Clemente Island",
                 "elevation": 1965,
                 "prominence": 1965,
                 "source": "loj",

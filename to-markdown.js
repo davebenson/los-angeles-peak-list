@@ -7,6 +7,6 @@ regions.forEach((region) => {
   console.log('| Name | Elevation | Prominence | Map | Link |');
   console.log('| --- | --- | --- | --- | --- |');
   region.peaks.forEach((peak) => {
-    console.log(`| ${peak.name} | ${peak.elevation} | ${peak.prominence} | ${peak.quadrangles.join(', ')} | [caltopo](http://http://caltopo.com/map.html#ll=${peak.latitude},${peak.longitude}&z=12&b=t) |`);
+    console.log(`| ${peak.name} | ${peak.elevation}' | ${peak.prominence}' | ${peak.quadrangles.join(', ')} | [caltopo](http://http://caltopo.com/map.html#ll=${peak.latitude},${peak.longitude}&z=12&b=t) |`);
   });
 });
