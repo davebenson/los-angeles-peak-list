@@ -1080,7 +1080,7 @@
             },
             {
                 "lojID": 61515,
-                "name": "Pines, Mount",
+                "name": "Mount Pines",
                 "elevation": 4740,
                 "prominence": 360,
                 "source": "loj",
@@ -1168,6 +1168,10 @@
                 "date": "2012-03-11",
                 "latitude": 34.6828,
                 "longitude": -118.5762,
+                "hps": {
+                    "section": "8",
+                    "peak": "b"
+                },
                 "quadrangles": [
                     "Burnt Peak"
                 ],
@@ -1183,6 +1187,10 @@
                 "source": "loj",
                 "lojIsolation": 0.68,
                 "date": "2007-10-20",
+                "hps": {
+                    "section": "8",
+                    "peak": "a"
+                },
                 "quadrangles": [
                     "Liebre Mountain"
                 ],
@@ -1192,7 +1200,7 @@
             },
             {
                 "lojID": 60759,
-                "name": "McDill, Mount",
+                "name": "Mount McDill",
                 "elevation": 5187,
                 "prominence": 767,
                 "source": "loj",
@@ -1200,6 +1208,10 @@
                 "date": "2010-12-04",
                 "latitude": 34.5663, 
                 "longitude": -118.2753,
+                "hps": {
+                    "section": "8",
+                    "peak": "d"
+                },
                 "quadrangles": [
                     "Sleepy Valley"
                 ],
@@ -1737,6 +1749,10 @@
                 "source": "loj",
                 "lojIsolation": 1.15,
                 "date": "",
+                "hps": {
+                    "section": "8",
+                    "peak": "e"
+                },
                 "quadrangles": [
                     "Burnt Peak"
                 ],
@@ -1767,6 +1783,10 @@
                 "source": "loj",
                 "lojIsolation": 1.73,
                 "date": "",
+                "hps": {
+                    "section": "8",
+                    "peak": "c"
+                },
                 "quadrangles": [
                     "Burnt Peak"
                 ],
@@ -2938,7 +2958,7 @@
             },
             {
                 "lojID": 68643,
-                "name": "Lee, Mount",
+                "name": "Mount Lee",
                 "elevation": 1700,
                 "prominence": 40,
                 "source": "loj",
@@ -2953,7 +2973,7 @@
             },
             {
                 "lojID": 68811,
-                "name": "Hollywood, Mount",
+                "name": "Mount Hollywood",
                 "elevation": 1625,
                 "prominence": 245,
                 "source": "loj",
@@ -3035,7 +3055,10 @@
             {
                 "lojID": 60636,
                 "name": "Mendenhall Ridge",
-                "elevation": 5260,
+                "elevation": 5240,
+                "plus": 40,
+                "latitude": 34.3485, 
+                "longitude": -118.2714,
                 "prominence": 280,
                 "source": "loj",
                 "lojIsolation": 2.41,
@@ -3211,6 +3234,8 @@
                 "source": "loj",
                 "lojIsolation": 1.09,
                 "date": "2015-12-26",
+                "latitude":     34.3493,
+                "longitude": -118.3129,
                 "quadrangles": [
                     "Sunland"
                 ],
@@ -3261,6 +3286,10 @@
                 "source": "loj",
                 "lojIsolation": 5.87,
                 "date": "2008-02-27",
+                "hps": {
+                    "section": "10",
+                    "peak": "c"
+                },
                 "quadrangles": [
                     "Pacifico Mountain"
                 ],
@@ -3271,11 +3300,18 @@
             {
                 "lojID": 58809,
                 "name": "Mount Gleason",
-                "elevation": 6540,
+                "elevation": 6520,
+                "plus": 40,
                 "prominence": 1640,
                 "source": "loj",
                 "lojIsolation": 6.1,
                 "date": "2013-11-17",
+                "latitude": 34.3766,
+                "longitude": -118.1777,
+                "hps": {
+                    "section": "9",
+                    "peak": "a"
+                },
                 "quadrangles": [
                     "Acton"
                 ],
@@ -3366,6 +3402,10 @@
                 "source": "loj",
                 "lojIsolation": 2.69,
                 "date": "2008-04-07",
+                "hps": {
+                    "section": "10",
+                    "peak": "d"
+                },
                 "quadrangles": [
                     "Juniper Hills"
                 ],
@@ -3411,11 +3451,25 @@
             {
                 "lojID": 60071,
                 "name": "Iron Mountain",
+                "altName": "Nat Benchmark",
                 "elevation": 5635,
                 "prominence": 577,
                 "source": "loj",
                 "lojIsolation": 2.13,
                 "date": "2008-02-11",
+                "quadrangles": [
+                    "Condor Peak"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "name": "Tin Benchmark",
+                "elevation": 5437,
+                "source": "map",
+                "latitude": 34.3516,
+                "longitude": -118.2469,
                 "quadrangles": [
                     "Condor Peak"
                 ],
@@ -3431,6 +3485,10 @@
                 "source": "loj",
                 "lojIsolation": 1.7,
                 "date": "2008-11-22",
+                "hps": {
+                    "section": "9",
+                    "peak": "c"
+                },
                 "quadrangles": [
                     "Condor Peak"
                 ],
@@ -3461,6 +3519,10 @@
                 "source": "loj",
                 "lojIsolation": 4.08,
                 "date": "2008-03-17",
+                "hps": {
+                    "section": "9",
+                    "peak": "e"
+                },
                 "quadrangles": [
                     "Condor Peak"
                 ],
@@ -3476,6 +3538,10 @@
                 "source": "loj",
                 "lojIsolation": 1.39,
                 "date": "2008-11-22",
+                "hps": {
+                    "section": "9",
+                    "peak": "d"
+                },
                 "quadrangles": [
                     "Condor Peak"
                 ],
@@ -3511,6 +3577,11 @@
                 "source": "loj",
                 "lojIsolation": 2.19,
                 "date": "2015-03-14",
+                "hps": {
+                    "section": "10",
+                    "peak": "e",
+                    "name": "Granite Mountain #1"
+                },
                 "quadrangles": [
                     "Chilao Flat"
                 ],
@@ -3526,6 +3597,11 @@
                 "source": "loj",
                 "lojIsolation": 0.97,
                 "date": "2008-01-19",
+                "hps": {
+                    "section": "10",
+                    "peak": "j",
+                    "name": "Cole Point"
+                },
                 "quadrangles": [
                     "Pacifico Mountain"
                 ],
@@ -3779,6 +3855,10 @@
             {
                 "lojID": 141025,
                 "name": "Old Mount Emma",
+                "hps": {
+                    "section": "10",
+                    "peak": "b"
+                },
                 "elevation": 5063,
                 "prominence": 243,
                 "source": "loj",
@@ -3794,11 +3874,17 @@
             {
                 "lojID": 60969,
                 "name": "Iron Mountain",
-                "elevation": 5060,
+                "elevation": 5040,
+                "plus": 40,
                 "prominence": 320,
                 "source": "loj",
                 "lojIsolation": 2.52,
                 "date": "2015-03-14",
+                "hps": {
+                    "section": "10",
+                    "peak": "e",
+                    "name": "Iron Mountain #3"
+                },
                 "quadrangles": [
                     "Chilao Flat"
                 ],
@@ -3814,6 +3900,11 @@
                 "source": "loj",
                 "lojIsolation": 1.71,
                 "date": "2015-03-14",
+                "hps": {
+                    "section": "10",
+                    "peak": "f",
+                    "name": "Rabbit Peak #1"
+                },
                 "quadrangles": [
                     "Chilao Flat"
                 ],
@@ -3829,6 +3920,11 @@
                 "source": "loj",
                 "lojIsolation": 1.33,
                 "date": "2015-03-14",
+                "hps": {
+                    "section": "10",
+                    "peak": "f",
+                    "name": "Round Top"
+                },
                 "quadrangles": [
                     "Chilao Flat"
                 ],
@@ -3838,7 +3934,7 @@
             },
             {
                 "lojID": 61183,
-                "name": "McKinley, Mount",
+                "name": "Mount McKinley",
                 "elevation": 4926,
                 "prominence": 266,
                 "source": "loj",
@@ -3868,12 +3964,16 @@
             },
             {
                 "lojID": 60604,
-                "name": "Emma, Mount",
+                "name": "Mount Emma",
                 "elevation": 5273,
                 "prominence": 773,
                 "source": "loj",
                 "lojIsolation": 2.7,
                 "date": "2008-01-19",
+                "hps": {
+                    "section": "10",
+                    "peak": "a"
+                },
                 "quadrangles": [
                     "Pacifico Mountain"
                 ],
@@ -3888,12 +3988,14 @@
         "peaks": [
             {
                 "lojID": 61559,
-                "name": "Pt 4711'",
+                "name": "Switzer Point",
                 "elevation": 4711,
                 "prominence": 291,
                 "source": "loj",
                 "lojIsolation": 1.74,
                 "date": "",
+                "latitude":     34.2601,
+                "longitude": -118.1325,
                 "quadrangles": [
                     "Condor Peak"
                 ],
@@ -3903,12 +4005,16 @@
             },
             {
                 "lojID": 60117,
-                "name": "Lowe, Mount",
+                "name": "Mount Lowe",
                 "elevation": 5603,
                 "prominence": 263,
                 "source": "loj",
                 "lojIsolation": 0.52,
                 "date": "2003-11-23",
+                "hps": {
+                    "section": "12",
+                    "peak": "e"
+                },
                 "quadrangles": [
                     "Mount Wilson"
                 ],
@@ -3933,7 +4039,7 @@
             },
             {
                 "lojID": null,
-                "name": "Fuji, Mount",
+                "name": "Mount Fuji",
                 "elevation": 3681,
                 "prominence": 101,
                 "source": "Local legend; Fuji Camp is still the name of the upper campsite at Henninger Flats.",
@@ -3949,12 +4055,17 @@
             },
             {
                 "lojID": 60368,
-                "name": "Harvard, Mount",
+                "name": "Mount Harvard",
                 "elevation": 5441,
                 "prominence": 301,
                 "source": "loj",
                 "lojIsolation": 1.94,
                 "date": "2016-05-07",
+                "hps": {
+                    "section": "12",
+                    "peak": "h",
+                    "delisted": true
+                },
                 "quadrangles": [
                     "Mount Wilson"
                 ],
@@ -4045,6 +4156,10 @@
                 "source": "loj",
                 "lojIsolation": 3.04,
                 "date": "2012-04-01",
+                "hps": {
+                    "section": "12",
+                    "peak": "c"
+                },
                 "quadrangles": [
                     "Mount Wilson"
                 ],
@@ -4060,6 +4175,10 @@
                 "source": "loj",
                 "lojIsolation": 1,
                 "date": "2016-01-02",
+                "hps": {
+                    "section": "12",
+                    "peak": "a"
+                },
                 "quadrangles": [
                     "Mount Wilson"
                 ],
@@ -4075,6 +4194,10 @@
                 "source": "loj",
                 "lojIsolation": 0.45,
                 "date": "2015-07-11",
+                "hps": {
+                    "section": "12",
+                    "peak": "d"
+                },
                 "quadrangles": [
                     "Mount Wilson"
                 ],
@@ -4090,6 +4213,10 @@
                 "source": "loj",
                 "lojIsolation": 0.44,
                 "date": "2007-10-07",
+                "hps": {
+                    "section": "12",
+                    "peak": "b"
+                },
                 "quadrangles": [
                     "Mount Wilson"
                 ],
@@ -4105,6 +4232,10 @@
                 "source": "loj",
                 "lojIsolation": 0.89,
                 "date": "2016-05-05",
+                "hps": {
+                    "section": "12",
+                    "peak": "f"
+                },
                 "quadrangles": [
                     "Mount Wilson"
                 ],
@@ -4120,6 +4251,10 @@
                 "source": "loj",
                 "lojIsolation": 1.49,
                 "date": "0000-00-00",
+                "hps": {
+                    "section": "12",
+                    "peak": "g"
+                },
                 "quadrangles": [
                     "Mount Wilson"
                 ],
@@ -4240,6 +4375,10 @@
                 "source": "loj",
                 "lojIsolation": 5.07,
                 "date": "2014-02-01",
+                "hps": {
+                    "section": "15",
+                    "peak": "a"
+                },
                 "quadrangles": [
                     "Azusa"
                 ],
@@ -4260,6 +4399,8 @@
                 "source": "loj",
                 "lojIsolation": 1.02,
                 "date": "",
+                "latitude":34.2685,
+                "longitude": -118.1215,
                 "quadrangles": [
                     "Chilao Flat"
                 ],
@@ -4275,6 +4416,10 @@
                 "source": "loj",
                 "lojIsolation": 1.91,
                 "date": "2008-09-17",
+                "hps": {
+                    "section": "11",
+                    "peak": "a"
+                },
                 "quadrangles": [
                     "Condor Peak"
                 ],
@@ -4284,12 +4429,16 @@
             },
             {
                 "lojID": 60415,
-                "name": "Sally, Mount",
+                "name": "Mount Sally",
                 "elevation": 5408,
                 "prominence": 468,
                 "source": "loj",
                 "lojIsolation": 1.18,
                 "date": "2015-05-23",
+                "hps": {
+                    "section": "11",
+                    "peak": "e"
+                },
                 "quadrangles": [
                     "Chilao Flat"
                 ],
@@ -4335,6 +4484,12 @@
                 "source": "loj",
                 "lojIsolation": 6.72,
                 "date": "2008-03-31",
+                "latitude": 34.2835,
+                "longitude": -118.1204,
+                "hps": {
+                    "section": "11",
+                    "peak": "b"
+                },
                 "quadrangles": [
                     "Chilao Flat"
                 ],
@@ -4344,12 +4499,16 @@
             },
             {
                 "lojID": 59566,
-                "name": "Lawlor, Mount",
+                "name": "Mount Lawlor",
                 "elevation": 5957,
                 "prominence": 737,
                 "source": "loj",
                 "lojIsolation": 1.3,
                 "date": "2008-09-17",
+                "hps": {
+                    "section": "11",
+                    "peak": "c"
+                },
                 "quadrangles": [
                     "Chilao Flat"
                 ],
@@ -4365,6 +4524,10 @@
                 "source": "loj",
                 "lojIsolation": 1.47,
                 "date": "2008-01-11",
+                "hps": {
+                    "section": "11",
+                    "peak": "d"
+                },
                 "quadrangles": [
                     "Chilao Flat"
                 ],
@@ -4405,7 +4568,7 @@
             },
             {
                 "lojID": 63508,
-                "name": "Bliss, Mount",
+                "name": "Mount Bliss",
                 "elevation": 3720,
                 "prominence": 500,
                 "source": "loj",
@@ -4582,6 +4745,10 @@
             {
                 "lojID": 58278,
                 "name": "Winston Ridge",
+                "hps": {
+                    "section": "13",
+                    "peak": "i"
+                },
                 "elevation": 7003,
                 "prominence": 343,
                 "source": "loj",
@@ -4597,6 +4764,10 @@
             {
                 "lojID": 58017,
                 "name": "Mount Akawie",
+                "hps": {
+                    "section": "13",
+                    "peak": "b"
+                },
                 "elevation": 7283,
                 "prominence": 343,
                 "source": "loj",
@@ -4617,6 +4788,10 @@
                 "source": "loj",
                 "lojIsolation": 1.77,
                 "date": "2016-04-03",
+                "hps": {
+                    "section": "16",
+                    "peak": "l"
+                },
                 "quadrangles": [
                     "Mount San Antonio"
                 ],
@@ -4641,12 +4816,16 @@
             },
             {
                 "lojID": 17088,
-                "name": "Baden-Powell, Mount",
+                "name": "Mount Baden-Powell",
                 "elevation": 9399,
                 "prominence": 2819,
                 "source": "loj",
                 "lojIsolation": 7.53,
                 "date": "2008-06-04",
+                "hps": {
+                    "section": "14",
+                    "peak": "i"
+                },
                 "quadrangles": [
                     "Crystal Lake"
                 ],
@@ -4662,6 +4841,10 @@
                 "source": "loj",
                 "lojIsolation": 2.06,
                 "date": "2008-05-12",
+                "hps": {
+                    "section": "14",
+                    "peak": "g"
+                },
                 "quadrangles": [
                     "Crystal Lake"
                 ],
@@ -4671,12 +4854,16 @@
             },
             {
                 "lojID": 56875,
-                "name": "Burnham, Mount",
+                "name": "Mount Burnham",
                 "elevation": 8997,
                 "prominence": 177,
                 "source": "loj",
                 "lojIsolation": 0.98,
                 "date": "2008-06-04",
+                "hps": {
+                    "section": "14",
+                    "peak": "h"
+                },
                 "quadrangles": [
                     "Crystal Lake"
                 ],
@@ -4686,12 +4873,16 @@
             },
             {
                 "lojID": 56949,
-                "name": "Hawkins, Mount",
+                "name": "Mount Hawkins",
                 "elevation": 8850,
                 "prominence": 110,
                 "source": "loj",
                 "lojIsolation": 0.73,
                 "date": "2008-05-12",
+                "hps": {
+                    "section": "14",
+                    "peak": "f"
+                },
                 "quadrangles": [
                     "Crystal Lake"
                 ],
@@ -4707,6 +4898,10 @@
                 "source": "loj",
                 "lojIsolation": 1.38,
                 "date": "2008-05-12",
+                "hps": {
+                    "section": "14",
+                    "peak": "e"
+                },
                 "quadrangles": [
                     "Crystal Lake"
                 ],
@@ -4716,12 +4911,16 @@
             },
             {
                 "lojID": 57191,
-                "name": "Lewis, Mount",
+                "name": "Mount Lewis",
                 "elevation": 8396,
                 "prominence": 493,
                 "source": "loj",
                 "lojIsolation": 1.52,
                 "date": "2008-09-12",
+                "hps": {
+                    "section": "13",
+                    "peak": "g"
+                },
                 "quadrangles": [
                     "Crystal Lake"
                 ],
@@ -4731,12 +4930,18 @@
             },
             {
                 "lojID": 57283,
-                "name": "Islip, Mount",
+                "name": "Mount Islip",
+                "hps": {
+                    "section": "14",
+                    "peak": "c"
+                },
                 "elevation": 8250,
                 "prominence": 662,
                 "source": "loj",
                 "lojIsolation": 2.35,
                 "date": "2008-10-20",
+                "latitude":     34.3450,
+                "longitude": -117.8399,
                 "quadrangles": [
                     "Crystal Lake"
                 ],
@@ -4746,12 +4951,16 @@
             },
             {
                 "lojID": 57285,
-                "name": "Williamson, Mount",
+                "name": "Mount Williamson",
                 "elevation": 8248,
                 "prominence": 1588,
                 "source": "loj",
                 "lojIsolation": 2.51,
                 "date": "2014-08-23",
+                "hps": {
+                    "section": "13",
+                    "peak": "f"
+                },
                 "quadrangles": [
                     "Valyermo"
                 ],
@@ -4782,6 +4991,10 @@
                 "source": "loj",
                 "lojIsolation": 4.95,
                 "date": "2008-11-10",
+                "hps": {
+                    "section": "14",
+                    "peak": "a"
+                },
                 "quadrangles": [
                     "Waterman Mountain"
                 ],
@@ -4807,12 +5020,19 @@
             },
             {
                 "lojID": 57461,
-                "name": "Pallett Benchmark",
+                "name": "Pleasant View Ridge",
+                "altName": "Pallett Benchmark",
                 "elevation": 7983,
                 "prominence": 1024,
                 "source": "loj",
                 "lojIsolation": 2.79,
                 "date": "2008-06-08",
+                "latitude":     34.3900,
+                "longitude": -117.9093,
+                "hps": {
+                    "section": "13",
+                    "peak": "c"
+                },
                 "quadrangles": [
                     "Juniper Hills"
                 ],
@@ -4828,6 +5048,12 @@
                 "source": "loj",
                 "lojIsolation": 0.55,
                 "date": "2008-06-08",
+                "latitude":     34.3844,
+                "longitude": -117.9025,
+                "hps": {
+                    "section": "13",
+                    "peak": "d"
+                },
                 "quadrangles": [
                     "Juniper Hills"
                 ],
@@ -4843,6 +5069,10 @@
                 "source": "loj",
                 "lojIsolation": 2.77,
                 "date": "2008-05-12",
+                "hps": {
+                    "section": "14",
+                    "peak": "d"
+                },
                 "quadrangles": [
                     "Crystal Lake"
                 ],
@@ -4858,6 +5088,12 @@
                 "source": "loj",
                 "lojIsolation": 1.38,
                 "date": "2014-08-23",
+                "latitude":     34.3856,
+                "longitude": -117.8859,
+                "hps": {
+                    "section": "13",
+                    "peak": "e"
+                },
                 "quadrangles": [
                     "Juniper Hills"
                 ],
@@ -4868,6 +5104,10 @@
             {
                 "lojID": 57632,
                 "name": "Twin Peaks, East",
+                "hps": {
+                    "section": "14",
+                    "peak": "b"
+                },
                 "elevation": 7761,
                 "prominence": 1221,
                 "source": "loj",
@@ -4903,6 +5143,10 @@
                 "source": "loj",
                 "lojIsolation": 1.1,
                 "date": "2008-08-27",
+                "hps": {
+                    "section": "13",
+                    "peak": "k"
+                },
                 "quadrangles": [
                     "Waterman Mountain"
                 ],
@@ -4918,6 +5162,10 @@
                 "source": "loj",
                 "lojIsolation": 2.24,
                 "date": "2008-05-09",
+                "hps": {
+                    "section": "14",
+                    "peak": "k"
+                },
                 "quadrangles": [
                     "Waterman Mountain"
                 ],
@@ -4933,6 +5181,10 @@
                 "source": "loj",
                 "lojIsolation": 1.52,
                 "date": "2008-05-09",
+                "hps": {
+                    "section": "13",
+                    "peak": "a"
+                },
                 "quadrangles": [
                     "Waterman Mountain"
                 ],
@@ -4948,6 +5200,10 @@
                 "source": "loj",
                 "lojIsolation": 1.42,
                 "date": "2008-05-12",
+                "hps": {
+                    "section": "14",
+                    "peak": "l"
+                },
                 "quadrangles": [
                     "Crystal Lake"
                 ],
@@ -5002,12 +5258,16 @@
             },
             {
                 "lojID": 59720,
-                "name": "Mooney, Mount",
+                "name": "Mount Mooney",
                 "elevation": 5860,
                 "prominence": 240,
                 "source": "loj",
                 "lojIsolation": 0.89,
                 "date": "2015-05-23",
+                "hps": {
+                    "section": "11",
+                    "peak": "g"
+                },
                 "quadrangles": [
                     "Chilao Flat"
                 ],
@@ -5017,12 +5277,17 @@
             },
             {
                 "lojID": 59201,
-                "name": "Mount Hillyer",
-                "elevation": 6220,
+                "name": "Mount Hillyer Highpoint",
+                "elevation": 6200, "plus": 40,
                 "prominence": 320,
                 "source": "loj",
                 "lojIsolation": 2.65,
                 "date": "2008-01-18",
+                "hps": {
+                    "section": "10",
+                    "peak": "i",
+                    "name": "Mount Hillyer"
+                },
                 "quadrangles": [
                     "Chilao Flat"
                 ],
@@ -5032,7 +5297,7 @@
             },
             {
                 "lojID": 59295,
-                "name": "Hillyer, Mount",
+                "name": "Mount Hillyer",
                 "elevation": 6162,
                 "prominence": 22,
                 "source": "loj",
@@ -5053,6 +5318,11 @@
                 "source": "loj",
                 "lojIsolation": 3.38,
                 "date": "2015-07-05",
+                "hps": {
+                    "section": "11",
+                    "peak": "f",
+                    "name": "Vetter Mountain (LO)"
+                },
                 "quadrangles": [
                     "Chilao Flat"
                 ],
@@ -5083,6 +5353,11 @@
                 "source": "loj",
                 "lojIsolation": 2.24,
                 "date": "",
+                "hps": {
+                    "section": "13",
+                    "peak": "j",
+                    "delisted": true
+                },
                 "quadrangles": [
                     "Mescal Creek"
                 ],
@@ -5208,6 +5483,8 @@
                 "source": "loj",
                 "lojIsolation": 3.02,
                 "date": "",
+                "latitude": 34.4528,
+                "longitude": -117.9919,
                 "quadrangles": [
                     "Juniper Hills"
                 ],
@@ -5298,6 +5575,10 @@
                 "source": "loj",
                 "lojIsolation": 2.59,
                 "date": "",
+                "hps": {
+                    "section": "13",
+                    "peak": "h"
+                },
                 "quadrangles": [
                     "Valyermo"
                 ],
@@ -5378,6 +5659,10 @@
                 "source": "loj",
                 "lojIsolation": 2.39,
                 "date": "2008-06-04",
+                "hps": {
+                    "section": "14",
+                    "peak": "j"
+                },
                 "quadrangles": [
                     "Crystal Lake"
                 ],
@@ -5393,6 +5678,10 @@
                 "source": "loj",
                 "lojIsolation": 3.7,
                 "date": "2013-02-06",
+                "hps": {
+                    "section": "15",
+                    "peak": "b"
+                },
                 "quadrangles": [
                     "Crystal Lake"
                 ],
@@ -5438,6 +5727,10 @@
                 "source": "loj",
                 "lojIsolation": 3.84,
                 "date": "2008-04-09",
+                "hps": {
+                    "section": "15",
+                    "peak": "d"
+                },
                 "quadrangles": [
                     "Mount San Antonio"
                 ],
@@ -5483,6 +5776,10 @@
                 "source": "loj",
                 "lojIsolation": 3.34,
                 "date": "2008-12-05",
+                "hps": {
+                    "section": "15",
+                    "peak": "c"
+                },
                 "quadrangles": [
                     "Crystal Lake"
                 ],
@@ -5813,6 +6110,10 @@
                 "source": "loj",
                 "lojIsolation": 0.43,
                 "date": "2015-11-14",
+                "hps": {
+                    "section": "15",
+                    "peak": "e"
+                },
                 "quadrangles": [
                     "Mount Baldy"
                 ],
@@ -5822,7 +6123,7 @@
             },
             {
                 "lojID": 58358,
-                "name": "Pt 6930'",
+                "name": "North Lookout Mountain",
                 "elevation": 6930,
                 "prominence": 390,
                 "source": "loj",
@@ -5843,6 +6144,10 @@
                 "source": "loj",
                 "lojIsolation": 2.05,
                 "date": "2014-03-28",
+                "hps": {
+                    "section": "16",
+                    "peak": "k"
+                },
                 "quadrangles": [
                     "Mount San Antonio"
                 ],
@@ -5852,7 +6157,7 @@
             },
             {
                 "lojID": 16684,
-                "name": "San Antonio, Mount",
+                "name": "Mount San Antonio",
                 "elevation": 10064,
                 "prominence": 6244,
                 "source": "loj",
@@ -5919,6 +6224,10 @@
                 "source": "loj",
                 "lojIsolation": 2.76,
                 "date": "2010-03-21",
+                "hps": {
+                    "section": "15",
+                    "peak": "f"
+                },
                 "quadrangles": [
                     "Mount Baldy"
                 ],
@@ -6374,7 +6683,7 @@
             },
             {
                 "lojID": 70327,
-                "name": "Washington, Mount",
+                "name": "Mount Washington",
                 "elevation": 960,
                 "prominence": 410,
                 "source": "loj",
@@ -6514,7 +6823,7 @@
             },
             {
                 "lojID": 69556,
-                "name": "Torquemada, Mount",
+                "name": "Mount Torquemada",
                 "elevation": 1336,
                 "prominence": 161,
                 "source": "loj",
@@ -6589,7 +6898,7 @@
             },
             {
                 "lojID": 17550,
-                "name": "Orizaba, Mount",
+                "name": "Mount Orizaba",
                 "elevation": 2125,
                 "prominence": 2125,
                 "source": "loj",
@@ -6679,7 +6988,7 @@
             },
             {
                 "lojID": 68538,
-                "name": "Banning, Mount",
+                "name": "Mount Banning",
                 "elevation": 1734,
                 "prominence": 309,
                 "source": "loj",
