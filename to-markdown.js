@@ -9,7 +9,7 @@ regions.forEach((region) => {
   region.peaks.forEach((peak) => {
     let links = [];
     if (peak.latitude)
-      links.push(["caltopo", `http://caltopo.com/map.html#ll=${peak.latitude},${peak.longitude}&z=12&b=t)`]);
+      links.push(["caltopo", `http://caltopo.com/map.html#ll=${peak.latitude},${peak.longitude}&z=12&b=t`]);
     if (peak.hps)
       links.push(["hps", `http://www.hundredpeaks.org/guides/${peak.hps.section}${peak.hps.peak}.htm`]);
     let linksStr = links.map((info) => {
