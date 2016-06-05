@@ -10,6 +10,21 @@
                 "source": "loj",
                 "lojIsolation": 4.98,
                 "date": "",
+                "latitude":     34.7766,
+                "longitude": -117.6712,
+                "quadrangles": [
+                    "Jackrabbit Hill"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "name": "Monday Benchmark",
+                "elevation": 3175,
+                "date": "",
+                "latitude": 34.7429,
+                "longitude": -117.7059,
                 "quadrangles": [
                     "Jackrabbit Hill"
                 ],
@@ -69,6 +84,8 @@
                 "source": "loj",
                 "lojIsolation": 5.47,
                 "date": "",
+                "latitude":     34.6448,
+                "longitude": -118.1995,
                 "quadrangles": [
                     "Lancaster West"
                 ],
@@ -152,6 +169,8 @@
                 "source": "loj",
                 "lojIsolation": 6.09,
                 "date": "",
+                "latitude": 34.7983,
+                "longitude": -118.3040,
                 "quadrangles": [
                     "Little Buttes"
                 ],
@@ -324,6 +343,8 @@
                 "source": "loj",
                 "lojIsolation": 5.51,
                 "date": "",
+                "latitude": 34.7047,
+                "longitude": -117.6714,
                 "quadrangles": [
                     "Adobe Mountain"
                 ],
@@ -5999,6 +6020,8 @@
                 "source": "loj",
                 "lojIsolation": 3.34,
                 "date": "2008-12-05",
+                "latitude":     34.2719, 
+                "longitude": -117.7770,
                 "hps": {
                     "section": "15",
                     "peak": "c"
@@ -6162,6 +6185,8 @@
                 "prominence": 326,
                 "source": "loj",
                 "lojIsolation": 0.53,
+                "latitude":     34.2751, 
+                "longitude": -117.7855,
                 "date": "",
                 "quadrangles": [
                     "Crystal Lake"
