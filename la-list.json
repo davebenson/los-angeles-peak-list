@@ -50,15 +50,12 @@
                 ]
             },
             {
-                "lojID": 59365,
-                "name": "Pt 6103'",
-                "elevation": 6103,
-                "prominence": 283,
-                "source": "loj",
-                "lojIsolation": 0.62,
-                "date": "",
+                "name": "Moody Benchmark",
+                "elevation": 3041,
+                "latitude":     34.6081, 
+                "longitude": -117.6884,
                 "quadrangles": [
-                    "Juniper Hills"
+                    "El Mirage"
                 ],
                 "counties": [
                     "Los Angeles"
@@ -87,6 +84,8 @@
                 "source": "loj",
                 "lojIsolation": 1.64,
                 "date": "",
+                "latitude":     34.7440, 
+                "longitude": -118.3789,
                 "quadrangles": [
                     "Lake Hughes"
                 ],
@@ -291,6 +290,8 @@
                 "source": "loj",
                 "lojIsolation": 1.26,
                 "date": "2015-12-24",
+                "latitude":  34.4449,
+                "longitude": -118.3427,
                 "quadrangles": [
                     "Agua Dulce"
                 ],
@@ -434,6 +435,10 @@
                 "date": "",
                 "latitude": 34.6760,
                 "longitude": -117.7983,
+                "lpc": {
+                    "section": 6,
+                    "peak": 1
+                },
                 "quadrangles": [
                     "Hi Vista"
                 ],
@@ -535,12 +540,14 @@
             },
             {
                 "lojID": 63308,
-                "name": "Pt 3819'",
+                "name": "Aliso Canyon Point",
                 "elevation": 3819,
                 "prominence": 519,
                 "source": "loj",
                 "lojIsolation": 2.23,
                 "date": "",
+                "latitude":     34.4371, 
+                "longitude": -118.1626,
                 "quadrangles": [
                     "Acton"
                 ],
@@ -550,12 +557,14 @@
             },
             {
                 "lojID": 63361,
-                "name": "Pt 3788'",
+                "name": "Aliso Canyon Guard",
                 "elevation": 3788,
                 "prominence": 528,
                 "source": "loj",
                 "lojIsolation": 1.07,
                 "date": "",
+                "latitude":     34.4521, 
+                "longitude": -118.1664,
                 "quadrangles": [
                     "Acton"
                 ],
@@ -661,6 +670,8 @@
                 "source": "loj",
                 "lojIsolation": 1.88,
                 "date": "",
+                "latitude": 34.4529,
+                "longitude": -118.3228,
                 "quadrangles": [
                     "Agua Dulce"
                 ],
@@ -941,7 +952,11 @@
                 ],
                 "counties": [
                     "Los Angeles"
-                ]
+                ],
+                "lpc": {
+                    "section": 2,
+                    "peak": 1
+                }
             },
             {
                 "lojID": 62944,
@@ -1200,7 +1215,7 @@
             },
             {
                 "lojID": 60759,
-                "name": "Mount McDill",
+                "name": "6ount McDill",
                 "elevation": 5187,
                 "prominence": 767,
                 "source": "loj",
@@ -1621,12 +1636,14 @@
             },
             {
                 "lojID": 62782,
-                "name": "Pt 4087'",
+                "name": "Middle Portal Ridge",
                 "elevation": 4087,
                 "prominence": 347,
                 "source": "loj",
                 "lojIsolation": 0.75,
                 "date": "",
+                "latitude":     34.6963, 
+                "longitude": -118.4689,
                 "quadrangles": [
                     "Lake Hughes"
                 ],
@@ -1657,6 +1674,8 @@
                 "source": "loj",
                 "lojIsolation": 5.13,
                 "date": "",
+                "latitude":     34.7491, 
+                "longitude": -118.4074,
                 "quadrangles": [
                     "Lake Hughes"
                 ],
@@ -1666,12 +1685,14 @@
             },
             {
                 "lojID": 62895,
-                "name": "Portal Ridge, East",
+                "name": "East Portal Ridge",
                 "elevation": 4007,
                 "prominence": 547,
                 "source": "loj",
                 "lojIsolation": 2.84,
                 "date": "",
+                "latitude":     34.6364, 
+                "longitude": -118.2954,
                 "quadrangles": [
                     "Del Sur"
                 ],
@@ -1687,6 +1708,8 @@
                 "source": "loj",
                 "lojIsolation": 2.03,
                 "date": "",
+                "latitude": 34.7062, 
+                "longitude": -118.5195,
                 "quadrangles": [
                     "Burnt Peak"
                 ],
@@ -1852,7 +1875,11 @@
                 ],
                 "counties": [
                     "Los Angeles"
-                ]
+                ],
+                "lpc": {
+                    "section": 2,
+                    "peak": 3
+                }
             },
             {
                 "lojID": 61961,
@@ -1879,6 +1906,8 @@
                 "source": "loj",
                 "lojIsolation": 2.3,
                 "date": "2016-02-07",
+                "latitude": 34.6660, 
+                "longitude": -118.3694,
                 "quadrangles": [
                     "Del Sur"
                 ],
@@ -1901,7 +1930,11 @@
                 ],
                 "counties": [
                     "Los Angeles"
-                ]
+                ],
+                "lpc": {
+                    "section": 2,
+                    "peak": 2
+                }
             },
             {
                 "lojID": 62095,
@@ -2949,6 +2982,10 @@
                 "source": "loj",
                 "lojIsolation": 6.02,
                 "date": "",
+                "lpc": {
+                    "section": 8,
+                    "peak": 1
+                },
                 "quadrangles": [
                     "Burbank"
                 ],
@@ -2979,6 +3016,10 @@
                 "source": "loj",
                 "lojIsolation": 1.54,
                 "date": "",
+                "lpc": {
+                    "section": 8,
+                    "peak": 2
+                },
                 "quadrangles": [
                     "Burbank"
                 ],
@@ -3175,6 +3216,11 @@
                 "quadrangles": [
                     "San Fernando"
                 ],
+                "lpc": {
+                    "section": 9,
+                    "peak": 1,
+                    "name": "May Peak"
+                },
                 "counties": [
                     "Los Angeles"
                 ]
@@ -3236,6 +3282,11 @@
                 "date": "2015-12-26",
                 "latitude":     34.3493,
                 "longitude": -118.3129,
+                "lpc": {
+                    "section": 9,
+                    "peak": 2,
+                    "name": "May Peak"
+                },
                 "quadrangles": [
                     "Sunland"
                 ],
@@ -3336,10 +3387,24 @@
             },
             {
                 "lojID": null,
+                "name": "Indian Benchmark Point",
+                "elevation": 4600, "plus": 40,
+                "prominence": 40,
+                "source": "map",
+                "latitude": 34.3950,
+                "longitude": -118.2577,
+                "quadrangles": [
+                    "Agua Dulce"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": null,
                 "name": "Indian Benchmark",
                 "elevation": 4542,
                 "prominence": 0,
-                "source": "loj",
                 "latitude": 34.3943,
                 "longitude": -118.256,
                 "quadrangles": [
@@ -3397,15 +3462,35 @@
             {
                 "lojID": 58980,
                 "name": "Bare Mountain",
+                "altName": "Top Benchmark",
                 "elevation": 6388,
                 "prominence": 568,
                 "source": "loj",
                 "lojIsolation": 2.69,
                 "date": "2008-04-07",
+                "latitude":     34.3982, 
+                "longitude": -117.9918,
                 "hps": {
                     "section": "10",
                     "peak": "d"
                 },
+                "quadrangles": [
+                    "Juniper Hills"
+                ],
+                "counties": [
+                    "Los Angeles"
+                ]
+            },
+            {
+                "lojID": 59365,
+                "name": "South Bare Mountain",
+                "elevation": 6103,
+                "prominence": 283,
+                "source": "loj",
+                "lojIsolation": 0.62,
+                "date": "",
+                "latitude": 34.3865,
+                "longitude": -117.9973,
                 "quadrangles": [
                     "Juniper Hills"
                 ],
@@ -3597,6 +3682,8 @@
                 "source": "loj",
                 "lojIsolation": 0.97,
                 "date": "2008-01-19",
+                "latitude":     34.4217,
+                "longitude": -118.0720,
                 "hps": {
                     "section": "10",
                     "peak": "j",
@@ -3686,12 +3773,14 @@
             },
             {
                 "lojID": 59682,
-                "name": "Pt 5881'",
+                "name": "Southeast Cole Point",
                 "elevation": 5881,
                 "prominence": 461,
                 "source": "loj",
                 "lojIsolation": 2.56,
                 "date": "",
+                "latitude": 34.4135,
+                "longitude": -118.0583,
                 "quadrangles": [
                     "Pacifico Mountain"
                 ],
@@ -3701,12 +3790,14 @@
             },
             {
                 "lojID": 59724,
-                "name": "Pt 5860'",
+                "name": "South Cole Point",
                 "elevation": 5860,
                 "prominence": 400,
                 "source": "loj",
                 "lojIsolation": 0.58,
                 "date": "",
+                "latitude": 34.4064,
+                "longitude": -118.0637,
                 "quadrangles": [
                     "Pacifico Mountain"
                 ],
@@ -3940,6 +4031,10 @@
                 "source": "loj",
                 "lojIsolation": 2.12,
                 "date": "2015-03-22",
+                "lpc": {
+                    "section": 9,
+                    "peak": 3
+                },
                 "quadrangles": [
                     "Sunland"
                 ],
@@ -4081,6 +4176,10 @@
                 "source": "loj",
                 "lojIsolation": 1.45,
                 "date": "2015-05-06",
+                "lpc": {
+                    "section": 9,
+                    "peak": 8
+                },
                 "quadrangles": [
                     "Mount Wilson"
                 ],
@@ -4096,6 +4195,10 @@
                 "source": "loj",
                 "lojIsolation": 2.16,
                 "date": "2013-01-21",
+                "lpc": {
+                    "section": 9,
+                    "peak": 6
+                },
                 "quadrangles": [
                     "Mount Wilson"
                 ],
@@ -4111,6 +4214,10 @@
                 "source": "loj",
                 "lojIsolation": 1.92,
                 "date": "2008-01-26",
+                "lpc": {
+                    "section": 9,
+                    "peak": 15
+                },
                 "quadrangles": [
                     "Mount Wilson"
                 ],
@@ -4126,6 +4233,10 @@
                 "source": "loj",
                 "lojIsolation": 1.3,
                 "date": "2008-02-05",
+                "lpc": {
+                    "section": 9,
+                    "peak": 14
+                },
                 "quadrangles": [
                     "Mount Wilson"
                 ],
@@ -4270,6 +4381,10 @@
                 "source": "loj",
                 "lojIsolation": 0.8,
                 "date": "2015-12-27",
+                "lpc": {
+                    "section": 9,
+                    "peak": 9
+                },
                 "quadrangles": [
                     "Mount Wilson"
                 ],
@@ -4300,6 +4415,10 @@
                 "source": "loj",
                 "lojIsolation": 2.7,
                 "date": "2015-02-07",
+                "lpc": {
+                    "section": 9,
+                    "peak": 4
+                },
                 "quadrangles": [
                     "Pasadena"
                 ],
@@ -4315,6 +4434,10 @@
                 "source": "loj",
                 "lojIsolation": 0.59,
                 "date": "2008-11-29",
+                "lpc": {
+                    "section": 9,
+                    "peak": 5
+                },
                 "quadrangles": [
                     "Mount Wilson"
                 ],
@@ -4345,6 +4468,10 @@
                 "source": "loj",
                 "lojIsolation": 1.48,
                 "date": "2008-03-10",
+                "lpc": {
+                    "section": 9,
+                    "peak": 7
+                },
                 "quadrangles": [
                     "Mount Wilson"
                 ],
@@ -4559,6 +4686,8 @@
                 "source": "loj",
                 "lojIsolation": 4.12,
                 "date": "2016-05-20",
+                "latitude": 34.2134,
+                "longitude": -117.8150,
                 "quadrangles": [
                     "Glendora"
                 ],
@@ -4574,6 +4703,12 @@
                 "source": "loj",
                 "lojIsolation": 2.26,
                 "date": "2015-11-22",
+                "latitude":     34.1845,
+                "longitude": -117.9510,
+                "lpc": {
+                    "section": 9,
+                    "peak": 16
+                },
                 "quadrangles": [
                     "Azusa"
                 ],
@@ -4589,6 +4724,8 @@
                 "source": "loj",
                 "lojIsolation": 0.74,
                 "date": "",
+                "latitude":     34.1783,
+                "longitude": -117.9402,
                 "quadrangles": [
                     "Azusa"
                 ],
@@ -4685,6 +4822,10 @@
                 "source": "loj",
                 "lojIsolation": 1.52,
                 "date": "2014-02-01",
+                "lpc": {
+                    "section": 9,
+                    "peak": 10
+                },
                 "quadrangles": [
                     "Azusa"
                 ],
@@ -4715,6 +4856,10 @@
                 "source": "loj",
                 "lojIsolation": 1.71,
                 "date": "2013-09-14",
+                "lpc": {
+                    "section": 9,
+                    "peak": 20
+                },
                 "quadrangles": [
                     "Azusa"
                 ],
@@ -4735,6 +4880,8 @@
                 "source": "loj",
                 "lojIsolation": 1.71,
                 "date": "2015-07-26",
+                "latitude":     34.3533,
+                "longitude": -117.9652,
                 "quadrangles": [
                     "Waterman Mountain"
                 ],
@@ -4754,6 +4901,8 @@
                 "source": "loj",
                 "lojIsolation": 0.89,
                 "date": "2008-05-09",
+                "latitude":     34.3712, 
+                "longitude": -117.9359,
                 "quadrangles": [
                     "Waterman Mountain"
                 ],
@@ -4822,6 +4971,8 @@
                 "source": "loj",
                 "lojIsolation": 7.53,
                 "date": "2008-06-04",
+                "latitude": 34.3585,
+                "longitude": -117.7646,
                 "hps": {
                     "section": "14",
                     "peak": "i"
@@ -4841,6 +4992,8 @@
                 "source": "loj",
                 "lojIsolation": 2.06,
                 "date": "2008-05-12",
+                "latitude": 34.3505,
+                "longitude": -117.7993,
                 "hps": {
                     "section": "14",
                     "peak": "g"
@@ -4860,6 +5013,8 @@
                 "source": "loj",
                 "lojIsolation": 0.98,
                 "date": "2008-06-04",
+                "latitude":     34.3592,
+                "longitude": -117.7815,
                 "hps": {
                     "section": "14",
                     "peak": "h"
@@ -4898,6 +5053,8 @@
                 "source": "loj",
                 "lojIsolation": 1.38,
                 "date": "2008-05-12",
+                "latitude": 34.3348,
+                "longitude": -117.8141,
                 "hps": {
                     "section": "14",
                     "peak": "e"
@@ -4917,6 +5074,8 @@
                 "source": "loj",
                 "lojIsolation": 1.52,
                 "date": "2008-09-12",
+                "latitude":     34.3721,
+                "longitude": -117.8060,
                 "hps": {
                     "section": "13",
                     "peak": "g"
@@ -4976,6 +5135,8 @@
                 "source": "loj",
                 "lojIsolation": 2.08,
                 "date": "2015-04-04",
+                "latitude":     34.3230,
+                "longitude": -117.8148,
                 "quadrangles": [
                     "Crystal Lake"
                 ],
@@ -5069,6 +5230,8 @@
                 "source": "loj",
                 "lojIsolation": 2.77,
                 "date": "2008-05-12",
+                "latitude":     34.3117,
+                "longitude": -117.8105,
                 "hps": {
                     "section": "14",
                     "peak": "d"
@@ -5103,11 +5266,13 @@
             },
             {
                 "lojID": 57632,
-                "name": "Twin Peaks, East",
+                "name": "East Twin Peaks",
                 "hps": {
                     "section": "14",
                     "peak": "b"
                 },
+                "latitude":     34.3159,
+                "longitude": -117.9268,
                 "elevation": 7761,
                 "prominence": 1221,
                 "source": "loj",
@@ -5181,6 +5346,8 @@
                 "source": "loj",
                 "lojIsolation": 1.52,
                 "date": "2008-05-09",
+                "latitude":     34.3584,
+                "longitude": -117.9358,
                 "hps": {
                     "section": "13",
                     "peak": "a"
@@ -5200,6 +5367,8 @@
                 "source": "loj",
                 "lojIsolation": 1.42,
                 "date": "2008-05-12",
+                "latitude":     34.3190,
+                "longitude": -117.7874,
                 "hps": {
                     "section": "14",
                     "peak": "l"
@@ -5213,12 +5382,14 @@
             },
             {
                 "lojID": 57771,
-                "name": "Twin Peaks, West",
+                "name": "West Twin Peaks",
                 "elevation": 7596,
                 "prominence": 256,
                 "source": "loj",
                 "lojIsolation": 0.56,
                 "date": "",
+                "latitude":     34.3153,
+                "longitude": -117.9365,
                 "quadrangles": [
                     "Waterman Mountain"
                 ],
@@ -5264,6 +5435,8 @@
                 "source": "loj",
                 "lojIsolation": 0.89,
                 "date": "2015-05-23",
+                "latitude": 34.3059,
+                "longitude": -118.0075,
                 "hps": {
                     "section": "11",
                     "peak": "g"
@@ -5288,6 +5461,8 @@
                     "peak": "i",
                     "name": "Mount Hillyer"
                 },
+                "latitude": 34.3455,
+                "longitude": -118.0206,
                 "quadrangles": [
                     "Chilao Flat"
                 ],
@@ -5303,6 +5478,8 @@
                 "source": "loj",
                 "lojIsolation": 0.38,
                 "date": "2008-01-18",
+                "latitude":     34.3494,
+                "longitude": -118.0159,
                 "quadrangles": [
                     "Chilao Flat"
                 ],
@@ -5318,6 +5495,8 @@
                 "source": "loj",
                 "lojIsolation": 3.38,
                 "date": "2015-07-05",
+                "latitude":     34.2971,
+                "longitude": -118.0286,
                 "hps": {
                     "section": "11",
                     "peak": "f",
@@ -5338,6 +5517,8 @@
                 "source": "loj",
                 "lojIsolation": 1.87,
                 "date": "",
+                "latitude": 34.2969,
+                "longitude": -117.9957,
                 "quadrangles": [
                     "Waterman Mountain"
                 ],
@@ -5353,6 +5534,8 @@
                 "source": "loj",
                 "lojIsolation": 2.24,
                 "date": "",
+                "latitude": 34.3829,
+                "longitude": -117.6853,
                 "hps": {
                     "section": "13",
                     "peak": "j",
@@ -5367,9 +5550,11 @@
             },
             {
                 "lojID": 59051,
-                "name": "Pt 6340'",
-                "elevation": 6340,
+                "name": "Pt 6320+'",
+                "elevation": 6320, "plus": 40,
                 "prominence": 560,
+                "latitude":     34.3346,
+                "longitude": -117.8916,
                 "source": "loj",
                 "lojIsolation": 0.95,
                 "date": "",
@@ -5383,8 +5568,10 @@
             {
                 "lojID": 57123,
                 "name": "Frost Benchmark",
-                "elevation": 8500,
-                "prominence": 400,
+                "elevation": 8480,
+                "prominence": 380,
+                "latitude":  34.3518,
+                "longitude": -117.6763,
                 "source": "loj",
                 "lojIsolation": 2.69,
                 "date": "",
@@ -5402,12 +5589,14 @@
         "peaks": [
             {
                 "lojID": 62123,
-                "name": "Sandrocks, South",
+                "name": "South Sandrocks",
                 "elevation": 4420,
                 "prominence": 120,
                 "source": "loj",
                 "lojIsolation": 1.11,
                 "date": "",
+                "latitude": 34.4305,
+                "longitude": -117.8649,
                 "quadrangles": [
                     "Valyermo"
                 ],
@@ -5417,12 +5606,14 @@
             },
             {
                 "lojID": 62124,
-                "name": "Sandrocks, North",
+                "name": "North Sandrocks",
                 "elevation": 4420,
                 "prominence": 80,
                 "source": "loj",
                 "lojIsolation": 1.17,
                 "date": "",
+                "latitude": 34.4319, 
+                "longitude": -117.8657,
                 "quadrangles": [
                     "Valyermo"
                 ],
@@ -5438,6 +5629,8 @@
                 "source": "loj",
                 "lojIsolation": 2,
                 "date": "",
+                "latitude": 34.4521,
+                "longitude": -117.8295,
                 "quadrangles": [
                     "Valyermo"
                 ],
@@ -5452,6 +5645,8 @@
                 "prominence": 293,
                 "source": "loj",
                 "lojIsolation": 3.48,
+                "latitude":     34.4202,
+                "longitude": -117.7263,
                 "date": "",
                 "quadrangles": [
                     "Mescal Creek"
@@ -5500,6 +5695,8 @@
                 "source": "loj",
                 "lojIsolation": 1.87,
                 "date": "",
+                "latitude":     34.3889,
+                "longitude": -117.8356,
                 "quadrangles": [
                     "Valyermo"
                 ],
@@ -5515,6 +5712,8 @@
                 "source": "loj",
                 "lojIsolation": 0.95,
                 "date": "",
+                "latitude": 34.4023,
+                "longitude": -117.8319,
                 "quadrangles": [
                     "Valyermo"
                 ],
@@ -5588,12 +5787,14 @@
             },
             {
                 "lojID": 60034,
-                "name": "Pt 5660'",
+                "name": "West Big John Point",
                 "elevation": 5660,
                 "prominence": 320,
                 "source": "loj",
                 "lojIsolation": 4.57,
                 "date": "",
+                "latitude":     34.4236,
+                "longitude": -117.7500,
                 "quadrangles": [
                     "Mescal Creek"
                 ],
@@ -5613,6 +5814,8 @@
                 "prominence": 299,
                 "source": "loj",
                 "lojIsolation": 1.78,
+                "latitude":     34.2311,
+                "longitude": -117.8565,
                 "date": "",
                 "quadrangles": [
                     "Glendora"
@@ -5628,6 +5831,8 @@
                 "prominence": 289,
                 "source": "loj",
                 "lojIsolation": 1.3,
+                "latitude": 34.2478,
+                "longitude": -117.8508,
                 "date": "",
                 "quadrangles": [
                     "Glendora"
@@ -5644,6 +5849,8 @@
                 "source": "loj",
                 "lojIsolation": 3.77,
                 "date": "",
+                "latitude":     34.2191,
+                "longitude": -117.7554,
                 "quadrangles": [
                     "Glendora"
                 ],
@@ -5659,6 +5866,8 @@
                 "source": "loj",
                 "lojIsolation": 2.39,
                 "date": "2008-06-04",
+                "latitude":     34.3248,
+                "longitude": -117.7566,
                 "hps": {
                     "section": "14",
                     "peak": "j"
@@ -5673,10 +5882,13 @@
             {
                 "lojID": 60882,
                 "name": "Smith Mountain",
+                "altName": "Headlee Benchmark",
                 "elevation": 5111,
                 "prominence": 811,
                 "source": "loj",
                 "lojIsolation": 3.7,
+                "latitude":     34.2812,
+                "longitude": -117.8636,
                 "date": "2013-02-06",
                 "hps": {
                     "section": "15",
@@ -5692,11 +5904,12 @@
             {
                 "lojID": 59839,
                 "name": "Pigeon Ridge",
-                "elevation": 5780,
+                "elevation": 5760, "plus": 40,
                 "prominence": 40,
                 "source": "loj",
                 "lojIsolation": 1.3,
                 "date": "",
+                "latitude": 34.2930, "longitude": -117.8119,
                 "quadrangles": [
                     "Crystal Lake"
                 ],
@@ -5712,6 +5925,10 @@
                 "source": "loj",
                 "lojIsolation": 2.42,
                 "date": "2008-04-09",
+                "lpc": {
+                    "section": 9,
+                    "peak": 13
+                },
                 "quadrangles": [
                     "Mount San Antonio"
                 ],
@@ -5746,6 +5963,12 @@
                 "source": "loj",
                 "lojIsolation": 3.57,
                 "date": "",
+                "latitude": 34.2234,
+                "longitude": -117.9019,
+                "lpc": {
+                    "section": 9,
+                    "peak": 11
+                },
                 "quadrangles": [
                     "Azusa"
                 ],
@@ -5795,6 +6018,8 @@
                 "source": "loj",
                 "lojIsolation": 0.69,
                 "date": "",
+                "latitude": 34.2563,
+                "longitude": -117.8454,
                 "quadrangles": [
                     "Crystal Lake"
                 ],
@@ -5840,6 +6065,10 @@
                 "source": "loj",
                 "lojIsolation": 0.23,
                 "date": "2014-03-22",
+                "lpc": {
+                    "section": 9,
+                    "peak": 12
+                },
                 "quadrangles": [
                     "Azusa"
                 ],
@@ -5855,6 +6084,10 @@
                 "source": "loj",
                 "lojIsolation": 2.01,
                 "date": "2016-05-20",
+                "lpc": {
+                    "section": 9,
+                    "peak": 17
+                },
                 "quadrangles": [
                     "Glendora"
                 ],
@@ -6328,6 +6561,10 @@
                 "source": "loj",
                 "lojIsolation": 4.39,
                 "date": "2009-02-15",
+                "lpc": {
+                    "section": 7,
+                    "peak": 1
+                },
                 "quadrangles": [
                     "Burbank"
                 ],
@@ -7044,7 +7281,11 @@
                 ],
                 "counties": [
                     "Los Angeles"
-                ]
+                ],
+                "lpc": {
+                    "section": 5,
+                    "peak": 1
+                }
             },
             {
                 "lojID": 68414,
